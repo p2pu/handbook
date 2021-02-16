@@ -1,6 +1,6 @@
 # Learning Circles Handbook
 
-Learning circles are free facilitated study groups for those who want to learn new things together. This knowledge base is a comprehensive resource about learning circles: how they work, how to start one, and how to enjoy the process! 
+Learning circles are free facilitated study groups for those who want to learn new things together. This knowledge base is a comprehensive resource about learning circles: how they work, how to start one, and how to enjoy the process!
 
 ![](.gitbook/assets/lc-formula.png)
 
