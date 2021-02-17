@@ -6,7 +6,13 @@ This section is designed to help you design and create an online course for lear
 * **Participate in our community:** Course creators are invited to join our community and stay up to date on how their course is being used around the world.
 * **Contribute to an OER ecosystem:** By developing an open educational resource, you’re contributing to an equitable process of knowledge sharing. 
 
-The first thing to do is to familiarize 
+You'll find here the five steps involved in the course creation process:
+
+1. [Understand Learning Circles](understand-learning-circles.md)
+2. [Establish Goals & Outcomes](establish-goals-and-outcomes.md)
+3. [Develop Course Content](develop-course-content.md)
+4. [Publish Your Course](publish-your-course.md)
+5. [Finish and Share](finish-and-share.md)
 
 
 

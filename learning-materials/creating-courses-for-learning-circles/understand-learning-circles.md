@@ -1,4 +1,4 @@
-# Understanding Learning Circles
+# Understand Learning Circles
 
 P2PU champions learning circles because they are an equalizer. Traditional higher education programs can reinforce inequality by creating barriers to access to the people who stand to benefit the most. Online education, while wide-reaching and often free, is still inaccessible to many people and can be intimidating, lonely, or ineffective once you’ve gained access. Learning circles are designed to help people find a supportive environment to learn about a topic they care about, while developing relationships with members of their community along the way. 
 

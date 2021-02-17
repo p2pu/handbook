@@ -33,7 +33,7 @@
     * [Anti-Racism](learning-materials/finding-courses/anti-racism/anti-racism.md)
 * [🚧 Using Courses](learning-materials/using-courses.md)
 * [Creating Courses for Learning Circles](learning-materials/creating-courses-for-learning-circles/README.md)
-  * [Understanding Learning Circles](learning-materials/creating-courses-for-learning-circles/understanding-learning-circles.md)
+  * [Understand Learning Circles](learning-materials/creating-courses-for-learning-circles/understand-learning-circles.md)
   * [Establish Goals & Outcomes](learning-materials/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
   * [Develop Course Content](learning-materials/creating-courses-for-learning-circles/develop-course-content.md)
   * [Publish Your Course](learning-materials/creating-courses-for-learning-circles/publish-your-course.md)
