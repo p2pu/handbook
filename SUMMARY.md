@@ -11,6 +11,7 @@
   * [Energizers](learning-circles/learning-circle-structure/energizers.md)
   * [Reflections](learning-circles/learning-circle-structure/reflections.md)
 * [Courses](learning-circles/courses/README.md)
+  * [Picking a topic](learning-circles/courses/picking-a-topic.md)
   * [Finding Courses](learning-circles/courses/finding-courses/README.md)
     * [OER Sources](learning-circles/courses/finding-courses/oer-sources.md)
   * [Using Courses](learning-circles/courses/using-courses.md)
@@ -24,9 +25,10 @@
 
 ## Facilitation
 
-* [Basic facilitation strategies](facilitation/basic-facilitation-strategies.md)
-* [Learning Circle Checklist](facilitation/learning-circle-checklist.md)
-* [Promote](facilitation/promotion-and-outreach.md)
+* [Basic facilitation strategies](facilitation/basic-facilitation-strategies/README.md)
+  * [Managing difficult discussions](facilitation/basic-facilitation-strategies/managing-difficult-discussions.md)
+* [Learning circle checklist](facilitation/learning-circle-checklist.md)
+* [Promotion](facilitation/promotion-and-outreach.md)
 * [Organizers & Teams](facilitation/organizers/README.md)
   * [🚧 Start a Team](facilitation/organizers/start-a-team.md)
   * [Supporting Facilitators](facilitation/organizers/supporting-facilitators.md)
@@ -34,10 +36,16 @@
 
 ## Tools & Resources
 
----
-
-* [Tools for learning circles](tools-for-learning-circles/README.md)
-  * [Untitled](tools-for-learning-circles/untitled.md)
+* [Tools for learning circles](tools-and-resources/tools-for-learning-circles/README.md)
+  * [Facilitator dashboard](tools-and-resources/tools-for-learning-circles/untitled.md)
+  * [Creating learning circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
+  * [Automated messaging](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
+* [Community Resources](tools-and-resources/community-resources.md)
 
 ## Starting a Community
+
+---
+
+* [Teams](teams.md)
+* [Volunteer-powered programs](volunteer-powered-programs.md)
 

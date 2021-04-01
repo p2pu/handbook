@@ -1,8 +1,4 @@
----
-description: "\U0001F6D1 Still a link dumping ground! \U0001F6D1"
----
-
-# Promote
+# Promotion
 
 ### Page contents:
 
@@ -18,5 +14,7 @@ description: "\U0001F6D1 Still a link dumping ground! \U0001F6D1"
 
 {% embed url="https://docs.google.com/presentation/d/1iN\_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit\#slide=id.g48b0301b60\_0\_153" %}
 
-## Materials for Orgs and Libraries
+{% embed url="https://youtu.be/QEi5\_MJpLMc" %}
+
+
 

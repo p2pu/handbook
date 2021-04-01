@@ -39,7 +39,7 @@ Learners do not need a P2PU account in order to join a learning circle.
 
 To facilitate or organize learning circles, you’ll first need to create a P2PU account, which you can do from the P2PU homepage or [this link](https://learningcircles.p2pu.org/en/accounts/register/?next=/en/login_redirect/).
 
-![P2PU&apos;s account creation page](../.gitbook/assets/image.png)
+![P2PU&apos;s account creation page](../../.gitbook/assets/image.png)
 
 After setting your password you will be logged in and redirected to your learning circle dashboard.
 

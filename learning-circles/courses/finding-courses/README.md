@@ -2,9 +2,9 @@
 
 ### Page contents
 
-1. Common types of online courses
-2. Searching for courses
-3. Evaluating courses
+1. [Common types of online courses](./#common-types-of-online-courses)
+2. [Searching for courses](./#searching-for-courses)
+3. [Evaluating courses](./#evaluating-courses)
 
 ## Common types of online courses
 

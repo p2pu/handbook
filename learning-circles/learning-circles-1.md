@@ -4,9 +4,9 @@ Learning circles are free facilitated study groups for those who want to learn n
 
 A learning circle typically has four components:
 
-1. a [**facilitator**](../facilitation/basic-facilitation-strategies.md) – the person who decides to start the learning circle, who organizes meetings, and who encourages the atmosphere of peer-to-peer learning. Facilitators are not teachers and do not need to be experts in the learning circle topic. 
-2. \*\*\*\*[**learning materials**](courses/finding-courses/) – the guiding source of knowledge, often a free online course or other accessible learning resource
-3. [**learners**]() – a group that meets regularly to work through the learning materials together
+1. a **facilitator** – the person who decides to start the learning circle, who organizes meetings, and who encourages the atmosphere of peer-to-peer learning. Facilitators are not teachers and do not need to be experts in the learning circle topic. 
+2. **learning materials** – the guiding source of knowledge, often a free online course or other accessible learning resource
+3. **learners** – a group that meets regularly to work through the learning materials together
 4. a **dedicated meeting room** – traditionally a reliable in-person space, usually at a public place like a library or community center, but primarily online in 2020 \(see [Virtual Learning Circles](virtual-learning-circles.md)\)
 
 ### **Page Contents:**
@@ -41,16 +41,4 @@ Since starting the program in 2015, we’ve found that learning circles:
 * Invigorate community-based learning in libraries and education centers
 * Create viable alternatives to formal education
 * Support digital inclusion for people new to online learning
-
-## Tools for Learning Circles
-
-When learning circles [first began in Chicago]() in 2015, we didn’t have any tools and software. We just worked with librarians to find online courses and helped them become better facilitators. Over time, as the project has grown, we have iteratively developed a number of tools and resources to create an online ecosystem for learning circle facilitators. 
-
-These tools are designed to improve the experience for facilitators and learners alike. On the one hand, we aim to make organizing face-to-face meetings easier by simplifying promotion, sending reminders, aggregating data, etc. On the other hand, we seek to create a strong, networked, community where a learning circle in one city can benefit, in a small way, from the fact that learning circles are also happening elsewhere. Learning circles have been successful so far not just because we have developed a single resource, but because there is a vibrant community of practice that has formed around a series of tools and resources.
-
-Our tools address the needs of three different groups:
-
-1. \*\*\*\*[**Learners**](). People participating in learning circles.
-2. \*\*\*\*[**Facilitators**](../facilitation/basic-facilitation-strategies.md). People facilitating learning circles.
-3. \*\*\*\*[**Organizers**](../facilitation/organizers/). People organizing several learning circles across a town, city, or country. \(Often the organizer is also a facilitator\).
 
