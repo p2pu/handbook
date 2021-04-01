@@ -4,10 +4,10 @@ Learning circles are free facilitated study groups for those who want to learn n
 
 A learning circle typically has four components:
 
-1. a [**facilitator**](../facilitation/intro-to-facilitation/) – the person who decides to start the learning circle, who organizes meetings, and who encourages the atmosphere of peer-to-peer learning. Facilitators are not teachers and do not need to be experts in the learning circle topic. 
-2. \*\*\*\*[**learning materials**](../learning-materials/finding-courses/) – the guiding source of knowledge, often a free online course or other accessible learning resource
-3. [**learners**](../drafts/intro-to-learners.md) – a group that meets regularly to work through the learning materials together
-4. a **dedicated meeting room** – traditionally a reliable in-person space, usually at a public place like a library or community center, but primarily online in 2020 \(see [Virtual Learning Circles](../facilitation/virtual-learning-circles.md)\)
+1. a [**facilitator**](../facilitation/basic-facilitation-strategies.md) – the person who decides to start the learning circle, who organizes meetings, and who encourages the atmosphere of peer-to-peer learning. Facilitators are not teachers and do not need to be experts in the learning circle topic. 
+2. \*\*\*\*[**learning materials**](courses/finding-courses/) – the guiding source of knowledge, often a free online course or other accessible learning resource
+3. [**learners**]() – a group that meets regularly to work through the learning materials together
+4. a **dedicated meeting room** – traditionally a reliable in-person space, usually at a public place like a library or community center, but primarily online in 2020 \(see [Virtual Learning Circles](virtual-learning-circles.md)\)
 
 ### **Page Contents:**
 
@@ -50,7 +50,7 @@ These tools are designed to improve the experience for facilitators and learners
 
 Our tools address the needs of three different groups:
 
-1. \*\*\*\*[**Learners**](../drafts/intro-to-learners.md). People participating in learning circles.
-2. \*\*\*\*[**Facilitators**](../facilitation/intro-to-facilitation/). People facilitating learning circles.
+1. \*\*\*\*[**Learners**](). People participating in learning circles.
+2. \*\*\*\*[**Facilitators**](../facilitation/basic-facilitation-strategies.md). People facilitating learning circles.
 3. \*\*\*\*[**Organizers**](../facilitation/organizers/). People organizing several learning circles across a town, city, or country. \(Often the organizer is also a facilitator\).
 

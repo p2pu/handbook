@@ -5,41 +5,39 @@
 ## Learning Circles
 
 * [What is a learning circle?](learning-circles/learning-circles-1.md)
-* [Meeting Structure](learning-circles/learning-circle-activities/README.md)
-  * [Check-in + Icebreakers](learning-circles/learning-circle-activities/check-ins.md)
-  * [Learning Formats](learning-circles/learning-circle-activities/learning-formats.md)
-  * [Energizers](learning-circles/learning-circle-activities/energizers.md)
-  * [Reflections](learning-circles/learning-circle-activities/reflections.md)
+* [Typical structure](learning-circles/learning-circle-structure/README.md)
+  * [Check-in + Icebreakers](learning-circles/learning-circle-structure/check-ins.md)
+  * [Learning Formats](learning-circles/learning-circle-structure/learning-formats.md)
+  * [Energizers](learning-circles/learning-circle-structure/energizers.md)
+  * [Reflections](learning-circles/learning-circle-structure/reflections.md)
+* [Courses](learning-circles/courses/README.md)
+  * [Finding Courses](learning-circles/courses/finding-courses/README.md)
+    * [OER Sources](learning-circles/courses/finding-courses/oer-sources.md)
+  * [Using Courses](learning-circles/courses/using-courses.md)
+  * [Creating courses for learning circles](learning-circles/courses/creating-courses-for-learning-circles/README.md)
+    * [Understand Learning Circles](learning-circles/courses/creating-courses-for-learning-circles/understand-learning-circles.md)
+    * [Establish Goals & Outcomes](learning-circles/courses/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
+    * [Develop Course Content](learning-circles/courses/creating-courses-for-learning-circles/develop-course-content.md)
+    * [Publish Your Course](learning-circles/courses/creating-courses-for-learning-circles/publish-your-course.md)
+    * [Finish and Share](learning-circles/courses/creating-courses-for-learning-circles/finish-and-share.md)
+* [Virtual learning circles](learning-circles/virtual-learning-circles.md)
 
 ## Facilitation
 
+* [Basic facilitation strategies](facilitation/basic-facilitation-strategies.md)
 * [Learning Circle Checklist](facilitation/learning-circle-checklist.md)
-* [Virtual Learning Circles](facilitation/virtual-learning-circles.md)
 * [Promote](facilitation/promotion-and-outreach.md)
-* [Facilitators](facilitation/intro-to-facilitation/README.md)
-  * [🚧 Facilitation Training](facilitation/intro-to-facilitation/facilitation-training.md)
 * [Organizers & Teams](facilitation/organizers/README.md)
   * [🚧 Start a Team](facilitation/organizers/start-a-team.md)
   * [Supporting Facilitators](facilitation/organizers/supporting-facilitators.md)
   * [🚧 Finding Volunteers](facilitation/organizers/finding-volunteers.md)
 
-## Learning Materials
+## Tools & Resources
 
-* [🚧 Finding Courses](learning-materials/finding-courses/README.md)
-  * [OER Sources](learning-materials/finding-courses/oer-sources.md)
-  * [🚧 Topic Guides](learning-materials/finding-courses/anti-racism/README.md)
-    * [Digital Literacy](learning-materials/finding-courses/anti-racism/digital-literacy.md)
-    * [Job Readiness](learning-materials/finding-courses/anti-racism/job-readiness.md)
-    * [Anti-Racism](learning-materials/finding-courses/anti-racism/anti-racism.md)
-* [🚧 Using Courses](learning-materials/using-courses.md)
-* [Creating Courses for Learning Circles](learning-materials/creating-courses-for-learning-circles/README.md)
-  * [Understand Learning Circles](learning-materials/creating-courses-for-learning-circles/understand-learning-circles.md)
-  * [Establish Goals & Outcomes](learning-materials/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
-  * [Develop Course Content](learning-materials/creating-courses-for-learning-circles/develop-course-content.md)
-  * [Publish Your Course](learning-materials/creating-courses-for-learning-circles/publish-your-course.md)
-  * [Finish and Share](learning-materials/creating-courses-for-learning-circles/finish-and-share.md)
+---
 
-## Drafts
+* [Tools for learning circles](tools-for-learning-circles/README.md)
+  * [Untitled](tools-for-learning-circles/untitled.md)
 
-* [Learners](drafts/intro-to-learners.md)
+## Starting a Community
 
