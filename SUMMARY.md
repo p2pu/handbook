@@ -6,6 +6,7 @@
 
 * [What is a learning circle?](learning-circles/learning-circles-1.md)
 * [Typical structure](learning-circles/learning-circle-structure/README.md)
+  * [Tool Documentation](learning-circles/learning-circle-structure/tool-documentation.md)
   * [Check-in + Icebreakers](learning-circles/learning-circle-structure/check-ins.md)
   * [Learning Formats](learning-circles/learning-circle-structure/learning-formats.md)
   * [Energizers](learning-circles/learning-circle-structure/energizers.md)
