@@ -13,7 +13,6 @@ A learning circle typically has four components:
 
 1. \*\*\*\*[**The Basics**](learning-circles-1.md#the-basics)\*\*\*\*
 2. \*\*\*\*[**Why learning circles?**](learning-circles-1.md#why-learning-circles)\*\*\*\*
-3. \*\*\*\*[**Tools for Learning Circles**](learning-circles-1.md#tools-for-learning-circles)\*\*\*\*
 
 ## **The Basics**
 
