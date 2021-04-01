@@ -6,7 +6,7 @@ Learning circles are free facilitated study groups for those who want to learn n
 
 | Get started: | For Facilitators | For Organizations |
 | :--- | :--- | :--- |
-| 🟡 [What is a learning circle?](learning-circles/learning-circles-1.md) 🟡 [Intro to Learners]() | 📍 [Intro to Facilitation](facilitation/basic-facilitation-strategies/) 🟡 [How do I start a learning circle?](facilitation/basic-facilitation-strategies/) | 📍 [Organizers & Teams](facilitation/organizers/) 🟡 [Start a Team](facilitation/organizers/start-a-team.md) |
+| 🟡 [What is a learning circle?](learning-circles/learning-circles-1.md) 🟡 Intro to Learners | 📍 [Intro to Facilitation](facilitation/basic-facilitation-strategies/) 🟡 [How do I start a learning circle?](facilitation/basic-facilitation-strategies/) | 📍 [Organizers & Teams](facilitation/organizers/) 🟡 [Start a Team](facilitation/organizers/start-a-team.md) |
 
 
 
