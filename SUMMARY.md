@@ -20,20 +20,18 @@
   * [Free Online Courses](courses/types-of-courses/free-online-courses.md)
   * [Non-course OER](courses/types-of-courses/non-course-oer.md)
 * [Evaluating Courses](courses/using-courses.md)
-* [Adapting Courses](courses/adapting-courses.md)
 
 ## Facilitation
 
-* [Picking a topic](facilitation/picking-a-topic.md)
-* [Basic facilitation strategies](facilitation/basic-facilitation-strategies/README.md)
-  * [Virtual learning circles](facilitation/basic-facilitation-strategies/virtual-learning-circles.md)
-  * [Managing difficult discussions](facilitation/basic-facilitation-strategies/managing-difficult-discussions.md)
-* [Learning circle checklist](facilitation/learning-circle-checklist.md)
-* [Promotion](facilitation/promotion-and-outreach.md)
-* [Organizers & Teams](facilitation/organizers/README.md)
-  * [🚧 Start a Team](facilitation/organizers/start-a-team.md)
-  * [Supporting Facilitators](facilitation/organizers/supporting-facilitators.md)
-  * [🚧 Finding Volunteers](facilitation/organizers/finding-volunteers.md)
+* [Facilitator Checklist](facilitation/learning-circle-checklist.md)
+* [Set Your Intent](facilitation/set-your-intent.md)
+* [Adapt Your Course](facilitation/adapting-courses.md)
+* [Set Up Your Space](facilitation/set-up-your-space.md)
+* [Promote Your Learning Circle](facilitation/promotion-and-outreach.md)
+* [Facilitation strategies](facilitation/facilitation-strategies/README.md)
+  * [Co-Facilitation](facilitation/facilitation-strategies/co-facilitation.md)
+  * [Managing difficult discussions](facilitation/facilitation-strategies/managing-difficult-discussions.md)
+* [Evaluate + Reflect](facilitation/evaluate-+-reflect.md)
 
 ## Tools & Resources
 
@@ -50,14 +48,19 @@
 ---
 
 * [Teams](teams.md)
+* [Organizers & Teams](organizers/README.md)
+  * [🚧 Start a Team](organizers/start-a-team.md)
+  * [Supporting Facilitators](organizers/supporting-facilitators.md)
+  * [🚧 Finding Volunteers](organizers/finding-volunteers.md)
 * [Volunteer-powered programs](volunteer-powered-programs.md)
 
 ## Course Creators
 
 * [Creating courses for learning circles](course-creators/creating-courses-for-learning-circles/README.md)
-  * [Understand Learning Circles](course-creators/creating-courses-for-learning-circles/understand-learning-circles.md)
   * [Establish Goals & Outcomes](course-creators/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
-  * [Develop Course Content](course-creators/creating-courses-for-learning-circles/develop-course-content.md)
+  * [Create an Outline](course-creators/creating-courses-for-learning-circles/create-an-outline.md)
+  * [Wrangle Content](course-creators/creating-courses-for-learning-circles/wrangle-content.md)
+  * [Design the Course](course-creators/creating-courses-for-learning-circles/develop-course-content.md)
   * [Publish Your Course](course-creators/creating-courses-for-learning-circles/publish-your-course.md)
   * [Finish and Share](course-creators/creating-courses-for-learning-circles/finish-and-share.md)
 

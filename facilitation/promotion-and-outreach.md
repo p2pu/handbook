@@ -1,4 +1,4 @@
-# Promotion
+# Promote Your Learning Circle
 
 ### Page contents:
 

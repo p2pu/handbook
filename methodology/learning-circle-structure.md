@@ -1,10 +1,10 @@
 # Typical Structure
 
-No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. That being said, there are a few common practices that help surface a peer learning environment and help facilitators from slipping into the role of a teacher. If you're new, we recommend that you consider these guidelines
+No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. That being said, there are a few common practices that help surface a peer learning environment and prevent facilitators from slipping into the role of a teacher. 
 
-* **3-12 Learners**: Less than 3 can start to feel interpersonal. More than 12 can be difficult to connect with. 
-* **90 Minutes for 6-8 Weeks:** This has seems to be a sweet spot that offers enough time and space to build a productive group culture without being alienating due to the time commitment.
-* **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure of [**Check-In**](learning-circle-structure.md#check-in), ****[**Read & Watch**](learning-circle-structure.md#read-and-watch), [**Do/Make/Say/Think**](learning-circle-structure.md#do-make-say-think), and [**Reflection**](learning-circle-structure.md#reflection).
+* **3-12 Learners**: Less than 3 people can start to feel too interpersonal. More than 12 can make it difficult to connect as a group. 
+* **90 Minutes for 6-8 Weeks:** This has emerged as a sweet spot, offering enough time and space to build a productive group culture without being alienating due to the time commitment. 
+* **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure each week of [Check-In](learning-circle-structure.md#check-in), [Read & Watch](learning-circle-structure.md#read-and-watch), [Do/Make/Say/Think](learning-circle-structure.md#do-make-say-think), and [Reflection](learning-circle-structure.md#reflection).
 
 ## **Check-In**
 

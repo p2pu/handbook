@@ -5,11 +5,16 @@ description: >-
   the learners on track to meet their goals.
 ---
 
-# Basic facilitation strategies
+# Facilitation strategies
 
 > _As a facilitator, you're making learning easier. You're the dad, the grandma, the big sister, the cheerleader, the doctor, the psychologist, the mender, the builder, the tech geek. That's a tall order, a big job! At the same time while you're wearing all those hats, in these online times you have the extra challenge of maybe not seeing a face, maybe not hearing a voice, not being there in person to interpret the body language, or to fiddle with the tech. And you have to recognize that everyone is different, that some people are quiet, some people like to talk, some people are daring, some people are reticent, some people are sassy, some deferential. You have to draw out those who hold back, push back on those who take over, and smooth out the bumps. You're hosting the party and you want everyone to be comfortable and have a great time. The challenge is to build a group dynamic that facilitates, that makes it easy for everyone to meet their goal. All you really have to do is acknowledge that everyone has experience, everyone has a perspective, everyone has a story, and that means we can learn from anyone. With that philosophy in your pocket, the job gets much easier…_
 >
 > _— Jan Docka, Roselle Public Library District, Illinois_
+
+Jan’s reflection on facilitation paints a wonderful picture of the vast set of roles and responsibilities that a facilitator takes on. In this section, we’ve outlined what we see as the four primary responsibilities of a virtual facilitator. 
+
+  
+
 
 Every [learning circle]() has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
 
@@ -28,7 +33,7 @@ Whether you want to run a single learning circle or organize dozens across a lib
 >
 > 1.
 
-## Facilitator Roles
+## Facilitation Responsibilities
 
 
 

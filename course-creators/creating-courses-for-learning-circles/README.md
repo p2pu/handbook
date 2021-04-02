@@ -6,13 +6,12 @@ This section is designed to help you design and create an online course for lear
 * **Participate in our community:** Course creators are invited to join our community and stay up to date on how their course is being used around the world.
 * **Contribute to an OER ecosystem:** By developing an open educational resource, you’re contributing to an equitable process of knowledge sharing. 
 
-You'll find here the five steps involved in the course creation process:
+The first step to creating a course is to get a good grasp of what learning circles are and how they work. The best way to do that is by participating or facilitating! Reviewing the rest of this guide, particularly the section on [Learning Circle structure,](https://app.gitbook.com/@peer-2-peer-university/s/p2pu-knowledge-base/~/drafts/-MXIxtjgfC1BFKKovPRs/methodology/learning-circle-structure) is helpful too. Once you've done that, follow these steps.
 
-1. [Understand Learning Circles](understand-learning-circles.md)
-2. [Establish Goals & Outcomes](establish-goals-and-outcomes.md)
-3. [Develop Course Content](develop-course-content.md)
-4. [Publish Your Course](publish-your-course.md)
-5. [Finish and Share](finish-and-share.md)
+1. [Establish Goals & Outcomes](establish-goals-and-outcomes.md)
+2. [Develop Course Content](develop-course-content.md)
+3. [Publish Your Course](publish-your-course.md)
+4. [Finish and Share](finish-and-share.md)
 
 
 
