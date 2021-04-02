@@ -1,28 +1,10 @@
-# Typical structure
+# Typical Structure
 
-{% embed url="https://www.youtube.com/watch?v=H5vReon6uL4&ab\_channel=P2PU" %}
+No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. That being said, there are a few common practices that help surface a peer learning environment and help facilitators from slipping into the role of a teacher. If you're new, we recommend that you consider these guidelines
 
-No two learning circles are alike! Ultimately, it's up to the facilitator and the learners to decide how they want to work through their learning materials. That being said, there are a few common practices across the board. 
-
-* **90 minutes/week for 6-8 weeks:**  Some learning circles only meet three or four times, others extend for more than a year! However, 90 minutes a week for 6-8 weeks seems to be a sweet spot that offers enough time and space to build a productive group culture without being alienating due to the time commitment.
-* **Four-part meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure that creates ample space for empowering individual learning goals, building group relationships, and supporting the facilitator, as described below. This can be a helpful baseline for organizing knowledge into a learner-friendly format. 
-* Follows a reliable weekly process \(typically a check-in, reading/watching, activities, and reflection\)
-* **Facilitated, not taught:** Gently guided but not taught—with a little practice and training, anyone should be able to facilitate! 
-* **Collaborative:** Scheduled discussions and activities that engage the entire group
-* \*\*\*\*
-
-Typically, each learning circle meeting follows a
-
-
-
-### 
-
-### Page Contents
-
-1. \*\*\*\*[**Check-In**](./#check-in)\*\*\*\*
-2. \*\*\*\*[**Read & Watch**](./#read-and-watch)\*\*\*\*
-3. \*\*\*\*[**Do/Make/Say/Think**](./#do-make-say-think)\*\*\*\*
-4. \*\*\*\*[**Reflection**](./#reflection)\*\*\*\*
+* **3-12 Learners**: Less than 3 can start to feel interpersonal. More than 12 can be difficult to connect with. 
+* **90 Minutes for 6-8 Weeks:** This has seems to be a sweet spot that offers enough time and space to build a productive group culture without being alienating due to the time commitment.
+* **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure of [**Check-In**](learning-circle-structure.md#check-in), ****[**Read & Watch**](learning-circle-structure.md#read-and-watch), [**Do/Make/Say/Think**](learning-circle-structure.md#do-make-say-think), and [**Reflection**](learning-circle-structure.md#reflection).
 
 ## **Check-In**
 
@@ -41,4 +23,8 @@ While Read & Watch can sometimes be passive, Do/Make/Say/Think is its active cou
 ## **Reflection**
 
 A planned closing space helps the group collectively consider what was covered during the meeting and provide feedback to guide their experience moving forward. As a baseline, we often recommend using a Plus/Delta: each participant shares a plus \(something that went well\) and a delta \(something they’d like to change for the next meeting\). These contributions can seed a brief conversation about ways to improve the next meeting.
+
+## **What does a learning circle look like?**
+
+{% embed url="https://www.youtube.com/watch?v=H5vReon6uL4&ab\_channel=P2PU" %}
 

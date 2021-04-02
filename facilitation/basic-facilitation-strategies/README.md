@@ -11,9 +11,13 @@ description: >-
 >
 > _— Jan Docka, Roselle Public Library District, Illinois_
 
-Every [learning circle](../../learning-circles/learning-circles-1.md) has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
+Every [learning circle]() has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
 
 ...facilitator, who serves as the host for the learning circle, organizing meetings, setting up the space, and encouraging an atmosphere of peer-to-peer learning.
+
+....
+
+* **Facilitated, not taught:** Gently guided but not taught—with a little practice and training, anyone should be able to facilitate! 
 
 Every learning circle has a facilitator: the person who decides to start the learning circle, who organizes meetings, and who encourages the atmosphere of peer-to-peer learning. Facilitators do not need to be experts or teachers the expertise comes from the online course and the community of learners.
 

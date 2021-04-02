@@ -1,33 +1,30 @@
 # Table of contents
 
 * [Learning Circles Handbook](README.md)
+* [Why learning circles?](why-learning-circles.md)
 
-## Learning Circles
+## Methodology
 
-* [Why learning circles?](learning-circles/learning-circles-1.md)
-* [Typical structure](learning-circles/learning-circle-structure/README.md)
-  * [Group Expectations](learning-circles/learning-circle-structure/group-expectations.md)
-  * [Check-in + Icebreakers](learning-circles/learning-circle-structure/check-ins.md)
-  * [Learning Formats](learning-circles/learning-circle-structure/learning-formats.md)
-  * [Energizers](learning-circles/learning-circle-structure/energizers.md)
-  * [Reflections](learning-circles/learning-circle-structure/reflections.md)
-* [Tool Documentation](learning-circles/tool-documentation.md)
-* [Courses](learning-circles/courses/README.md)
-  * [Picking a topic](learning-circles/courses/picking-a-topic.md)
-  * [Finding Courses](learning-circles/courses/finding-courses/README.md)
-    * [OER Sources](learning-circles/courses/finding-courses/oer-sources.md)
-  * [Using Courses](learning-circles/courses/using-courses.md)
-  * [Creating courses for learning circles](learning-circles/courses/creating-courses-for-learning-circles/README.md)
-    * [Understand Learning Circles](learning-circles/courses/creating-courses-for-learning-circles/understand-learning-circles.md)
-    * [Establish Goals & Outcomes](learning-circles/courses/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
-    * [Develop Course Content](learning-circles/courses/creating-courses-for-learning-circles/develop-course-content.md)
-    * [Publish Your Course](learning-circles/courses/creating-courses-for-learning-circles/publish-your-course.md)
-    * [Finish and Share](learning-circles/courses/creating-courses-for-learning-circles/finish-and-share.md)
-* [Virtual learning circles](learning-circles/virtual-learning-circles.md)
+* [Typical Structure](methodology/learning-circle-structure.md)
+* [Check-in + Icebreakers](methodology/check-ins.md)
+* [Group Expectations](methodology/group-expectations.md)
+* [Learning Formats](methodology/learning-formats.md)
+* [Energizers](methodology/energizers.md)
+* [Reflections](methodology/reflections.md)
+
+## Courses
+
+* [Intro to Online Learning](courses/intro-to-online-learning.md)
+* [Course Selection](courses/course-selection/README.md)
+  * [OER Sources](courses/course-selection/oer-sources.md)
+* [Evaluating Courses](courses/using-courses.md)
+* [Adapting Courses](courses/adapting-courses.md)
 
 ## Facilitation
 
+* [Picking a topic](facilitation/picking-a-topic.md)
 * [Basic facilitation strategies](facilitation/basic-facilitation-strategies/README.md)
+  * [Virtual learning circles](facilitation/basic-facilitation-strategies/virtual-learning-circles.md)
   * [Managing difficult discussions](facilitation/basic-facilitation-strategies/managing-difficult-discussions.md)
 * [Learning circle checklist](facilitation/learning-circle-checklist.md)
 * [Promotion](facilitation/promotion-and-outreach.md)
@@ -43,6 +40,7 @@
   * [Creating learning circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
   * [Managing learning circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
   * [Automated messaging](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
+* [Tool Documentation](tools-and-resources/tool-documentation.md)
 * [Community Resources](tools-and-resources/community-resources.md)
 
 ## Starting a Community
@@ -51,4 +49,13 @@
 
 * [Teams](teams.md)
 * [Volunteer-powered programs](volunteer-powered-programs.md)
+
+## Course Creators
+
+* [Creating courses for learning circles](course-creators/creating-courses-for-learning-circles/README.md)
+  * [Understand Learning Circles](course-creators/creating-courses-for-learning-circles/understand-learning-circles.md)
+  * [Establish Goals & Outcomes](course-creators/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
+  * [Develop Course Content](course-creators/creating-courses-for-learning-circles/develop-course-content.md)
+  * [Publish Your Course](course-creators/creating-courses-for-learning-circles/publish-your-course.md)
+  * [Finish and Share](course-creators/creating-courses-for-learning-circles/finish-and-share.md)
 
