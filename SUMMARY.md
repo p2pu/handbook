@@ -14,9 +14,11 @@
 
 ## Courses
 
-* [Intro to Online Learning](courses/intro-to-online-learning.md)
-* [Course Selection](courses/course-selection/README.md)
-  * [OER Sources](courses/course-selection/oer-sources.md)
+* [Course Selection](courses/course-selection.md)
+* [Types of Courses](courses/types-of-courses/README.md)
+  * [Open Online Courses](courses/types-of-courses/oer-sources.md)
+  * [Free Online Courses](courses/types-of-courses/free-online-courses.md)
+  * [Non-course OER](courses/types-of-courses/non-course-oer.md)
 * [Evaluating Courses](courses/using-courses.md)
 * [Adapting Courses](courses/adapting-courses.md)
 
