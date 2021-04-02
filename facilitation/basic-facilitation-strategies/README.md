@@ -13,6 +13,8 @@ description: >-
 
 Every [learning circle](../../learning-circles/learning-circles-1.md) has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
 
+...facilitator, who serves as the host for the learning circle, organizing meetings, setting up the space, and encouraging an atmosphere of peer-to-peer learning.
+
 Every learning circle has a facilitator: the person who decides to start the learning circle, who organizes meetings, and who encourages the atmosphere of peer-to-peer learning. Facilitators do not need to be experts or teachers the expertise comes from the online course and the community of learners.
 
 Whether you want to run a single learning circle or organize dozens across a library system, we are here to help. If you are new to Peer 2 Peer University, start by watching our introductory video.  

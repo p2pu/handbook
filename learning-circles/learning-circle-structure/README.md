@@ -1,26 +1,28 @@
 # Typical structure
 
-No two learning circles look the same! Ultimately, it's up to the facilitator and the learners to decide how they want to work through their learning materials. 
+{% embed url="https://www.youtube.com/watch?v=H5vReon6uL4&ab\_channel=P2PU" %}
 
-Typically, learning circle meetings follow a basic and flexible 4-part structure that creates ample space for empowering individual learning goals, building group relationships, and supporting the facilitator. This can be a helpful baseline for organizing knowledge into a learner-friendly format. 
+No two learning circles are alike! Ultimately, it's up to the facilitator and the learners to decide how they want to work through their learning materials. That being said, there are a few common practices across the board. 
+
+* **90 minutes/week for 6-8 weeks:**  Some learning circles only meet three or four times, others extend for more than a year! However, 90 minutes a week for 6-8 weeks seems to be a sweet spot that offers enough time and space to build a productive group culture without being alienating due to the time commitment.
+* **Four-part meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure that creates ample space for empowering individual learning goals, building group relationships, and supporting the facilitator, as described below. This can be a helpful baseline for organizing knowledge into a learner-friendly format. 
+* Follows a reliable weekly process \(typically a check-in, reading/watching, activities, and reflection\)
+* **Facilitated, not taught:** Gently guided but not taught—with a little practice and training, anyone should be able to facilitate! 
+* **Collaborative:** Scheduled discussions and activities that engage the entire group
+* \*\*\*\*
+
+Typically, each learning circle meeting follows a
+
+
+
+### 
 
 ### Page Contents
 
-1. \*\*\*\*[**Group Expectations** ](./#group-expectations)\*\*\*\*
-2. \*\*\*\*[**Check-In**](./#check-in)\*\*\*\*
-3. \*\*\*\*[**Read & Watch**](./#read-and-watch)\*\*\*\*
-4. \*\*\*\*[**Do/Make/Say/Think**](./#do-make-say-think)\*\*\*\*
-5. \*\*\*\*[**Reflection**](./#reflection)\*\*\*\*
-
-## Group Expectations
-
-To create a supportive and effective space for everyone, it’s recommended that the group agrees on a set of norms for their meetings ****during the first meeting. It is the facilitator’s role to uphold these expectations and remind participants when they are not upheld. Here are some suggestions \(adapted from [Our Data Bodies’ Digital Defense Playbook](https://www.odbproject.org/wp-content/uploads/2019/03/ODB_DDP_HighRes_Single.pdf)\) that work well for most learning circles:
-
-* **Respect the speaker:** When a person is sharing, allow them to share their complete thoughts without interruption. Listen actively and push past distractions from digital devices and your environment when possible.
-* **Speak from “I” and eye:** Share from your own experience and perspective. Don’t assume the experiences of others and avoid making comments or generalizations about entire communities. Keep your shares focused on what you see, what you notice, and what you feel.
-* **Lean into discomfort:** Some topics may be uncomfortable to talk about because of personal experiences or oppressions felt in your everyday life. The emotions and feelings that may arise are normal and can help enhance authentic learning together if shared. Participants are asked to lean into their own discomfort and honor the space for others to do the same.
-* **Step up, step back:** A learning circle is most effective when all voices can be heard. If you find yourself speaking often, step back and create space for others to share their ideas. If you’re someone who prefers to listen, push yourself to speak out and share at least once per meeting.
-* **Keep it confidential:** What happens in the learning circle stays in the learning circle. Respect the privacy of your fellow participants and don’t share others’ stories without consent.
+1. \*\*\*\*[**Check-In**](./#check-in)\*\*\*\*
+2. \*\*\*\*[**Read & Watch**](./#read-and-watch)\*\*\*\*
+3. \*\*\*\*[**Do/Make/Say/Think**](./#do-make-say-think)\*\*\*\*
+4. \*\*\*\*[**Reflection**](./#reflection)\*\*\*\*
 
 ## **Check-In**
 

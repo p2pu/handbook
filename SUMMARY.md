@@ -4,13 +4,14 @@
 
 ## Learning Circles
 
-* [What is a learning circle?](learning-circles/learning-circles-1.md)
+* [Why learning circles?](learning-circles/learning-circles-1.md)
 * [Typical structure](learning-circles/learning-circle-structure/README.md)
-  * [Tool Documentation](learning-circles/learning-circle-structure/tool-documentation.md)
+  * [Group Expectations](learning-circles/learning-circle-structure/group-expectations.md)
   * [Check-in + Icebreakers](learning-circles/learning-circle-structure/check-ins.md)
   * [Learning Formats](learning-circles/learning-circle-structure/learning-formats.md)
   * [Energizers](learning-circles/learning-circle-structure/energizers.md)
   * [Reflections](learning-circles/learning-circle-structure/reflections.md)
+* [Tool Documentation](learning-circles/tool-documentation.md)
 * [Courses](learning-circles/courses/README.md)
   * [Picking a topic](learning-circles/courses/picking-a-topic.md)
   * [Finding Courses](learning-circles/courses/finding-courses/README.md)
