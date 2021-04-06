@@ -30,15 +30,15 @@
 
 ## Facilitation
 
-* [Facilitator Checklist](facilitation/learning-circle-checklist.md)
-* [Set Your Intent](facilitation/set-your-intent.md)
-* [Adapt Your Course](facilitation/adapting-courses.md)
-* [Set Up Your Space](facilitation/set-up-your-space.md)
-* [Promote Your Learning Circle](facilitation/promotion-and-outreach.md)
 * [Facilitation Strategies](facilitation/facilitation-strategies/README.md)
   * [Co-Facilitation](facilitation/facilitation-strategies/co-facilitation.md)
   * [Managing difficult discussions](facilitation/facilitation-strategies/managing-difficult-discussions.md)
-* [Evaluate + Reflect](facilitation/evaluate-+-reflect.md)
+* [Facilitator Checklist](facilitation/learning-circle-checklist/README.md)
+  * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
+  * [Adapt Your Course](facilitation/learning-circle-checklist/adapting-courses.md)
+  * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
+  * [Evaluate + Reflect](facilitation/learning-circle-checklist/evaluate-+-reflect/README.md)
+    * [Promote Your Learning Circle](facilitation/learning-circle-checklist/evaluate-+-reflect/promotion-and-outreach.md)
 
 ## Tools & Resources
 
