@@ -61,5 +61,3 @@
   * [🚧 Finding Volunteers](organizers/finding-volunteers.md)
 * [Volunteer-powered programs](volunteer-powered-programs.md)
 
-## Course Creators
-
