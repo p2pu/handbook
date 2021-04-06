@@ -30,7 +30,6 @@
   * [Co-Facilitation](facilitation/facilitation-strategies/co-facilitation.md)
   * [Managing difficult discussions](facilitation/facilitation-strategies/managing-difficult-discussions.md)
 * [Facilitator Checklist](facilitation/learning-circle-checklist/README.md)
-  * [Untitled](facilitation/learning-circle-checklist/untitled.md)
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
   * [Adapt Your Course](facilitation/learning-circle-checklist/adapting-courses.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
