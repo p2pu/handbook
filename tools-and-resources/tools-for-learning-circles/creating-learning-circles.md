@@ -4,7 +4,11 @@ Once you have selected your course and confirmed where and when you’re going t
 
 ### Creating a learning circle
 
-From your dashboard, you can create a new learning circle. This is a five step proces with a sidebar that provides tips and relevant links to the online community. In the final step, you have the option to pubish your learning circle immediately, or to save it as a draft.![\_images/2018-03-01-lc-create-1.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-1.png) ![\_images/2018-03-01-lc-create-2.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-2.png) ![\_images/2018-03-01-lc-create-3.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-3.png) ![\_images/2018-03-01-lc-create-4.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-4.png) ![\_images/2018-03-01-lc-create-5.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-5.png)  
+From your dashboard, you can create a new learning circle. This is a five step proces with a sidebar that provides tips and relevant links to the online community. In the final step, you have the option to pubish your learning circle immediately, or to save it as a draft.
+
+
+
+![\_images/2018-03-01-lc-create-1.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-1.png) ![\_images/2018-03-01-lc-create-2.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-2.png) ![\_images/2018-03-01-lc-create-3.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-3.png) ![\_images/2018-03-01-lc-create-4.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-4.png) ![\_images/2018-03-01-lc-create-5.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2018-03-01-lc-create-5.png)  
 
 
 The creation flow is a 5-step process; you can [click through it all](https://learningcircles.p2pu.org/en/studygroup/create/) without needing to log in to the P2PU site. The only thing worth calling out here in more detail is “Step 5: Finalize”. Here, you have the option of answering two questions that will be shared with P2PU and a group of volunteer facilitators who we call the Welcome Committee.
