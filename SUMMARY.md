@@ -20,6 +20,13 @@
   * [Free Online Courses](courses/types-of-courses/free-online-courses.md)
   * [Non-course OER](courses/types-of-courses/non-course-oer.md)
 * [Evaluating Courses](courses/using-courses.md)
+* [Creating Courses for Learning Circles](courses/creating-courses-for-learning-circles/README.md)
+  * [Establish Goals & Outcomes](courses/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
+  * [Create an Outline](courses/creating-courses-for-learning-circles/create-an-outline.md)
+  * [Wrangle Content](courses/creating-courses-for-learning-circles/wrangle-content.md)
+  * [Design the Course](courses/creating-courses-for-learning-circles/develop-course-content.md)
+  * [Publish Your Course](courses/creating-courses-for-learning-circles/publish-your-course.md)
+  * [Finish and Share](courses/creating-courses-for-learning-circles/finish-and-share.md)
 
 ## Facilitation
 
@@ -55,12 +62,4 @@
 * [Volunteer-powered programs](volunteer-powered-programs.md)
 
 ## Course Creators
-
-* [Creating courses for learning circles](course-creators/creating-courses-for-learning-circles/README.md)
-  * [Establish Goals & Outcomes](course-creators/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
-  * [Create an Outline](course-creators/creating-courses-for-learning-circles/create-an-outline.md)
-  * [Wrangle Content](course-creators/creating-courses-for-learning-circles/wrangle-content.md)
-  * [Design the Course](course-creators/creating-courses-for-learning-circles/develop-course-content.md)
-  * [Publish Your Course](course-creators/creating-courses-for-learning-circles/publish-your-course.md)
-  * [Finish and Share](course-creators/creating-courses-for-learning-circles/finish-and-share.md)
 
