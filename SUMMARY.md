@@ -37,8 +37,8 @@
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
   * [Adapt Your Course](facilitation/learning-circle-checklist/adapting-courses.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
-  * [Evaluate + Reflect](facilitation/learning-circle-checklist/evaluate-+-reflect/README.md)
-    * [Promote Your Learning Circle](facilitation/learning-circle-checklist/evaluate-+-reflect/promotion-and-outreach.md)
+  * [Promote Your Learning Circle](facilitation/learning-circle-checklist/promotion-and-outreach.md)
+  * [Evaluate + Reflect](facilitation/learning-circle-checklist/evaluate-+-reflect.md)
 
 ## Tools & Resources
 
