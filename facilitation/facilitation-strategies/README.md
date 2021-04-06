@@ -16,7 +16,7 @@ Jan’s reflection on facilitation paints a wonderful picture of the vast set of
   
 
 
-Every [learning circle]() has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
+Every learning circle has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
 
 ...facilitator, who serves as the host for the learning circle, organizing meetings, setting up the space, and encouraging an atmosphere of peer-to-peer learning.
 
