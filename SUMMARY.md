@@ -35,7 +35,7 @@
 * [Adapt Your Course](facilitation/adapting-courses.md)
 * [Set Up Your Space](facilitation/set-up-your-space.md)
 * [Promote Your Learning Circle](facilitation/promotion-and-outreach.md)
-* [Facilitation strategies](facilitation/facilitation-strategies/README.md)
+* [Facilitation Strategies](facilitation/facilitation-strategies/README.md)
   * [Co-Facilitation](facilitation/facilitation-strategies/co-facilitation.md)
   * [Managing difficult discussions](facilitation/facilitation-strategies/managing-difficult-discussions.md)
 * [Evaluate + Reflect](facilitation/evaluate-+-reflect.md)
