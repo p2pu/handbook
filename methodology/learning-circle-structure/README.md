@@ -4,7 +4,7 @@ No two learning circles are alike! Ultimately, it's up to the group to decide ho
 
 * **3-12 Learners**: Less than 3 people can start to feel too interpersonal. More than 12 can make it difficult to connect as a group. 
 * **90 Minutes for 6-8 Weeks:** This has emerged as a sweet spot, offering enough time and space to build a productive group culture without being alienating due to the time commitment. 
-* **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure each week of [Check-In](learning-circle-structure.md#check-in), [Read & Watch](learning-circle-structure.md#read-and-watch), [Do/Make/Say/Think](learning-circle-structure.md#do-make-say-think), and [Reflection](learning-circle-structure.md#reflection).
+* **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure each week of [Check-In](./#check-in), [Read & Watch](./#read-and-watch), [Do/Make/Say/Think](./#do-make-say-think), and [Reflection](./#reflection).
 
 ## **Check-In**
 

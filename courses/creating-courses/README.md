@@ -1,4 +1,4 @@
-# Creating Courses for Learning Circles
+# Creating Courses
 
 This section is designed to help you design and create an online course for learning circles. Whether you are a subject matter expert or a motivated hobbyist, we believe that you can assemble high-quality learning materials that can be shared with learning communities around the world. Along the way, you’ll also:
 

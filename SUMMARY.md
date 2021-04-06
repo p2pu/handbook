@@ -5,28 +5,24 @@
 
 ## Methodology
 
-* [Typical Structure](methodology/learning-circle-structure.md)
-* [Check-in + Icebreakers](methodology/check-ins.md)
+* [Typical Structure](methodology/learning-circle-structure/README.md)
+  * [Check-in + Icebreakers](methodology/learning-circle-structure/check-ins.md)
+  * [Energizers](methodology/learning-circle-structure/energizers.md)
+  * [Learning Formats](methodology/learning-circle-structure/learning-formats.md)
+  * [Reflections](methodology/learning-circle-structure/reflections.md)
 * [Group Expectations](methodology/group-expectations.md)
-* [Learning Formats](methodology/learning-formats.md)
-* [Energizers](methodology/energizers.md)
-* [Reflections](methodology/reflections.md)
 
 ## Courses
 
-* [Course Selection](courses/course-selection.md)
-* [Types of Courses](courses/types-of-courses/README.md)
-  * [Open Online Courses](courses/types-of-courses/oer-sources.md)
-  * [Free Online Courses](courses/types-of-courses/free-online-courses.md)
-  * [Non-course OER](courses/types-of-courses/non-course-oer.md)
-* [Evaluating Courses](courses/using-courses.md)
-* [Creating Courses for Learning Circles](courses/creating-courses-for-learning-circles/README.md)
-  * [Establish Goals & Outcomes](courses/creating-courses-for-learning-circles/establish-goals-and-outcomes.md)
-  * [Create an Outline](courses/creating-courses-for-learning-circles/create-an-outline.md)
-  * [Wrangle Content](courses/creating-courses-for-learning-circles/wrangle-content.md)
-  * [Design the Course](courses/creating-courses-for-learning-circles/develop-course-content.md)
-  * [Publish Your Course](courses/creating-courses-for-learning-circles/publish-your-course.md)
-  * [Finish and Share](courses/creating-courses-for-learning-circles/finish-and-share.md)
+* [Understanding Courses](courses/finding-courses.md)
+* [Choosing Courses](courses/choosing-courses.md)
+* [Creating Courses](courses/creating-courses/README.md)
+  * [Establish Goals & Outcomes](courses/creating-courses/establish-goals-and-outcomes.md)
+  * [Create an Outline](courses/creating-courses/create-an-outline.md)
+  * [Wrangle Content](courses/creating-courses/wrangle-content.md)
+  * [Design the Course](courses/creating-courses/develop-course-content.md)
+  * [Publish Your Course](courses/creating-courses/publish-your-course.md)
+  * [Finish and Share](courses/creating-courses/finish-and-share.md)
 
 ## Facilitation
 
@@ -34,6 +30,7 @@
   * [Co-Facilitation](facilitation/facilitation-strategies/co-facilitation.md)
   * [Managing difficult discussions](facilitation/facilitation-strategies/managing-difficult-discussions.md)
 * [Facilitator Checklist](facilitation/learning-circle-checklist/README.md)
+  * [Untitled](facilitation/learning-circle-checklist/untitled.md)
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
   * [Adapt Your Course](facilitation/learning-circle-checklist/adapting-courses.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
@@ -43,6 +40,7 @@
 ## Tools & Resources
 
 * [Tools for learning circles](tools-and-resources/tools-for-learning-circles/README.md)
+  * [Courses Page](tools-and-resources/tools-for-learning-circles/courses-page.md)
   * [Facilitator dashboard](tools-and-resources/tools-for-learning-circles/untitled.md)
   * [Creating learning circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
   * [Managing learning circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
