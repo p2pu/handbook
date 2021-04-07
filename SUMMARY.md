@@ -14,8 +14,9 @@
 
 ## Courses
 
-* [Understanding Courses](courses/finding-courses.md)
-* [Choosing Courses](courses/choosing-courses.md)
+* [Intro to Courses](courses/finding-courses.md)
+* [Searching for Courses](courses/searching-courses.md)
+* [Evaluating Courses](courses/evaluating-courses.md)
 * [Creating Courses](courses/creating-courses/README.md)
   * [Establish Goals & Outcomes](courses/creating-courses/establish-goals-and-outcomes.md)
   * [Create an Outline](courses/creating-courses/create-an-outline.md)
