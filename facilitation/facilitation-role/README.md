@@ -1,4 +1,19 @@
-# Co-Facilitation
+---
+description: >-
+  Facilitators are the glue to a successful learning circle: while they don't
+  need to be a topic expert, they're there to keep the conversation going and
+  the learners on track to meet their goals.
+---
+
+# The Facilitator Role
+
+Every learning circle has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate. **Facilitated, not taught:** Gently guided but not taught—with a little practice and training, anyone should be able to facilitate! You're the host, everything set up, and encourager of peer learning.
+
+> _As a facilitator, you're making learning easier. You're the dad, the grandma, the big sister, the cheerleader, the doctor, the psychologist, the mender, the builder, the tech geek. That's a tall order, a big job! At the same time while you're wearing all those hats, in these online times you have the extra challenge of maybe not seeing a face, maybe not hearing a voice, not being there in person to interpret the body language, or to fiddle with the tech. And you have to recognize that everyone is different, that some people are quiet, some people like to talk, some people are daring, some people are reticent, some people are sassy, some deferential. You have to draw out those who hold back, push back on those who take over, and smooth out the bumps. You're hosting the party and you want everyone to be comfortable and have a great time. The challenge is to build a group dynamic that facilitates, that makes it easy for everyone to meet their goal. All you really have to do is acknowledge that everyone has experience, everyone has a perspective, everyone has a story, and that means we can learn from anyone. With that philosophy in your pocket, the job gets much easier…_
+>
+> _— Jan from Roselle Public Library District in Illinois_
+
+Jan’s reflection on facilitation paints a wonderful picture of the vast set of roles and responsibilities that a facilitator takes on. In this section, we’ve outlined what we see as the four primary responsibilities of a virtual facilitator. 
 
 For many people, moving learning circles to a virtual environment adds a new set of responsibilities which can feel like a lot to manage. We isolate them in part to help you prepare, and also to identify roles and responsibilities that you may want to delegate to a co-facilitator or a willing participant.
 
@@ -25,6 +40,16 @@ Online learning circles tend to use three browser tabs at any given time - one f
 
 ### Managing Chat
 
-In online meetings, the embedded chat channel can serve as a nice space for backchannel conversation and an essential place for link sharing. It may also be the case that some participants do not have access to a working microphone and are therefore only able to communicate via the chat. Delegating chat management to somebody else can be a great way to involve others in the leadership of the learning circle while not overwhelming you as a facilitator.  
+In online meetings, the embedded chat channel can serve as a nice space for backchannel conversation and an essential place for link sharing. It may also be the case that some participants do not have access to a working microphone and are therefore only able to communicate via the chat. Delegating chat management to somebody else can be a great way to involve others in the leadership of the learning circle while not overwhelming you as a facilitator.
+
+  
+
+
+
+
+.
+
+
+
 
 

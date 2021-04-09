@@ -15,7 +15,6 @@
 ## Courses
 
 * [Choosing a Course](courses/finding-courses/README.md)
-  * [Untitled](courses/finding-courses/untitled.md)
   * [Finding Courses](courses/finding-courses/searching-courses.md)
   * [Evaluating Courses](courses/finding-courses/evaluating-courses.md)
   * [Adapting Courses](courses/finding-courses/adapting-courses.md)
@@ -25,13 +24,14 @@
   * [Wrangle Content](courses/creating-courses/wrangle-content.md)
   * [Design the Course](courses/creating-courses/develop-course-content.md)
   * [Publish Your Course](courses/creating-courses/publish-your-course.md)
-  * [Finish and Share](courses/creating-courses/finish-and-share.md)
+  * [Finish & Share](courses/creating-courses/finish-and-share.md)
 
 ## Facilitation
 
-* [Facilitation Strategies](facilitation/facilitation-strategies/README.md)
-  * [Co-Facilitation](facilitation/facilitation-strategies/co-facilitation.md)
-  * [Managing difficult discussions](facilitation/facilitation-strategies/managing-difficult-discussions.md)
+* [The Facilitator Role](facilitation/facilitation-role/README.md)
+  * [Strategies](facilitation/facilitation-role/strategies.md)
+  * [Managing difficult discussions](facilitation/facilitation-role/managing-difficult-discussions.md)
+  * [Co-Facilitating](facilitation/facilitation-role/co-facilitation.md)
 * [Facilitator Checklist](facilitation/learning-circle-checklist/README.md)
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)

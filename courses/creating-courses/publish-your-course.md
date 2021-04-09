@@ -41,12 +41,9 @@ If Course-in-a-Box seems like a heavy lift, it may be sufficient to keep your co
 
 #### Ready-to-use website builders
 
-[Wordpress.com](https://wordpress.com/) remains the world’s most popular website builder, as it strikes a good balance between ease of use, customizability, and cost. There are plenty of [Wordpress alternatives](https://www.namecheap.com/wordpress/wordpress-vs-other-content-management-systems/), including Drupal, Joomla, Squarespace and Wix, though beware: as customizability and ease of use increase, so does cost. Examples include:
+[Wordpress.com](https://wordpress.com/) remains the world’s most popular website builder, as it strikes a good balance between ease of use, customizability, and cost. This is what Jordan from Boston Public Library used to create their [series of learning circle courses about fiction writing](https://learntowritefiction.net/). There are plenty of [Wordpress alternatives](https://www.namecheap.com/wordpress/wordpress-vs-other-content-management-systems/), including Drupal, Joomla, and Squarespace, though beware: as customizability increases, so does cost. 
 
-* [Learn to Write Fiction](https://learntowritefiction.net/home/recommended-reading/) \(Jordan at Boston Public Library\)
-* [How to Talk About Race](https://howtotalkaboutrace.wixsite.com/learningcircle) \(Amrita and Denise at Charlotte Mecklenburg Library\)
-
-#### Static site generators & hosting solution
+**Static site generators & hosting solution**
 
 The most flexibility for minimal/no cost will come by combining an [open source, static site generator](https://www.staticgen.com/) \(e.g. Jekyll, Hugo, Eleventy\) with a hosting solution \(e.g. Github Pages, Netlify\): this is the approach that we used to build [Course-in-a-Box](https://docs.google.com/document/d/116fJM3GS7XDzilUOL_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.96685ia69v99). While highly customizable, this option requires either a technical background or a lot of motivation and patience.
 
@@ -59,7 +56,7 @@ There are plenty of other formats for hosting content on the web, some of which 
 * Discussion forum \(e.g. [Discourse](https://www.discourse.org/)\)
 * Blog \(e.g. [Ghost](https://ghost.org/), [Medium](https://www.google.com/search?q=medium&rlz=1C5CHFA_enUS726US727&oq=medium&aqs=chrome..69i57j0l4j69i60l3.1098j0j1&sourceid=chrome&ie=UTF-8), [Wordpress.org](https://wordpress.org/)\)
 * Wiki \(e.g. [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)\)
-* Learning management system \(e.g. [Moodle](https://moodle.org/),  [Open edX](https://open.edx.org/)\)
+* Learning management system \(e.g. [Moodle](https://moodle.org/), [Open edX](https://open.edx.org/)\)
 
 <table>
   <thead>
