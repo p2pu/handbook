@@ -1,6 +1,6 @@
 # Design the Course
 
-Building on the four-part meeting structure outlined earlier, there are some principles for learning design that we think work well for learning circles.
+Building on the **four-part meeting structure** outlined earlier, there are some principles for learning design that work well for learning circles, regardless of the subject matter.
 
 * **Project-based &gt; theoretical:** Learning circles work well when participants are working towards a shared goal. Frame your learning circle more towards “Learn to Write Fiction” than “Composition 101”; more towards “Build a website” than “Intro to HTML/CSS”.
 * **Personal &gt; “objective”:** You are human! Be clear about your expertise, perspective, and motivation in creating this course. Own your expertise, and don’t try and hide behind the cloak of objectivity. 

@@ -14,10 +14,11 @@
 
 ## Courses
 
-* [Intro to Courses](courses/finding-courses.md)
-* [Searching for Courses](courses/searching-courses.md)
-* [Evaluating Courses](courses/evaluating-courses.md)
-* [Creating Courses](courses/creating-courses/README.md)
+* [Choosing a Course](courses/finding-courses/README.md)
+  * [Finding Courses](courses/finding-courses/searching-courses.md)
+  * [Evaluating Courses](courses/finding-courses/evaluating-courses.md)
+  * [Adapting Courses](courses/finding-courses/adapting-courses.md)
+* [Creating a Course](courses/creating-courses/README.md)
   * [Establish Goals & Outcomes](courses/creating-courses/establish-goals-and-outcomes.md)
   * [Create an Outline](courses/creating-courses/create-an-outline.md)
   * [Wrangle Content](courses/creating-courses/wrangle-content.md)
@@ -32,7 +33,6 @@
   * [Managing difficult discussions](facilitation/facilitation-strategies/managing-difficult-discussions.md)
 * [Facilitator Checklist](facilitation/learning-circle-checklist/README.md)
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
-  * [Adapt Your Course](facilitation/learning-circle-checklist/adapting-courses.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
   * [Promote Your Learning Circle](facilitation/learning-circle-checklist/promotion-and-outreach.md)
   * [Evaluate + Reflect](facilitation/learning-circle-checklist/evaluate-+-reflect.md)

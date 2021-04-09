@@ -12,6 +12,8 @@ Once you’ve drafted your course content, it’s time to get it online. There a
 [Course-in-a-Box](https://howto.p2pu.org/) is P2PU’s tool for building and publishing online courses, built on the premise that you don’t need to spend money to produce a course that can stay around for a long time. While no prior coding experience is required to use Course-in-a-Box, it still provides great exposure to some of the building blocks of web development including HTML, CSS, Markdown, and Git. It’s free to use and 100% open source \([see GitHub repository](https://github.com/p2pu/course-in-a-box)\), so you can adapt it to suit your needs however you choose.  Examples of courses built using Course-in-a-Box include: 
 
 * [Making and Learning](http://p2pu.github.io/makingandlearning/) \(Pittsburgh Children’s Museum\)
+* [We Are AI](https://p2pu.github.io/we-are-ai/) \(New York University\)
+* [How to Talk About Race](http://how-to-talk-about-race.p2pu.org/) \(Amrita S. Patel and Denise LaForce\)
 * [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/) \(P2PU\)
 
 <table>

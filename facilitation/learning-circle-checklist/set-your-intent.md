@@ -4,10 +4,11 @@
 
 Learning circles work best when learners can identify what motivates their participation, and the same is true for the facilitator. The questions we’ve been asking new facilitators for five years are still relevant for virtual programs:
 
-* What are you personally hoping to achieve by facilitating a learning circle? 
+* What are you personally hoping to achieve by facilitating a learning circle?
 * What need are you trying to address in your community?
 * Who do you expect to reach?
 * How will you know if your experiment was a success?
+* \[note -- distinguishing between a facilitator wanting to find people to learn with versus running a program to meet a community need\]
 
 **Check in with your people**
 

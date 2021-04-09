@@ -1,4 +1,4 @@
-# Creating Courses
+# Creating a Course
 
 This section is designed to help you design and create an online course for learning circles. Whether you are a subject matter expert or a motivated hobbyist, we believe that you can assemble high-quality learning materials that can be shared with learning communities around the world. Along the way, you’ll also:
 
@@ -12,10 +12,6 @@ The first step to creating a course is to get a good grasp of what learning circ
 2. [Develop Course Content](develop-course-content.md)
 3. [Publish Your Course](publish-your-course.md)
 4. [Finish and Share](finish-and-share.md)
-
-
-
-
 
 <table>
   <thead>
