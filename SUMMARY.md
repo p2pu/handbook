@@ -15,6 +15,7 @@
 ## Courses
 
 * [Choosing a Course](courses/finding-courses/README.md)
+  * [Untitled](courses/finding-courses/untitled.md)
   * [Finding Courses](courses/finding-courses/searching-courses.md)
   * [Evaluating Courses](courses/finding-courses/evaluating-courses.md)
   * [Adapting Courses](courses/finding-courses/adapting-courses.md)
