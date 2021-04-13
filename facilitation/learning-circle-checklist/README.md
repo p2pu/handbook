@@ -1,4 +1,4 @@
-# Facilitator Checklist
+# Learning Circle Checklist
 
 Here you will find a checklist that outlines the steps needed to get your learning circle running. You can compress or expand this timeline to suit your needs. However, if you don’t already have a dedicated group of learners, we recommend spending four weeks promoting your learning circle once you’ve finalized the date, time, course, and location.
 
