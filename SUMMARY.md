@@ -30,7 +30,7 @@
 
 * [The Facilitator Role](facilitation/facilitation-role/README.md)
   * [Strategies](facilitation/facilitation-role/strategies.md)
-  * [Managing difficult discussions](facilitation/facilitation-role/managing-difficult-discussions.md)
+  * [Managing discussions](facilitation/facilitation-role/managing-difficult-discussions.md)
   * [Co-Facilitating](facilitation/facilitation-role/co-facilitation.md)
 * [Facilitator Checklist](facilitation/learning-circle-checklist/README.md)
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)

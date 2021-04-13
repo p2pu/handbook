@@ -10,9 +10,9 @@ This handbook is a comprehensive resource all about learning circles: how they w
 
 Like the learning circle tools and community, this handbook is freely available to everyone. In exchange, we ask that you not charge learners any money to attend a learning circle.
 
-| Get started: | For Facilitators | For Organizations |
-| :--- | :--- | :--- |
-| 🟡 [What is a learning circle?]() 🟡 Intro to Learners | 📍 [Intro to Facilitation](facilitation/facilitation-role/) 🟡 [How do I start a learning circle?](facilitation/facilitation-role/) | 📍 [Organizers & Teams]() 🟡 [Start a Team]() |
+|  |
+| :--- |
+|  |
 
 
 
