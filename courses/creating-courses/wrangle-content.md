@@ -1,5 +1,11 @@
 # Wrangle Content
 
+### Structuring the Course
+
+If you're going to publish your course with Course-in-a-Box, we recommend drafting content in a Google Doc, as it allows for both easy editing and collaboration during the drafting phase as well as conversion to Markdown for when it's time to put the course online \(see more in [Course-in-a-Box documentation](https://course-in-a-box.p2pu.org/modules/content/markdown-and-media/)\).
+
+### Pulling in Third Party Materials
+
 In addition to bringing your own expertise to the table, we encourage course creators to broaden the perspective by referencing or including external content, as long as it can be done appropriately and will full credit to the original sources. Some practices for identifying usable external content: 
 
 * **Quotes and Ideas:** Standard citations rules apply when creating online courses. The [Purdue Online Writing Lab](https://owl.purdue.edu/owl/purdue_owl.html) is an exceptional resource for making sure you’re citing things accurately.

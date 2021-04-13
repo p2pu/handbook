@@ -10,5 +10,5 @@ This handbook is a comprehensive resource all about learning circles: how they w
 
 ———
 
-All materials in this guide are licensed for reuse under a Creative Commons BY-SA 4.0 license.
+All materials in this guide are licensed for reuse under a Creative Commons [BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
 

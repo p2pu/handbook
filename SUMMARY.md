@@ -19,12 +19,10 @@
   * [Evaluating Courses](courses/finding-courses/evaluating-courses.md)
   * [Adapting Courses](courses/finding-courses/adapting-courses.md)
 * [Creating a Course](courses/creating-courses/README.md)
-  * [Establish Goals & Outcomes](courses/creating-courses/establish-goals-and-outcomes.md)
-  * [Create an Outline](courses/creating-courses/create-an-outline.md)
+  * [Establish the Outline](courses/creating-courses/establish-goals-and-outcomes.md)
   * [Wrangle Content](courses/creating-courses/wrangle-content.md)
   * [Design the Course](courses/creating-courses/develop-course-content.md)
   * [Publish Your Course](courses/creating-courses/publish-your-course.md)
-  * [Finish & Share](courses/creating-courses/finish-and-share.md)
 
 ## Facilitation
 

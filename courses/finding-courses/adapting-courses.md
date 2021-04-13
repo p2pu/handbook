@@ -10,3 +10,12 @@ If you'd like to create a facilitator guide, use \[this template\]. You'll find 
 
 
 
+
+
+This is especially popular if your “course” is more of a facilitation guide designed to complement an existing learning resource. You can draft the materials in whatever tool you’re comfortable with, including Google Docs, Dropbox Paper, or P2PU’s hosted version of [Etherpad](https://etherpad.p2pu.org/). Examples include: 
+
+* [1619 Project](https://community.p2pu.org/t/the-1619-project-new-york-times/4739/2) \(Ulonda at Charlotte Mecklenburg Library\)
+* [ 21-Day Racial Equity and Social Justice Challenge](https://community.p2pu.org/t/21-day-racial-equity-social-justice-ywca-greater-cleveland/4770/2) \(same as above\)
+
+
+
