@@ -28,10 +28,10 @@
 
 ## Facilitation
 
-* [The Facilitator Role](facilitation/facilitation-role/README.md)
-  * [Strategies](facilitation/facilitation-role/strategies.md)
-  * [Managing discussions](facilitation/facilitation-role/managing-difficult-discussions.md)
-  * [Co-Facilitating](facilitation/facilitation-role/co-facilitation.md)
+* [Facilitation Basics](facilitation/facilitation-basics/README.md)
+  * [Strategies](facilitation/facilitation-basics/strategies.md)
+  * [Managing discussions](facilitation/facilitation-basics/managing-difficult-discussions.md)
+  * [Co-Facilitating](facilitation/facilitation-basics/co-facilitation.md)
 * [Learning Circle Checklist](facilitation/learning-circle-checklist/README.md)
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)

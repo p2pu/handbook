@@ -5,7 +5,7 @@ description: >-
   the learners on track to meet their goals.
 ---
 
-# The Facilitator Role
+# Facilitation Basics
 
 Every learning circle has a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate. **Facilitated, not taught:** Gently guided but not taught—with a little practice and training, anyone should be able to facilitate! You're the host, everything set up, and encourager of peer learning. While you're responsibility for the fidelity of the model, you're not responsible for everything that happens with in it.
 
