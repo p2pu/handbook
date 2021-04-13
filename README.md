@@ -10,9 +10,3 @@ This handbook is a comprehensive resource all about learning circles: how they w
 
 Like the learning circle tools and community, this handbook is freely available to everyone. In exchange, we ask that you not charge learners any money to attend a learning circle.
 
-|  |
-| :--- |
-|  |
-
-
-
