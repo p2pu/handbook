@@ -8,5 +8,7 @@ Learning circles are groups of people who gather to learn something together. Ro
 
 This handbook is a comprehensive resource all about learning circles: how they work, how to start one, and how to enjoy the process! Much of the handbook is written for facilitators, but you'll also find section for course creators and organizers looking to start learning circles in their community.
 
-Like the learning circle tools and community, this handbook is freely available to everyone. In exchange, we ask that you not charge learners any money to attend a learning circle.
+———
+
+All materials in this guide are licensed for reuse under a Creative Commons BY-SA 4.0 license.
 
