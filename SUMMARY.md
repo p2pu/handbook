@@ -54,9 +54,5 @@
 ---
 
 * [Teams](teams.md)
-* [Organizers & Teams](organizers/README.md)
-  * [🚧 Start a Team](organizers/start-a-team.md)
-  * [Supporting Facilitators](organizers/supporting-facilitators.md)
-  * [🚧 Finding Volunteers](organizers/finding-volunteers.md)
 * [Volunteer-powered programs](volunteer-powered-programs.md)
 

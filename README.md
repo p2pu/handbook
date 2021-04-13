@@ -12,7 +12,7 @@ Like the learning circle tools and community, this handbook is freely available 
 
 | Get started: | For Facilitators | For Organizations |
 | :--- | :--- | :--- |
-| 🟡 [What is a learning circle?]() 🟡 Intro to Learners | 📍 [Intro to Facilitation](facilitation/facilitation-role/) 🟡 [How do I start a learning circle?](facilitation/facilitation-role/) | 📍 [Organizers & Teams](organizers/) 🟡 [Start a Team](organizers/start-a-team.md) |
+| 🟡 [What is a learning circle?]() 🟡 Intro to Learners | 📍 [Intro to Facilitation](facilitation/facilitation-role/) 🟡 [How do I start a learning circle?](facilitation/facilitation-role/) | 📍 [Organizers & Teams]() 🟡 [Start a Team]() |
 
 
 
