@@ -11,6 +11,13 @@ Every learning circle has a facilitator. The facilitator does not have to be an 
 
 For many people, moving learning circles to a virtual environment adds a new set of responsibilities which can feel like a lot to manage. We isolate them in part to help you prepare, and also to identify roles and responsibilities that you may want to delegate to a co-facilitator or a willing participant.
 
+**Page contents:**
+
+1. Who is a facilitator?
+2. Gathering the Group
+3. Facilitating Discussion
+4. Providing Technical Support
+
 ## Who is a facilitator?
 
 You!!
