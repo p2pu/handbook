@@ -54,5 +54,4 @@
 ---
 
 * [Teams](teams.md)
-* [Volunteer-powered programs](volunteer-powered-programs.md)
 
