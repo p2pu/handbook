@@ -17,6 +17,8 @@ Jan’s reflection on facilitation paints a wonderful picture of the vast set of
 
 For many people, moving learning circles to a virtual environment adds a new set of responsibilities which can feel like a lot to manage. We isolate them in part to help you prepare, and also to identify roles and responsibilities that you may want to delegate to a co-facilitator or a willing participant.
 
+
+
 ### Convening the Group 
 
 Since you can’t meet in person, you’ll need to do a little extra work to decide where and how to meet virtually. This includes deciding on a form of synchronous communication \(e.g. video chat, conference call, shared notes\) and deciding whether you want to implement any asynchronous communication \(e.g. Whatsapp group, email thread, Slack channel\). Review the [Pick Your Tools](https://docs.google.com/document/d/1l5Y96YTPbXay1iDgKiFoD-uA2AixvJNt3a380L0yOWc/edit#heading=h.2jjrsjmq2kky) section, and remember you’re free to change which tool you’re using if it makes it easier for all learners to participate. A few notes to highlight:

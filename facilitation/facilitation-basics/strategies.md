@@ -65,7 +65,5 @@ Don’t stress about being “good at it” right away. Becoming a learning circ
 * How might the backgrounds and experiences of learners influence their motivation, engagement, and learning?
 * How can I modify course materials, activities, facilitation techniques, and expectations to be more accessible to all the learners in my learning circle?
 
->
-
 {% embed url="https://www.youtube.com/watch?v=tr79oP\_cg1M&ab\_channel=P2PU" %}
 
