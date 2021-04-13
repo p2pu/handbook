@@ -22,8 +22,19 @@ Once your learning circle wraps up, what comes next? Here are some common paths 
 
 ### Automatic Insight Surveys
 
-At the end of every learning circle, learners and facilitators automatically receive an email with a survey asking them to reflect upon the goal they first set, feedback about the learning circle \(what worked well vs. what could be improved\), and what their next steps will be. The survey responses are used to generate a “learning circle insights” summary \([example](https://learningcircles.p2pu.org/en/studygroup/923/report/)\) that is shared with the facilitator, team organizers, and learners as well as on the public facilitator dashboard for others to learn from.  
+At the end of every learning circle, learners and facilitators automatically receive an email with a survey asking them to reflect upon the goal they first set, feedback about the learning circle \(what worked well vs. what could be improved\), and what their next steps will be. The survey responses are used to generate a “learning circle insights” summary \([example](https://learningcircles.p2pu.org/en/studygroup/923/report/)\) that is shared with the facilitator, team organizers, and learners as well as on the public facilitator dashboard for others to learn from.
 
+P2PU will only send out one email to participants about filling out the closing survey, and your learning circle's management page will show you who has and hasn't responded. Many facilitators like to send a small nudge to remind learners to give feedback:
+
+> **Example email template:**
+>
+> Hi there,
+>
+> Can you take a few minutes to let me know how your learning circle went? Your feedback - the good and the bad - will improve the learning circle program for learners and facilitators around the world.
+>
+> Share your feedback here: &lt;survey link&gt;
+>
+> Thank you!
 
 If you have other insights you’re after, consider distributing your own survey. Sébastien in Boston collected brief but informative responses via a simplified plus/delta survey \([see it here](https://docs.google.com/forms/d/1ZKeESfAyr2TNLzGm2S6SjyVqtEN_wyaRBWU1xZu5Mbw/edit)\) that he sent to his participants to get short, weekly feedback and also gather interest for new learning circles.
 
