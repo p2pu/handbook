@@ -1,5 +1,36 @@
 # Learning Circle Checklist
 
+Facilitating a learning circle requires about three hours/week on the part of the facilitator, most of which is spent in the actual learning circle. In addition to that, you’ll need to spend some time setting-up and cleaning-up each week, communicating with learners between each meeting, and familiarizing yourself with the upcoming week of course materials.
+
+We recommend that you schedule your first learning circle for at least six weeks in the future. This will provide you ample time to promote your learning circle and address any outstanding questions with the P2PU team and community. As you think about planning for your first learning circle, here’s our recommended course of action:
+
+**6 weeks prior**
+
+* Discuss plans with any affiliated organizations
+* Choose a course
+* Find a space
+* Choose date and time
+* Confirm supplies will be available \(laptops, headphones, pens, nametags, snacks, etc.\)
+
+**4 weeks prior**
+
+* Establish additional web presence
+* Customize a flyer
+* Connect with local communities
+* Publicize online and offline
+
+**2 weeks prior**
+
+* Confirm with all registered learners
+* Confirm with venue
+* Gather supplies
+
+
+
+
+
+
+
 Here you will find a checklist that outlines the steps needed to get your learning circle running. You can compress or expand this timeline to suit your needs. However, if you don’t already have a dedicated group of learners, we recommend spending four weeks promoting your learning circle once you’ve finalized the date, time, course, and location.
 
 ## Before You Begin

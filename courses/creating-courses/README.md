@@ -8,9 +8,3 @@ This section is designed to help you design and create an online course for lear
 
 The first step to creating a course is to get a good grasp of what learning circles are and how they work. The best way to do that is by participating or facilitating! Reviewing the rest of this guide, particularly the section on [Learning Circle structure,](https://app.gitbook.com/@peer-2-peer-university/s/p2pu-knowledge-base/~/drafts/-MXIxtjgfC1BFKKovPRs/methodology/learning-circle-structure) is helpful too. 
 
-| \*\*\*\* |
-| :--- |
-
-
-\*\*\*\*
-
