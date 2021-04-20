@@ -5,9 +5,7 @@
 
 ## Methodology
 
-* [Learning Circle Structure](methodology/learning-circle-structure/README.md)
-  * [Energizers](methodology/learning-circle-structure/energizers.md)
-  * [Learning Formats](methodology/learning-circle-structure/learning-formats.md)
+* [Learning Circle Structure](methodology/learning-circle-structure.md)
 * [Group Expectations](methodology/group-expectations.md)
 
 ## Courses
