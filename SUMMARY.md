@@ -22,9 +22,7 @@
 
 ## Facilitation
 
-* [Facilitation Basics](facilitation/facilitation-basics/README.md)
-  * [Strategies](facilitation/facilitation-basics/strategies.md)
-  * [Managing discussions](facilitation/facilitation-basics/managing-difficult-discussions.md)
+* [Facilitation Basics](facilitation/facilitation-basics.md)
 * [Learning Circle Checklist](facilitation/learning-circle-checklist/README.md)
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
