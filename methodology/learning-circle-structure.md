@@ -114,15 +114,15 @@ Create space for your learning circle to share some mistakes made or struggles f
 
 ## **Energizers**
 
-Energizers can add the perfect amount of spice to any meeting and can be seriously fun! A quick note though that energizers should be brief and shouldn’t replace learning activities that help learners work together.
+Especially during meetings longer than an hour, a quick break or energizer activity can give the group some time to reset and refresh. Consider adding in a 5 minute energizer when you notice energy levels getting low!
 
 **A good energizer can:**
 
-* Makes the body move
-* Encourages creativity and play
-* Invites group participation
-* Creates a transition
-* Does not make anyone feel uncomfortable
+* Make the body move
+* Encourage creativity and play
+* Invite group participation
+* Create a transition
+* Be accessible and comfortable for everyone in the group
 
 ### **Energizer Activities to Try**
 
@@ -130,7 +130,7 @@ Energizers can add the perfect amount of spice to any meeting and can be serious
 
 If you feel the need for a break, it may already be too late! So, take a break already! Stretch, eat some cookies, try a guided meditation, go for a walk, watch a music video, have a dance party, share recipes, or play an online game like [Pictionary](https://gartic.io/) or [Codenames](https://www.horsepaste.com/).
 
-#### 💥 The Shakedown \(In-person\)
+#### 💥 The Shakedown \(In-Person\)
 
 Ask everyone to stand up, form a circle, and prepare to shake every limb of their body together. Explain that you will start with your right arm, and shake it 8 times while counting \(loudly if possible!\) each shake “1- 2 - 3 - 4 - 5 - 6 - 7 - 8!”  Explain that after this you will follow this with eight shakes of your left arm, right foot, and then left foot. After that, you’ll repeat the same pattern but with four shakes each, then two, then one. End with a big cheer!
 
@@ -175,7 +175,7 @@ A quick way to end a meeting while still getting feedback from everyone is to as
 
 In groups of 10 or less, you can ask a specific question as a wrap-up. Our general rule of thumb is to not ask anything that you’re not genuinely interested in hearing the answer to. 
 
-Our favorite questions are:
+Our favorite questions:
 
 * What’s something that surprised you this week?
 * What is one thing we can do differently next week to make our virtual meeting space more hospitable?
