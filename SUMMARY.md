@@ -5,11 +5,9 @@
 
 ## Methodology
 
-* [Typical Structure](methodology/learning-circle-structure/README.md)
-  * [Check-in + Icebreakers](methodology/learning-circle-structure/check-ins.md)
+* [Learning Circle Structure](methodology/learning-circle-structure/README.md)
   * [Energizers](methodology/learning-circle-structure/energizers.md)
   * [Learning Formats](methodology/learning-circle-structure/learning-formats.md)
-  * [Reflections](methodology/learning-circle-structure/reflections.md)
 * [Group Expectations](methodology/group-expectations.md)
 
 ## Courses

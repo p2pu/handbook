@@ -13,3 +13,7 @@ Since starting the program in 2015, we’ve found that learning circles:
 * Create viable alternatives to formal education
 * Support digital inclusion for people new to online learning
 
+## **What does a learning circle look like?**
+
+{% embed url="https://www.youtube.com/watch?v=H5vReon6uL4&ab\_channel=P2PU" %}
+
