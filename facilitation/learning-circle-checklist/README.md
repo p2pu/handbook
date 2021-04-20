@@ -25,21 +25,14 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 
 ## 2 weeks prior
 
-* Develop a facilitator's guide for yourself by exploring the learning materials and creating an outline for how you want to proceed through the materials 
-* * Manage your learning circle
-* The P2PU website does not have a way to cap registrations, so you will want to keep an eye on registrations - an ideal number of participants is 5-12, but there will be folks who sign up who won’t be able to attend, so you’ll want to allow a higher number of sign ups.
-* You can close registrations from the Dashboard - here’s how:
-  1. Go to your [P2PU Dashboard](https://learningcircles.p2pu.org/en/)
-  2. Under My Learning Circles, click Manage to the right of the course
-  3. Click Close signup
-* Practice with Zoom and decide on details
-  * Schedule a Zoom practice session with your learning circle team to cover who is doing what, how information will be presented and to get comfortable with the Zoom controls
-  * You may want to meet with your learning circle team between each session to reflect on the previous meeting and to adjust for the next meeting
+* Begin making a facilitator's guide by exploring the learning materials and creating an outline for how you want to proceed through the materials 
+* Manage your learning circle
+  * Check in on your current number of of registrations and close sign-ups if needed \(see [Managing learning circles](../../tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)\)
 
+## 1 week prior
 
-
-* Confirm with all registered learners
-* Confirm with venue
+* Follow up with all registered learners to make sure they plan to attend, ask about accessibility considerations, and make plans for any technical troubleshooting \(as needed\)
+* If in-person, confirm reservations with your meeting venue
 * Gather supplies
 
 ## Before each learning circle meeting
