@@ -2,11 +2,11 @@
 
 Once you’ve saved your learning circle, it will appear on your Dashboard, where you can now access the learning circle management tools.
 
-![\_images/2019-08-13-my-learning-circles.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2019-08-13-my-learning-circles.png)
+![](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2019-08-13-my-learning-circles.png)
 
 When you click on “Manage”, you’ll go to a page for your learning circle that looks like this:
 
-![\_images/2019-08-13-lc-management-page.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2019-08-13-lc-management-page.png)
+![](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2019-08-13-lc-management-page.png)
 
 #### Manage sign ups
 
