@@ -42,5 +42,7 @@
 
 ---
 
-* [Teams](teams.md)
+* [Teams](team-tools/README.md)
+  * [Team Tools](team-tools/team-tools.md)
+  * [Gather a Team](team-tools/gather.md)
 
