@@ -35,21 +35,11 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 * If in-person, confirm reservations with your meeting venue
 * Gather supplies
 
-## Before each learning circle meeting
+## Before each meeting
 
-* Communication with learners
-  * The P2PU portal will automatically send the following emails to learners
-    * Confirmation of registration
-    * A reminder email 2 days before each meeting that allows the learner to RSVP and resends the circle Zoom link
-  * Facilitator might need to send additional communication to learners - here’s how:
+* Edit reminder messages – these will be sent automatically 2 days before the meeting and will include an RSVP link and information about the meeting space \(unless you choose to edit that out\)
 
-1. Go to your [P2PU Dashboard](https://learningcircles.p2pu.org/en/)
-2. Under My Learning Circles, click Manage to the right of the course
-3. Scroll down to the Messages section and either
-   * click Edit to the right of the message you would like to update the automatic message that will be sent by the site 
-   * click New Message to send a new note to all learners
-
-## After each learning  circle meeting
+## After each meeting
 
 * Capture feedback and communication with learners
   * Facilitators should complete this process after each meeting - this process will include communicating to learners about the meeting, sharing insights with the P2PU community and capturing stats
