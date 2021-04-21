@@ -20,5 +20,3 @@ At the end of a learning circle, learners and facilitators receive an email with
 
 The responses to the surveys are used to generate a summary of the learning circle, we call this the “learning circle insights” \([here is an example](https://learningcircles.p2pu.org/en/studygroup/923/report/)\). The learning circle insights are shared with the facilitator, any team organizers, and all the registered learners by email and is made public for other facilitators and learners to see.
 
->
-

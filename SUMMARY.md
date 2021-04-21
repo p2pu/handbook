@@ -31,10 +31,9 @@
 
 ## Tools & Resources
 
-* [Tools for learning circles](tools-and-resources/tools-for-learning-circles/README.md)
+* [Tools for Learning Circles](tools-and-resources/tools-for-learning-circles/README.md)
   * [Facilitator dashboard](tools-and-resources/tools-for-learning-circles/untitled.md)
   * [Creating Learning Circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
-  * [Managing learning circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
   * [Automated messaging](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
 * [Promotional Materials](tools-and-resources/community-resources.md)
 * [Community Support](tools-and-resources/community-support.md)
