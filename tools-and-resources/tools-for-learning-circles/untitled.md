@@ -2,9 +2,9 @@
 
 The learning circle dashboard is the facilitator's home on P2PU. From here, you can create learning circles, manage existing learning circles, and see what else is happening around the community. You can also access your dashboard directly at [https://learningcircles.p2pu.org/en/](https://learningcircles.p2pu.org/en/)
 
-Dashboard Components
-
 ![\_images/2019-08-13-blank-dashboard.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2019-08-13-blank-dashboard.png)
+
+## Dashboard Components
 
 #### My Learning Circles
 
@@ -28,7 +28,7 @@ P2PU has a community events calendar that facilitators can add relevant events t
 
 If there are any actions that you need to take, such as validating your email address, a personalized notification will appear at the top of your dashboard. On the top right, you will see any announcements directed at all facilitators.
 
-#### Additional Dashboard Features
+## Additional Dashboard Features
 
 **What’s Happening this Week:** By default, this section shows up to three upcoming meetings taking place globally. On the “My Team” tab, if you are on a team you will see the upcoming meetings for learning circles facilitated by your team members.
 
@@ -40,16 +40,16 @@ If there are any actions that you need to take, such as validating your email ad
 
 **Latest Posts on Instagram:** P2PU is on Instagram. This section shows our two most recent posts. You can also click through to our account.
 
-### Joining a Team
+## Joining a Team
 
-Some elements of the dashboard are only visible to people who are on a team. Joining a team means that:
+Some elements of the dashboard are only visible to people who are on a team. \(See [Teams](../../teams/)\) 
+
+Joining a team means:
 
 * Your learning circles will appear on your team’s learning circle page, making it easier for people in your community to find your learning circles.
 * You’ll be informed of other learning circles happening across your team through your dashboard and a weekly update. \(You can configure email communications in account settings\).
 * Your email address will be visible to other members of your team in the weekly update.
 * Information about your learning circles will be included in any reporting or evaluation that your team is conducting.
 
-You can see current teams at: [https://www.p2pu.org/en/teams/](https://www.p2pu.org/en/teams/)  
-  
 
 
