@@ -65,7 +65,19 @@ To edit your own copy, click "view template" underneath the previews below; once
   </tbody>
 </table>
 
+Facilitators around the world have adapted this strategy to collect ideas for their learning circle programs. Visit our forums to [see examples and share your own.](https://community.p2pu.org/t/q-method-for-documenting-community-interests/2699/3)
+
 ### Virtual Q Method
 
 To try the Q Method online, you can use a standard survey tool \(such as [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com/), or [SurveyMonkey](https://www.surveymonkey.com/)\) where responses are aggregated and shared with you privately, or you can use a collaborative polling tool \(such as [Tricider](https://www.tricider.com/), [Mentimeter](https://www.mentimeter.com/), or [AnswerGarden](https://answergarden.ch/)\) where responses are shared publicly.
+
+P2PU has created two Google Forms templates with different sets of topics based on the P2PU Q Method poster template shared above. You van view and make copies of them below:
+
+View live form: [What do you want to learn? \(2018 topics\)](https://docs.google.com/forms/d/e/1FAIpQLSfVuVIcZqo758boUO0Crvz3J_2rq7pNCKwExTVA4natdt9oAA/viewform)  
+Make a copy: [What do you want to learn? \(2018 topics\)](https://docs.google.com/forms/u/2/d/1mUnjGmm3YE8q4xkE3RAFKAcMgBi8QNX3DCrxrt_UXQA/copy)
+
+View live form: [What do you want to learn? \(2021 topics\)](https://docs.google.com/forms/d/e/1FAIpQLSc3zmA-BR0hzRFLTc5WgNaYQ-teekxkvbe588bthVKb6fGLig/viewform)  
+Make a copy: [What do you want to learn? \(2021 topics\)](https://docs.google.com/forms/u/2/d/1GLt_Y-lPJ4bHVZ4RUFPZI7IaN0bkBe9w_Vo0JGoSPGs/copy)
+
+You can submit test responses to these surveys if you’d like to try them out, but please make your own copies before distributing to your community to avoid any security issues with learner contact info. Feel free to make any and all changes that you need to!
 
