@@ -12,3 +12,7 @@ Receiving feedback is necessary to improve, both as a learning circle participan
 * [Learning circle insights](https://community.p2pu.org/t/learning-circle-insights-are-now-available/3056): Every learning circle has the opportunity to share their experience through feedback forms that we send to facilitators and learners.
 * Social media: We encourage facilitators and learners to share what they’re learning throughout their learning circle on [Twitter](https://twitter.com/P2PU), [Instagram](https://www.instagram.com/p2puniversity/), [Flickr](https://www.flickr.com/groups/p2pu/), and [Facebook](https://www.facebook.com/P2PUniversity). \#learningcircles.
 
+[Intro to P2PU and Learning Circles \(Google Slides\)](https://docs.google.com/presentation/d/1iN_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit#slide=id.g48b0301b60_0_153)
+
+{% embed url="https://docs.google.com/presentation/d/1iN\_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit\#slide=id.g48b0301b60\_0\_153" %}
+

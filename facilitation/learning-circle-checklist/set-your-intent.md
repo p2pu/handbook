@@ -1,54 +1,32 @@
 # Set Your Intent
 
-**Set Your Intent**
-
-Learning circles work best when learners can identify what motivates their participation, and the same is true for the facilitator. The questions we’ve been asking new facilitators for five years are still relevant for virtual programs:
+Learning circles work best when learners can identify what motivates their participation, and the same is true for the facilitator. As you begin thinking about the learning circles you want to run, here are some questions you can ask to set your intent:
 
 * What are you personally hoping to achieve by facilitating a learning circle?
 * What need are you trying to address in your community?
 * Who do you expect to reach?
 * How will you know if your experiment was a success?
-* \[note -- distinguishing between a facilitator wanting to find people to learn with versus running a program to meet a community need\]
-
-**Check in with your people**
 
 Once you’ve established your personal goals for a learning circle, you’ll want to start sharing your ideas and gathering buy-in from people who will help you along the way. This may include reaching out to people who you think might want to participate, organizations that might help you promote your learning circle, or a group that you are part of that can give you feedback on your idea. You are also, of course, welcome to reach out to P2PU at any time if you want our input! 
 
-### **Check in with the wider community**
+## **Identifying Community Interests**
 
-If you want to solicit feedback from a wider audience, such as your library’s mailing list, you may need to come up with a more scalable solution than soliciting 1-1 feedback. Our favorite strategy for doing this is called the [Q Method](https://community.p2pu.org/t/q-method-for-documenting-community-interests/2699), a dot-based voting methodology that we’ve used for years to solicit interest for potential learning circle topics. To try this online, you can use a standard survey tool \(such as [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com/), or [SurveyMonkey](https://www.surveymonkey.com/)\), where responses are aggregated and shared with you privately, or a collaborative polling tool \(such as [Tricider](https://www.tricider.com/), [Mentimeter](https://www.mentimeter.com/), or [AnswerGarden](https://answergarden.ch/)\), where responses are shared publicly.  
-****
+{% embed url="https://www.youtube.com/watch?v=PCnrq1iisf8" caption="5:23 video: How do I know what people want to learn?" %}
 
-⭐ If you are looking to ask multiple questions and/or be able to connect responses to individual respondents, then you are best off using a standard survey tool. We use Google Forms frequently at P2PU, and we’ve made a  [Q Method survey template](https://docs.google.com/forms/d/e/1FAIpQLSe5TByw6oXOFz3EluzEiZ_aA6BdWKQg0oBGSjWPW1XgkSMVbA/viewform?usp=sf_link)  that you can riff off of for your own uses.  
-****
+If your goal is to run programs that support the needs of your local community, you may want to gather insights and interests from prospective learners. By working with partner organizations and networks, building strong relationships between you and people around you, and outreaching to specific audiences, you’ll be much better suited to know what people in your local area want to learn and how to reach them.
 
-⭐ If you’re only interested in asking a single question \(e.g. what topics are you interested in learning?\) and you want respondents to be able to see what other people have suggested, then you should use a collaborative polling tool. Tricider works well if you want people to share more complex thoughts and upvote/respond to one another, and AnswerGarden works well if you want to gather short responses that become visualized as a wordcloud.   
-****
+Community outreach can be done successfully in a variety of ways, in-person and online, and will often depend on your unique resources and circumstances. Here are some popular tools and strategies:
 
-**Check out the** [**Setup & Promotion**](https://docs.google.com/document/d/1l5Y96YTPbXay1iDgKiFoD-uA2AixvJNt3a380L0yOWc/edit#heading=h.1n4i85girde2) **section for more ideas about how to reach your community if you don’t have direct contact information like phone or email lists.**  
+* **Promotion:** Use organizational or local mailing lists, neighborhood apps \(like [Nextdoor](https://nextdoor.com/)\), local social media groups, or other local outreach lists to reach a number of people in your community with questions or surveys. We use Google Forms frequently at P2PU and have a [topic survey template](https://docs.google.com/forms/d/e/1FAIpQLSe5TByw6oXOFz3EluzEiZ_aA6BdWKQg0oBGSjWPW1XgkSMVbA/viewform?usp=sf_link)  that you can riff off of for your own uses. Collaborative polling tool like [Tricider](https://www.tricider.com/) are also great for starting conversations between respondents. 
+* **Focus Groups:** In Kenya, libraries run [mini focus groups](https://community.p2pu.org/t/library-patron-focus-group/3129) as part of their learning circle training. They get a quick idea of what their local library patrons are interested in and their digital literacy skills which they can use for discussion as they continue their training workshop. Some libraries have offered a learning circle teaser or public orientation where they introduce the concept of learning circles through an informal meeting or large presentation and, through these meetings, they also receive feedback about what people are interested in learning
+* **Assess interests of and gather data from current students or patrons:** Observation and insights gathered from each branch and location is key to understanding your unique community. If you're part of a library, you can use collections data or access stats from institutional memberships \(like Lynda.com\) to understand what your patrons are seeking out.
+* **Ask local businesses:** Visiting a number of local businesses and simply asking what skills or community programs they feel are missing.
 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p><b>MORE IN THE FORUM: </b>
-        </p>
-        <p><a href="https://community.p2pu.org/t/how-do-i-know-what-topic-people-want-to-learn-about/2729"><b>How do I know what topic people want to learn about?</b></a>
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-## Gathering input from your community
-
-Before you start running learning circles, you may want to run a small outreach project in your community to both get the word out and better understand the needs of potential learning circle participants. Below, we outline a few ways that the P2PU community has developed or used to integrate community opinions into learning circle program planning!
-
-#### The Q method <a id="the-q-method"></a>
+## The Q Method
 
 The Q Method is a participatory public bulletin used to solicit feedback about course topics that people are interested in. It’s named after our friend Qumisha \(a.k.a. Q\) from Detroit Public Library, who came up with the idea as a way to promote learning circles at her library branch.
+
+The Q Method, a dot-based voting methodology that we’ve used for years to solicit interest for potential learning circle topics. To try this online, you can use a standard survey tool \(such as [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com/), or [SurveyMonkey](https://www.surveymonkey.com/)\), where responses are aggregated and shared with you privately, or a collaborative polling tool \(such as [Tricider](https://www.tricider.com/), [Mentimeter](https://www.mentimeter.com/), or [AnswerGarden](https://answergarden.ch/)\), where responses are shared publicly.
 
 ![The Q method in action](https://community.p2pu.org/uploads/default/original/1X/833de6b1554b25041b78c207017c36fdbf316714.jpg)
 

@@ -1,18 +1,11 @@
 # Promote Your Learning Circle
 
-### Page contents:
+### **Getting the** 
 
-1. Materials for Learners
-2. Materials for Facilitators
-3. Materials for Orgs and Libraries
+* **Organizational mailing lists:** If you're part of a library, community organization, or other social group that has a list of its members, reach out to the group with surveys or questions to gather interest.
+* **Social media channels:** 
 
-## Materials for Learners
-
-## Materials for Facilitators
-
-[Intro to P2PU and Learning Circles \(Google Slides\)](https://docs.google.com/presentation/d/1iN_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit#slide=id.g48b0301b60_0_153)
-
-{% embed url="https://docs.google.com/presentation/d/1iN\_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit\#slide=id.g48b0301b60\_0\_153" %}
+## How to Promote a Learning Circle
 
 {% embed url="https://youtu.be/QEi5\_MJpLMc" %}
 
