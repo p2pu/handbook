@@ -4,7 +4,7 @@ No two learning circles are alike! Ultimately, it's up to the group to decide ho
 
 * **3-12 Learners**: Less than 3 people can start to feel too interpersonal. More than 12 can make it difficult to connect as a group. 
 * **90 Minutes for 6-8 Weeks:** This has emerged as a sweet spot, offering enough time and space to build a productive group culture without being alienating due to the time commitment. 
-* **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible 4-part structure each week of [Check-In](learning-circle-structure.md#check-in), [Read & Watch](learning-circle-structure.md#read-and-watch), [Do/Make/Say/Think](learning-circle-structure.md#do-make-say-think), and [Reflection](learning-circle-structure.md#reflection).
+* **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible weekly structure of a check-in, time spent learning, an optional break \(or energizing activity\), and a closing reflection.
 
 ## **Check-In**
 
@@ -60,9 +60,9 @@ Being online presents the opportunity to share media with one another. This can 
 
 Ask someone to give a summary of what was discussed during the previous meeting or meetings. This reminds the group of what was covered already and can be helpful for someone who missed a previous meeting. 
 
-## **Learn & Do**
+## **Learning Formats**
 
-_Learn & Do_ refers to the time spent with the learning material. This can take many forms, varying based on different groups and topics: reading an article or a textbook chapter, watching lecture or tutorial videos, trying out interactive content, etc. 
+The way your learning circle progresses through the learning material can take many forms, varying based on different groups and topics: reading an article or a textbook chapter, watching lecture or tutorial videos, trying out interactive content, etc. 
 
 To support different learning styles, it's helpful to explore different types of learning formats. Sometimes these activity ideas come easily \(e.g. if the topic is public speaking, learners can take turns sharing short monologues\), and sometimes they require some creativity to effectively reinforce the goals of the module. We find that a mix of passive and active activities combining individual learning and group exploration allow for deeper understanding of the learning material. It also keeps things interesting!
 
