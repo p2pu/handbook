@@ -1,4 +1,4 @@
-# Facilitating Group Learning
+# Facilitating Peer Learning
 
 Learning circles are facilitated, not taught, which means you don't need to be a teacher or a subject matter expert in order to successfully host a learning circle: 
 
