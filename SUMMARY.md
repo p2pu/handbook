@@ -42,5 +42,8 @@
 
 ---
 
-* [Teams](teams.md)
+* [Teams](teams/README.md)
+  * [Managing Members](teams/managing-members.md)
+  * [Team Page](teams/team-page.md)
+  * [Weekly Team Summary](teams/weekly-team-summary.md)
 
