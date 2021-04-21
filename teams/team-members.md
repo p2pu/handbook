@@ -1,4 +1,4 @@
-# Managing Team Members
+# Managing team members
 
 Adding a facilitator to your team will enable a variety functions:
 

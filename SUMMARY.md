@@ -42,9 +42,9 @@
 ---
 
 * [Teams](teams/README.md)
-  * [Managing Team Members](teams/managing-members.md)
-  * [Customizing the Team Site](teams/team-page.md)
-  * [Weekly Team Summary](teams/weekly-team-summary.md)
-  * [Courses for Teams](teams/courses-for-teams.md)
-  * [Aggregated Data](teams/aggregated-data.md)
+  * [Managing team members](teams/team-members.md)
+  * [Customizing team sites](teams/team-sites.md)
+  * [Weekly summary](teams/weekly-summary.md)
+  * [Courses for teams](teams/courses-for-teams.md)
+  * [Aggregated data](teams/aggregated-data.md)
 

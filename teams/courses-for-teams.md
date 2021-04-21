@@ -1,4 +1,4 @@
-# Courses for Teams
+# Courses for teams
 
 ### Curated Course Lists
 

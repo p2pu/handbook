@@ -1,4 +1,4 @@
-# Customizing the Team Site
+# Customizing team sites
 
 Each team is set up with a unique learning circle landing page hosted on P2PU.org \(_p2pu.org/your-team_\) which includes an introduction to your learning circle program, a gallery of your facilitators, and a searchable list of your team's current and past learning circles. \(See [Current Teams](https://www.p2pu.org/en/teams/) for site examples\)
 

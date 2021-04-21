@@ -1,4 +1,4 @@
-# Aggregated Data
+# Aggregated data
 
 There are five types of data that are gathered during a learning circle, all of which is aggregated and shared with facilitators when the learning circle is completed.
 
