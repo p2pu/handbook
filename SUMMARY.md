@@ -36,7 +36,8 @@
   * [Creating Learning Circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
   * [Managing learning circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
   * [Automated messaging](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
-* [Community Resources](tools-and-resources/community-resources.md)
+* [Promotional Materials](tools-and-resources/community-resources.md)
+* [Community Support](tools-and-resources/community-support.md)
 
 ## Starting a Community
 
