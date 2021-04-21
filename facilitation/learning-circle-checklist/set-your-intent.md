@@ -21,28 +21,51 @@ Community outreach can be done successfully in a variety of ways, in-person and 
 * **Focus Groups:** In Kenya, libraries run [mini focus groups](https://community.p2pu.org/t/library-patron-focus-group/3129) as part of their learning circle training. They get a quick idea of what their local library patrons are interested in and their digital literacy skills which they can use for discussion as they continue their training workshop. Some libraries have offered a learning circle teaser or public orientation where they introduce the concept of learning circles through an informal meeting or large presentation and, through these meetings, they also receive feedback about what people are interested in learning
 * **Assess interests of and gather data from current students or patrons:** Observation and insights gathered from each branch and location is key to understanding your unique community. If you're part of a library, you can use collections data or access stats from institutional memberships \(like Lynda.com\) to understand what your patrons are seeking out.
 * **Ask local businesses:** Visiting a number of local businesses and simply asking what skills or community programs they feel are missing.
+* **Community partnerships:** National or regional partners have a good understanding of the needs and interests of people who may not be connected to your community agency or library. They might also host local meeting or meetups which you can support, host or collaborate with. 
 
 ## The Q Method
 
-The Q Method is a participatory public bulletin used to solicit feedback about course topics that people are interested in. It’s named after our friend Qumisha \(a.k.a. Q\) from Detroit Public Library, who came up with the idea as a way to promote learning circles at her library branch.
+P2PU's go-to strategy for soliciting interest in learning circle topics is The Q Method, an asynchronous dot-based voting methodology that can be used in-person or online. The Q Method is named after Qumisha \(a.k.a. Q\) Goss, a librarian from Detroit Public Library who came up with the idea as a way to promote learning circles at her library branch. \(She now works with P2PU full-time—hi Q!\)
 
-The Q Method, a dot-based voting methodology that we’ve used for years to solicit interest for potential learning circle topics. To try this online, you can use a standard survey tool \(such as [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com/), or [SurveyMonkey](https://www.surveymonkey.com/)\), where responses are aggregated and shared with you privately, or a collaborative polling tool \(such as [Tricider](https://www.tricider.com/), [Mentimeter](https://www.mentimeter.com/), or [AnswerGarden](https://answergarden.ch/)\), where responses are shared publicly.
+![The Q method in action &#x2013;&#xA0;The most popular course with 20 votes was Marketing in a Digital World. There was a tie for second place &#x2013; Introduction to Public Speaking and Social Entrepreneurship 101 both received 16 votes. To start 2017, Parkman Branch, based on the results, offered both the marketing and public speaking courses as learning circles.](https://community.p2pu.org/uploads/default/original/1X/833de6b1554b25041b78c207017c36fdbf316714.jpg)
 
-![The Q method in action](https://community.p2pu.org/uploads/default/original/1X/833de6b1554b25041b78c207017c36fdbf316714.jpg)
+The Q Method is a participatory public bulletin, traditionally created using paper, tape, and dot stickers. The board documents and displays community interests on specific topics, online courses, or ideas. 
 
-As you can see in the example above, the most popular course with 20 votes was Marketing in a Digital World. There was a tie for second place – Introduction to Public Speaking and Social Entrepreneurship 101 both received 16 votes. Based on the results, the Q offered both the marketing and public speaking courses as learning circles.
+The Q Method not only invites community contribution for deciding topics, it also helps promote upcoming programs to everyone who wanders by the poster.  This concept has been re-used by learning circle facilitators around the world, and can also have applications for other community feedback issues, such as strategic planning, programming decision-making, and understanding community satisfaction and engagement.
 
-What’s great about the Q Method is that it both invites community contribution for deciding topics, and serves to promote the program. This concept has been re-used by learning circle facilitators around the world, and can also have applications for other community feedback issues, such as strategic planning, programming decision-making, and understanding community satisfaction and engagement. Our our community forum, you can [download a template](https://community.p2pu.org/t/q-method-for-documenting-community-interests/2699/2) to create your own Q method and see how others have implemented it around the world.
+Dot voting is an established facilitation method used to describe voting with dot stickers or marks with a marker pen. For more information, check out [Dotmocrocy](https://dotmocracy.org/). 
 
-#### Focus groups <a id="focus-groups"></a>
+### Q Method Templates & Examples
 
-If you want more feedback on program design, you may wish to bring a small group of people together and ask them questions about what they are looking for in learning circles. This is a great way to not only generate data and insight, but also to get to know people and build relationships. In Kenya, libraries run focus groups as part of their learning circle training; we’ve adapted their focus group questions for you [on the forum](https://community.p2pu.org/t/library-patron-focus-group/3129).
+If you want to use the Q Method in person, we've created a few templates you can use, modify, or reimagine with your own designs or topics. They're all built in Google Slides so you won't need to download any programs to modify them, just a Google-compatible account. 
 
-#### Community partnerships <a id="community-partnerships"></a>
+To edit your own copy, click "view template" underneath the previews below; once you've opened the file, navigate to **File &gt; Make Copy** to save a version in your own Google Drive.
 
-Watch this video clip of Athanasia Fitos, a librarian from Miami, discussing the role of community partnerships in building a successful learning circle community. As you watch, think about \(or discuss\) your responses to these questions:
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <img src="../../.gitbook/assets/q-method-poster.jpg" alt/>
+      </th>
+      <th style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../../.gitbook/assets/q-method-template.jpg" alt/>
+        </p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>18x24&quot; Poster (</b><a href="https://docs.google.com/presentation/d/1cZGxxRuC83qkD95dt1-mZ1vALDUxgup4C-tp9W-D3yI/edit#slide=id.gd36be7eca8_0_0"><b>view template</b></a><b>)</b>
+      </td>
+      <td style="text-align:left"><b>8.5x11&quot; Poster Series (</b><a href="https://docs.google.com/presentation/d/1UgIZQa0LQxJihHXadUk-71pURHRe3WjBjXhLmD5iYG4/edit#slide=id.p"><b>view template</b></a><b>)</b> 
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-* How do you currently understand and document the needs, interests, and experiences of the various communities you serve?
-* Which communities does your organization not serve who you might want to reach?
-* What audiences or communities do you aim to serve through learning circles, and what might benefit or interest them most?
+### Virtual Q Method
+
+To try the Q Method online, you can use a standard survey tool \(such as [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com/), or [SurveyMonkey](https://www.surveymonkey.com/)\) where responses are aggregated and shared with you privately, or you can use a collaborative polling tool \(such as [Tricider](https://www.tricider.com/), [Mentimeter](https://www.mentimeter.com/), or [AnswerGarden](https://answergarden.ch/)\) where responses are shared publicly.
 
