@@ -1,15 +1,28 @@
 # Teams
 
-We offer additional functionality for institutions that are running learning circles across multiple locations \(“teams”\). Each team is led by an organizer, who works closely with P2PU to ensure that new facilitators in their area have everything they need to run learning circles. Teams are granted the following features and functionality:
+P2PU offers additional functionality for institutions that are running learning circles across multiple locations or with a network of multiple facilitators \(“teams”\). Each team is led by an _organizer_ who works closely with P2PU to ensure that facilitators in their area have everything they need to run learning circles.‌
 
-* Customizable learning circle team website
-* Weekly email with team updates
-* Proprietary course management
+Teams are granted the following features and functionality, as detailed throughout this section:
+
+* Customizable learning circle team website \(see [Current Teams](https://www.p2pu.org/en/teams/)\)
+* Weekly internal email with team updates and reflections
+* Curated course lists and proprietary course management
 * Aggregated learning circle feedback and data
+* Team profiles featured on the P2PU site
 
-Teams also get additional support from P2PU -- access to trainings, PD, new courses, facilitation help, case studies, and orientation for new facilitators.  Build a community
+Teams receive additional benefits including facilitator training and onboarding support, access to P2PU-led virtual learning circles, and assistance finding/adapting/developing new courses. 
 
-Current learning circle teams are visible at [https://www.p2pu.org/en/teams/](https://www.p2pu.org/en/teams/). If you would like to start a new team, read on and reach out.
+Interested in starting a P2PU team? [**Please reach out to our team for more info!**](https://www.p2pu.org/en/contact/)\*\*\*\*
+
+### ​ <a id="undefined"></a>
+
+‌
+
+### ‌ <a id="customizing-the-team-site"></a>
+
+
+
+
 
 
 
