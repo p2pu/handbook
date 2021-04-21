@@ -12,7 +12,11 @@ Teams are granted the following features and functionality, as detailed througho
 
 Teams receive additional benefits including facilitator training and onboarding support, access to P2PU-led virtual learning circles, and assistance finding/adapting/developing new courses. 
 
+{% hint style="info" %}
 Interested in starting a P2PU team? [**Please reach out to our team for more info!**](https://www.p2pu.org/en/contact/)\*\*\*\*
+{% endhint %}
+
+
 
 ### ​ <a id="undefined"></a>
 

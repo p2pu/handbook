@@ -1,11 +1,13 @@
 # Learning Circle Structure
 
-No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. That being said, there are a few common practices that help surface a peer learning environment and prevent facilitators from slipping into the role of a teacher. 
+No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. That being said, there are a few common practices that help reinforce a peer learning environment and prevent facilitators from slipping into the role of a teacher. 
 
-* **3-12 Learners**: Less than 3 people can start to feel too interpersonal. More than 12 can make it difficult to connect as a group. 
+* **4-12 Learners**: Less than 4 people can start to feel too interpersonal. More than 12 can make it difficult to connect as a group. 
 * **90 Minutes for 6-8 Weeks:** This has emerged as a sweet spot, offering enough time and space to build a productive group culture without being alienating due to the time commitment. 
 * **Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible weekly structure of a check-in, time spent learning, an optional break \(or energizing activity\), and a closing reflection.
 * **Establishing group expectations:** At the beginning of your learning circle, take some time with your group to decide how it wants to run itself. This will offload the pressure of the facilitator to manage every detail and default into a hierarchical role. \(See [**Group Expectations**](group-expectations.md)\)
+
+{% embed url="https://www.youtube.com/watch?v=H5vReon6uL4&ab\_channel=P2PU" caption="What does a learning circle look like?" %}
 
 ## **Check-In**
 

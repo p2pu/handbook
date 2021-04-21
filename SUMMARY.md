@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Learning Circles Handbook](README.md)
-* [Why learning circles?](why-learning-circles.md)
 
 ## Methodology
 
