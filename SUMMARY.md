@@ -47,4 +47,5 @@
   * [Team Page](teams/team-page.md)
   * [Weekly Team Summary](teams/weekly-team-summary.md)
   * [Courses for Teams](teams/courses-for-teams.md)
+  * [Aggregated Data](teams/aggregated-data.md)
 

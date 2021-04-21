@@ -1,5 +1,12 @@
 # Managing Members
 
+Adding a facilitator to your team will enable a variety functions:
+
+* Their P2PU profile image and any learning circle they create will show up on your team page
+* Their learning circle sign up pages will list an affiliation with your team and a link back to your team page
+* They will see details about all learning circles happening on the team on their dashboard, and they'll have the option to opt into weekly team summary emails
+* They will be able to create learning circles using any proprietary courses that have been added to the P2PU courses page by their team members
+
 ## Adding Team Members
 
 There are three ways for an organizer to invite somebody to a team, all of which can be accessed from the Team Management block on the dashboard.
