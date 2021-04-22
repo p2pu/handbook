@@ -34,6 +34,8 @@ All registered learners will appear in the Learners section of the page. This wi
 | :---: | :---: | :---: |
 | **Edit** the learner's contact information  | **Delete** the learner from the learning circle and P2PU's database | **See** the learner's response to the sign-up questions |
 
+The **Add Learner** button can be used to manually add participants to a learning circle. This only allows for adding a participant's name and contact information, not their answers to the sign-up questions. Note that this will automatically send a welcome message to the participant to let them know they've joined a learning circle.
+
 ### **Messages**
 
 ### Meeting Manager
