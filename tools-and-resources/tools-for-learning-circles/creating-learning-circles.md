@@ -26,7 +26,7 @@ Once you complete the creation process and publish your learning circle \(either
 
 ![](../../.gitbook/assets/learning-how-to-learn-.png)
 
-You’ll receive a confirmation email which includes the link to your sign up page and a number of other resources. The P2PU Welcome Committee \(a mix of staff and community members\) will be copied on the email; if you asked for any help on Step 5, someone will reach out to ensure that your concerns are addressed before the learning circle begins. 
+You’ll receive a confirmation email which includes the link to your sign up page and a number of other resources. The P2PU Welcome Committee \(a mix of P2PU staff and community members\) will be copied on the email; if you asked for any help on Step 5, someone will reach out to ensure that your concerns are addressed before the learning circle begins. 
 
 You can manage your learning circle at any time through your [Facilitator Dashboard](untitled.md). 
 
