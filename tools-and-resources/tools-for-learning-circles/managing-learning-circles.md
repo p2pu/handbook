@@ -24,3 +24,17 @@ The top section of the page shows a preview of your learning circle information:
 * **Close Signup:** Turn off the registration form on your sign-up page. \(If you close signup, the button will change to **Open Signup** and you can activate registration again anytime.\)
 * **Delete:** This will delete your learning circle from public view and remove the records of the learning circle and registered learners from the P2PU database.
 
+### Learners
+
+![&quot;Learners&quot; table ](../../.gitbook/assets/screen-shot-2021-04-22-at-2.33.49-pm.png)
+
+All registered learners will appear in the Learners section of the page. This will display their full name and any contact information—email and/or phone—they've shared during sign-up. There are three buttons linked to each learner:
+
+| ![](../../.gitbook/assets/screen-shot-2021-04-22-at-2.39.16-pm.png) | ![](../../.gitbook/assets/screen-shot-2021-04-22-at-2.39.20-pm%20%281%29.png) | ![](../../.gitbook/assets/screen-shot-2021-04-22-at-2.39.23-pm.png) |
+| :---: | :---: | :---: |
+| **Edit** the learner's contact information  | **Delete** the learner from the learning circle and P2PU's database | **See** the learner's response to the sign-up questions |
+
+### **Messages**
+
+### Meeting Manager
+
