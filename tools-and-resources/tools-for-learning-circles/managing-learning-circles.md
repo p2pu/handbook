@@ -38,5 +38,17 @@ The **Add Learner** button can be used to manually add participants to a learnin
 
 ### **Messages**
 
+![Messages section showing two messages, one that has already been sent to participants and one that will be sent in the future](../../.gitbook/assets/screen-shot-2021-04-22-at-2.33.57-pm.png)
+
+The Messages section shows the reminder messages that are automatically generated for each meeting as well as any messages the facilitator sends to their learners manually. \(Note that this table doesn't include every automated message sent to a learner—see [**Automated Messages & Surveys**](automated-messaging.md)\)
+
+![View of editing an automatic reminder](../../.gitbook/assets/image%20%283%29.png)
+
+**Meeting reminders** are automatically generated when a meeting is created, either during the learning circle's initial creation or when added afterwards. These messages can be edited from this table or in an individual meeting's section of the meeting manager. \(See [**Automated Messages & Surveys**](automated-messaging.md)\)
+
+![New Message button links to this manual message form ](../../.gitbook/assets/image%20%281%29.png)
+
+**Manual messages** allow the facilitator to send out information to all registered learners at any time via email or SMS. These messages will be sent immediately and cannot be scheduled to go out in the future. Manual messages have P2PU branding on them, will CC the facilitator, and BCC all other recipients. \(See [**Automated Messages & Surveys**](automated-messaging.md)\)
+
 ### Meeting Manager
 
