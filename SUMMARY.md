@@ -33,7 +33,7 @@
 * [Tools for Learning Circles](tools-and-resources/tools-for-learning-circles/README.md)
   * [Facilitator Dashboard](tools-and-resources/tools-for-learning-circles/untitled.md)
   * [Creating Learning Circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
-  * [Automated messaging](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
+  * [Automated Messages & Surveys](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
 * [Community Support](tools-and-resources/community-support.md)
 
 ## Starting a Community
