@@ -1,14 +1,10 @@
 # Managing Learning Circles
 
-Once you've [created a new learning circle](creating-learning-circles.md) \(either as a draft or live\), P2PU will automatically generate a sign-up page and a private management page associated with that learning circle. 
-
-You will receive a confirmation email that contains links to both pages, and you can navigate to them manually on your Facilitator Dashboard. You'll find links to manage all of your own learning circles, current and past, in the **My Learning Circles** section.
+Once a [new learning circle has been created](creating-learning-circles.md) \(either as a draft or live\), P2PU will automatically generate a sign-up page and a private management page associated with that learning circle. The facilitator will receive a confirmation email with links to both pages which can also be found on their dashboard in the **My Learning Circles** section.
 
 ![&quot;My Learning Circles&quot; section of the Facilitator Dashboard showing links to manage individual learning circles](../../.gitbook/assets/screen-shot-2021-04-22-at-2.10.31-pm.png)
 
 ## Sections of the Management Page
-
- Every learning circle's management page looks similar—the most visible difference is the title and image selected for a learning circle. This page is set up to follow a linear path through a learning circle with sections showing the actions that can be taken for each meeting.
 
 ![The management page for a published learning circle called &quot;How To Write Fiction About Dinosaurs&quot;](../../.gitbook/assets/screen-shot-2021-04-22-at-2.23.16-pm.png)
 
@@ -16,13 +12,13 @@ You will receive a confirmation email that contains links to both pages, and you
 
 ![Menu Tools](../../.gitbook/assets/screen-shot-2021-04-22-at-2.29.12-pm.png)
 
-The top section of the page shows a preview of your learning circle information: title, image, facilitator info, link to the course materials, and meeting details. Below that is a yellow bar containing the following tools:
+The top section of the page shows a preview of the learning circle's information: title, image, facilitator info, link to the course materials, and meeting details. Below that is a yellow bar containing the following tools:
 
-* **Edit:** Return to the [5-step learning circle creation form](creating-learning-circles.md) to update any information you've previously entered.
-* **View:** See your live learning circle sign-up page.
-* **Add Meeting:** Quickly add a new meeting date of your choice to your learning circle. This will add a section for that meeting on the management page and automatically generate an editable reminder message for that meeting.
-* **Close Signup:** Turn off the registration form on your sign-up page. \(If you close signup, the button will change to **Open Signup** and you can activate registration again anytime.\)
-* **Delete:** This will delete your learning circle from public view and remove the records of the learning circle and registered learners from the P2PU database.
+* **Edit:** Return to the [5-step learning circle creation form](creating-learning-circles.md) to update any information previously entered.
+* **View:** See the live learning circle sign-up page.
+* **Add Meeting:** Quickly add a new meeting to the learning circle. This will add a section for that meeting on the management page and automatically generate an editable reminder message for that meeting.
+* **Close Signup:** Turn off the registration form on the sign-up page. \(If signup is closed, the button will change to **Open Signup** and can be used to activate registration again anytime.\)
+* **Delete:** Delete the learning circle from public view and remove the records of the learning circle and registered learners from the P2PU database.
 
 ### Learners
 
@@ -51,4 +47,8 @@ The Messages section shows the reminder messages that are automatically generate
 **Manual messages** allow the facilitator to send out information to all registered learners at any time via email or SMS. These messages will be sent immediately and cannot be scheduled to go out in the future. Manual messages have P2PU branding on them, will CC the facilitator, and BCC all other recipients. \(See [**Automated Messages & Surveys**](automated-messaging.md)\)
 
 ### Meeting Manager
+
+![Tools to manage individual meetings ](../../.gitbook/assets/screen-shot-2021-04-22-at-5.16.50-pm.png)
+
+
 
