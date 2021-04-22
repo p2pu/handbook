@@ -1,4 +1,4 @@
-# Evaluate + Reflect
+# Evaluate & Reflect
 
 Once your learning circle wraps up, what comes next? Here are some common paths forward:
 

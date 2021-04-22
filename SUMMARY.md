@@ -26,7 +26,7 @@
   * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
   * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
   * [Promote Your Learning Circle](facilitation/learning-circle-checklist/promotion-and-outreach.md)
-  * [Evaluate + Reflect](facilitation/learning-circle-checklist/evaluate-+-reflect.md)
+  * [Evaluate & Reflect](facilitation/learning-circle-checklist/evaluate-and-reflect.md)
 
 ## Tools & Resources
 
