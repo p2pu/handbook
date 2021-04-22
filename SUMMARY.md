@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Learning Circles Handbook](README.md)
+* [Learning Circle Handbook](README.md)
 
 ## Methodology
 

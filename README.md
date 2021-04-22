@@ -1,4 +1,4 @@
-# Learning Circles Handbook
+# Learning Circle Handbook
 
 Learning circles are groups of people who gather to learn something together. Rooted in [P2PU's organizational values](https://www.p2pu.org/en/about/) of community, peer learning, equity, and open, each learning circle typically has a regular meeting space \(in-person or online\), a dedicated learning resource \(like an online course\), a facilitator \(who need not be a subject expert\), and a group of learners.
 
