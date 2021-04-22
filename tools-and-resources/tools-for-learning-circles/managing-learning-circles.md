@@ -8,7 +8,7 @@ You will receive a confirmation email that contains links to both pages, and you
 
 ## Sections of the Management Page
 
- Every learning circle's management page looks similar—the most visible difference you'll see is the title and image you've selected for your learning circle. This page is set up to follow a linear path through your learning circle with sections showing the actions you can take for each meeting.
+ Every learning circle's management page looks similar—the most visible difference is the title and image selected for a learning circle. This page is set up to follow a linear path through a learning circle with sections showing the actions that can be taken for each meeting.
 
 ![The management page for a published learning circle called &quot;How To Write Fiction About Dinosaurs&quot;](../../.gitbook/assets/screen-shot-2021-04-22-at-2.23.16-pm.png)
 
