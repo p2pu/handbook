@@ -4,16 +4,14 @@ Facilitating a learning circle requires about 3 hours per week on the part of th
 
 Below is a recommended checklist that outlines the steps needed to get your learning circle running. We recommend that you schedule your first learning circle at least four weeks in the future, but you can compress or expand this timeline to suit your needs. If you don’t already have a dedicated group of learners, we recommend spending four weeks promoting your learning circle once you’ve finalized the date, time, course, and location.
 
-## Before You Begin
+## First Steps
 
-* Connect with your community, colleagues, or personal goals to identify:
-  * Intended learner audience and their potential learning objectives
-  * Your organization's priorities and/or goals being supported
+* \*\*\*\*[**Set Your Intent**](set-your-intent.md) ****by connecting with your own goals, your community, or your colleagues to identify the learning objectives and audience you want to support with your learning circle
 * Decide your learning circle details:
   * Choice of course/learning materials
   * Number of meetings and length of each session
   * Meeting Dates & Times
-  * Where you'll meet
+  * \*\*\*\*[**Set Up Your Space**](set-up-your-space.md) \(where you'll meet\)
 * Confirm supplies will be available \(laptops, headphones, pens, nametags, snacks, etc.\)
 * Reach out to affiliated or relevant local organizations to share your plans and look for advertising opportunities
 
