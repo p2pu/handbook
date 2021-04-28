@@ -10,7 +10,17 @@ A final note: Regardless of where the content comes from, there is no such thing
 
 ### Adding a Course to the P2PU Course Library
 
-Anybody with a P2PU account can add a course to the P2PU course library by filling out the "[Add a Course](https://learningcircles.p2pu.org/en/course/create/)" form. P2PU moderates this list and will remove any courses that cost money or are incomplete. 
+Anybody with a P2PU account can add a course to the P2PU course library by filling out the "[Add a Course](https://learningcircles.p2pu.org/en/course/create/)" form, which requires the following information:
+
+* Title
+* Website
+* Creator
+* Short description
+* Availability
+* Topic tags
+* Language
+
+Once the form is filled out, the course will be immediately findable on the P2PU course library. P2PU moderates this list and will use its discretion to remove any incomplete or otherwise inappropriate courses.
 
 
 
