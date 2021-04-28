@@ -8,7 +8,7 @@ This does not mean, however, that all courses are created equally. P2PU has a [f
 
 A final note: Regardless of where the content comes from, there is no such thing as a perfect course! No matter how well content is arranged, a course will never know you as a person, help you make decisions, or tell you when you need to look for answers somewhere else. The learning circle format and the power of peer learning do a lot of work to create a great learning experience. At its best, a course is a starting point for a community of learners to reach common goal, wherever that path may lead. 
 
-### Adding a Course to the P2PU Course Library
+### Adding a Course
 
 Anybody with a P2PU account can add a course to the P2PU course library by filling out the "[Add a Course](https://learningcircles.p2pu.org/en/course/create/)" form, which requires the following information:
 
