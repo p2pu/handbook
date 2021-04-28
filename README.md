@@ -17,8 +17,6 @@ P2PU champions learning circles because they are an equalizer, combining the fle
 * Create viable alternatives to formal education
 * Support digital inclusion for people new to online learning
 
-
-
 ———
 
 This handbook is maintained by [Peer 2 Peer University](https://www.p2pu.org/en/) \(aka P2PU\), a non-profit organization dedicated to creating and sustaining learning circle communities in public spaces around the world. [Learn more about us.](https://www.p2pu.org/en/about/)
