@@ -9,9 +9,9 @@
 
 ## Courses
 
-* [Choosing a Course](courses/finding-courses/README.md)
-  * [Finding Courses](courses/finding-courses/searching-courses.md)
-  * [Evaluating Courses](courses/finding-courses/evaluating-courses.md)
+* [Choosing a Course](courses/choosing-courses/README.md)
+  * [Finding Courses](courses/choosing-courses/finding-courses.md)
+  * [Evaluating Courses](courses/choosing-courses/evaluating-courses.md)
 * [Creating a Course](courses/creating-courses/README.md)
   * [Establish the Outline](courses/creating-courses/establish-goals-and-outcomes.md)
   * [Wrangle Content](courses/creating-courses/wrangle-content.md)
