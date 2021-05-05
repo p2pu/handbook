@@ -6,7 +6,7 @@ Once a [new learning circle has been created](creating-learning-circles.md) \(ei
 
 ## Sections of the Management Page
 
-![The management page for a published learning circle called &quot;How To Write Fiction About Dinosaurs&quot;](../../.gitbook/assets/screen-shot-2021-04-22-at-2.23.16-pm.png)
+![](../../.gitbook/assets/p2pu-management-page.png)
 
 ### Menu Tools 
 
@@ -22,7 +22,7 @@ The top section of the page shows a preview of the learning circle's information
 
 ### Learners
 
-![&quot;Learners&quot; table ](../../.gitbook/assets/screen-shot-2021-04-22-at-2.33.49-pm.png)
+![](../../.gitbook/assets/p2pu-management-page-learners.png)
 
 All registered learners will appear in the Learners section of the page. This will display their full name and any contact information—email and/or phone—they've shared during sign-up. There are three buttons linked to each learner:
 
