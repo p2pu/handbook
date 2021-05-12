@@ -24,8 +24,7 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 ## 2 weeks prior
 
 * Begin making a facilitator's guide by exploring the learning materials and creating an outline for how you want to proceed through the materials 
-* Manage your learning circle
-  * Check in on your current number of of registrations and close sign-ups if needed \(see [Managing learning circles]()\)
+* Visit your learning circle's management page to check in on your current number of of registrations and close sign-ups if needed \(see [**Managing Learning Circles**](../tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)\)
 
 ## 1 week prior
 
