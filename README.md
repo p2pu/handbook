@@ -20,8 +20,6 @@ Interested in starting your own learning circle? Read on!
 
 {% page-ref page="methodology/learning-circle-checklist.md" %}
 
-
-
 ## 
 
 This handbook is maintained by [Peer 2 Peer University](https://www.p2pu.org/en/) \(aka P2PU\), a non-profit organization dedicated to creating and sustaining learning circle communities in public spaces around the world. [Learn more about us.](https://www.p2pu.org/en/about/)
