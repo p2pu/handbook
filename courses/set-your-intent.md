@@ -1,4 +1,4 @@
-# Set Your Intent
+# Establishing Intent
 
 Learning circles work best when learners can identify what motivates their participation, and the same is true for the facilitator. As you begin thinking about the learning circles you want to run, here are some questions you can ask to set your intent:
 

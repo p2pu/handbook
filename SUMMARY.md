@@ -10,7 +10,7 @@
 
 ## Courses
 
-* [Set Your Intent](courses/set-your-intent.md)
+* [Establishing Intent](courses/set-your-intent.md)
 * [Choosing a Course](courses/choosing-courses/README.md)
   * [Finding Courses](courses/choosing-courses/finding-courses.md)
   * [Evaluating Courses](courses/choosing-courses/evaluating-courses.md)
@@ -24,8 +24,8 @@
 ## Facilitation
 
 * [Finding Participants](facilitation/promotion-and-outreach.md)
-* [Facilitating Peer Learning](facilitation/facilitation-basics.md)
 * [Setting Up Meeting Spaces](facilitation/set-up-your-space.md)
+* [Facilitating Peer Learning](facilitation/facilitation-basics.md)
 * [Evaluate & Reflect](facilitation/evaluate-and-reflect.md)
 
 ## Tools & Resources

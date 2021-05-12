@@ -1,28 +1,26 @@
 # Setting Up Meeting Spaces
 
-A consistent meeting space can go a long way towards learning circle feel like a comfortable learning environment. Regardless of meeting online or in person, try to find an accessible meeting space that you can use reliably for the duration of your learning circle. \(
+A consistent meeting space goes a long way towards establishing a learning circle as a comfortable learning environment. Whether meeting online or in person, the best meeting spaces are reliable, accessible, and have limited distractions.
 
 ## Meeting In Person
 
-When meeting in person it is important that you reserve a meeting space for your learning circle, and consider if your space has the necessary equipment for your learning circle subject. The minimum amount of equipment needed is enough chairs and space for everyone to sit in a circle. However you may find it helpful or necessary to have additional equipment such as a projector to share video content with the group, or if the class is more technical you may need space for each person to have access to a computer.
+The most important consideration when meeting in person if whether or not a space supports the necessary equipment for a learning circle subject. At minimum, the space should have enough chairs and room for all participants to sit in a circle. For some topics, it may be useful or necessary to have additional equipment such as a projector to share video content with the group. If the topic is more technical, participants may need to have access to a computer.
 
-Chances are that you can’t make major changes to the space that you are meeting in for your learning circle. But that doesn’t mean you can’t make a few small changes that will improve the experience for yourself and your peers.
-
-**ESSENTIALS**
+### **Essential Needs**
 
 * Easily accessible space
 * Consistent access to power and free internet
 * Accommodation for any physical and/or learning disabilities in the group
 * Restroom availability
 
-**DESIRABLE**
+### **Desirable Qualities**
 
-* A large wall that you can project onto
-* Natural light \(studies show that people learn better with it\)
+* A large wall for projecting or a screen to play learning content
+* Natural light \(studies show that people learn better with it!\)
 * Modular seating arrangements
 * Near public transport / free parking
 
-**MAKE SURE**
+### **Questions to Ask**
 
 * Have the times been reserved for each weeks?
 * Do you have access to any keys that you need?
@@ -32,15 +30,15 @@ Chances are that you can’t make major changes to the space that you are meetin
 
 ## Meeting Online
 
-If you don't plan to meet in person, you’ll need to do a little extra work to decide where and how to meet virtually. This includes deciding on a form of synchronous communication \(e.g. video chat, conference call, shared notes\) and whether you want to implement any asynchronous communication \(e.g. Whatsapp group, email thread, Slack channel\). 
+Meeting virtually requires a place for synchronous communication \(e.g. video chat, conference call, shared notes\) and, optionally, a separate channel for asynchronous communication \(e.g. Whatsapp group, email thread, Slack channel\) where the learning circle participants can interact.
 
-If you don't have access to an institutional membership for meeting software, there are dozens of free tools that allow people to work together in virtual spaces: video conferences, group phone calls, collaborative writing platforms. You shouldn’t need to spend any money to run or host an effective online learning circle.
+Some facilitators are required to use institutional memberships for meeting software which takes care of choosing a meeting space. For those who aren't required to use certain software, there are dozens of free tools that allow people to work together in virtual spaces: video conferences, group phone calls, collaborative writing platforms. A facilitator shouldn’t need to spend any money to host an effective online learning circle.
 
 ### Online Accessibility Considerations
 
 The tools you choose to use in your learning circle can go a long way towards creating an environment that benefits all participants. Remember that you can always change the tool you’re using if it makes it easier for all learners to participate. 
 
-Some questions you can ask yourself when choosing your online setup:
+**Some questions to ask when choosing an online setup:**
 
 * Are there specific supplies or technical requirements \(software, equipment, etc.\) needed to complete your learning circle topic? 
 * What resources \(computer, smartphone, tablet, internet access\) do your learners have access to? 
@@ -57,11 +55,11 @@ As you find tools you want to use, keep learner accessibility in mind. Here are 
 * **Increase your cursor size and narrate actions and visuals** if you plan to do any demonstrations with screen sharing. 
 * **Test your audio setup with others and practice speaking** to make sure your words are understandable and your environment is free of distracting sounds. Consider investing in a microphone or headset if you plan to facilitate lots of meetings.
 
-### **Our Recommendation: Jitsi + Etherpad**
+### **Recommended Software**
 
 Because many facilitators are locked into institutional requirements and it’d be impossible to address every learning circle’s unique tech needs, this is not a hefty tool comparison. \(Looking for a comprehensive guide? We recommend [Mozilla’s Video Call Apps list](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)!\) Instead, we’re getting right to our recommended setup: Jitsi video calls + Etherpad collaborative text documents.
 
-#### \*\*\*\*[**Jitsi**](https://meet.jit.si/) **\(Video Conferencing w/ Screenshare, Dial-In, Text\)**
+### \*\*\*\*[**Jitsi**](https://meet.jit.si/) **\(Video Conferencing w/ Screenshare, Dial-In, Text\)**
 
 ![Preview of a group Jitsi call during an individual reading activity: most participants have video turned off and one participant is screen-sharing a countdown timer](https://lh5.googleusercontent.com/CP8yTAy6Q4e-j3eJdL_XXYQvCCRie2iQ9EwMiS64j898aBL7mi8Y9W7iadTCrLoBqtLn9Az__j5Jy8YeophAhERa-nM1U2RAOPdD870vcSmTnzcJ335-mCgz1ggoExAEsr3Fki_E)
 
@@ -89,14 +87,12 @@ Etherpad is a highly customizable open source text editor that allows for collab
 
 We’ve hosted an instance of Etherpad on our website \(linked above\) so you can just pick a URL and go. If you or a colleague are familiar with Git, you can also [install Etherpad](https://github.com/ether/etherpad-lite#installation) yourself and customize it to your needs with [community-created plugins](https://static.etherpad.org/index.html). \(Have a plugin request for the P2PU Etherpad? [Email us!](mailto:thepeople@p2pu.org)\)
 
-#### Etherpad Resources:
-
 * [Video Etherpad](https://video.etherpad.com/) — An experimental version of Etherpad that includes participants’ videos inside the document. We found it didn’t work well with more than 10 participants, but it might be a good solution for smaller circles!
 * [Etherpad Wiki and FAQs](https://github.com/ether/etherpad-lite/wiki)
 
 ### Considering Privacy and Safety
 
-There are a few different steps that you can take to ensure that your group remains free of people who show up with ulterior motives. 
+There are a few different steps that you can take to ensure that a group remains free of people who haven't registered for the group:
 
 * Create very unique URLs for your meeting room and don’t post the link publicly on the web \(like on your sign-up page\). This will minimize random visitors or ne'er-do-wells. You can share meeting links privately with participants via email once they’ve registered. 
 * Add a password. If you have any concerns, add a password to your room. You can always change this if needed. 
@@ -105,10 +101,12 @@ There are a few different steps that you can take to ensure that your group rema
 
 ### **Providing Technical Support**
 
-‌Online learning circles tend to use three browser tabs at any given time - one for the online course, one for the video chat, and one for a shared notes document. In addition to bandwidth limitations, this workflow can be extremely daunting for individuals who aren’t used to working and collaborating online. There are a number of ways that you can help mitigate these issues.
+‌Online learning circles tend to use three browser tabs at any given time - one for the online course, one for the video chat, and one for a shared notes document. In addition to bandwidth limitations, this workflow can be extremely daunting for individuals who aren’t used to working and collaborating online. 
+
+A few ways to mitigate these issues:
 
 * Invite participants to show up in the online meeting space 15-20 minutes early to troubleshoot any tech issues that they may be having.
-* Ask a colleague to join you for the first thirty minutes to help troubleshoot with individuals. Creating a separate video chat dedicated to tech support can be a great way to offer 1-1 help to somebody who is struggling while allowing the rest of the group to proceed with the learning materials.
+* Ask a colleague to join for the first thirty minutes to help troubleshoot with individuals. Creating a separate video chat dedicated to tech support can be a great way to offer 1-1 help to somebody who is struggling while allowing the rest of the group to proceed with the learning materials.
 * Start the learning circle with an orientation session; make it clear that it’s optional but is a good way for folks to learn more about the tools that will be used and the learning circle model before the group digs into the course content the following week.
 * Share your screen. Demonstrating what you want participants to do can be a lot easier than trying to explain it. Make sure you are comfortable sharing your screen before the learning circle, and practice sharing your entire screen versus a dedicated window.
 
