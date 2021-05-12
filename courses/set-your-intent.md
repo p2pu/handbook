@@ -45,12 +45,12 @@ To edit your own copy, click "view template" underneath the previews below; once
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src="../../.gitbook/assets/q-method-poster.jpg" alt/>
+        <img src="../.gitbook/assets/q-method-poster.jpg" alt/>
       </th>
       <th style="text-align:left">
         <p></p>
         <p>
-          <img src="../../.gitbook/assets/q-method-template.jpg" alt/>
+          <img src="../.gitbook/assets/q-method-template.jpg" alt/>
         </p>
       </th>
     </tr>

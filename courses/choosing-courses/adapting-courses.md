@@ -1,4 +1,4 @@
-# Adapt the Course
+# Adapting Courses
 
 As many online courses are designed for individual study, you'll sometimes find that the right learning material for your learning circle doesn't fit neatly into a learning circle structure. When that happens, you can either improvise with your learners during meetings or, using the learning circle [typical structure](https://app.gitbook.com/@peer-2-peer-university/s/p2pu-knowledge-base/~/drafts/-MYBqKw2d0_DgWHithpq/methodology/learning-circle-structure) as your guide, you can plan ahead how best to present the course material to your learning circle. 
 
@@ -8,7 +8,7 @@ Some adaptations that you may need or want to make:
 * Changing the length of time to cover a section or module of content
 * Rearranging the order of content within a course
 * [Adding or adapting activities](../../methodology/learning-circle-structure.md#learn-and-do)
-* Supplementing the course content with additional materials \(see [Finding "the Answer"](../facilitation-basics.md#finding-the-answer)\) 
+* Supplementing the course content with additional materials \(see [Finding "the Answer"](../../facilitation/facilitation-basics.md#finding-the-answer)\) 
 
 ### Facilitator Guides & Agendas
 

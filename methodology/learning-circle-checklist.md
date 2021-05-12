@@ -6,19 +6,19 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 
 ## First Steps
 
-* \*\*\*\*[**Set Your Intent**](set-your-intent.md) ****by connecting with your own goals, your community, or your colleagues to identify the learning objectives and audience you want to support with your learning circle
+* \*\*\*\*[**Set Your Intent**](../courses/set-your-intent.md) ****by connecting with your own goals, your community, or your colleagues to identify the learning objectives and audience you want to support with your learning circle
 * Decide your learning circle details:
   * Choice of course/learning materials
   * Number of meetings and length of each session
   * Meeting Dates & Times
-  * \*\*\*\*[**Set Up Your Space**](set-up-your-space.md) \(where you'll meet\)
+  * \*\*\*\*[**Set Up Your Space**](../facilitation/set-up-your-space.md) \(where you'll meet\)
 * Confirm supplies will be available \(laptops, headphones, pens, nametags, snacks, etc.\)
 * Reach out to affiliated or relevant local organizations to share your plans and look for advertising opportunities
 
 ## 4 weeks prior
 
-* Create your learning circle using P2PU's free tools \(see [Creating learning circles](../../tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)\)
-* Begin promoting online and offline \(see [Promote your learning circle](promotion-and-outreach.md)\)
+* Create your learning circle using P2PU's free tools \(see [Creating learning circles](../tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)\)
+* Begin promoting online and offline \(see [Promote your learning circle](../facilitation/promotion-and-outreach.md)\)
 * Connect with local communities to find prospective participants
 
 ## 2 weeks prior

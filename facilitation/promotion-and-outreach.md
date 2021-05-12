@@ -1,4 +1,4 @@
-# Promote Your Learning Circle
+# Finding Participants
 
 ## How to Promote a Learning Circle
 

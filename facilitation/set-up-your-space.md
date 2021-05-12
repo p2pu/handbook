@@ -1,4 +1,4 @@
-# Set Up Your Space
+# Setting Up Meeting Spaces
 
 A consistent meeting space can go a long way towards learning circle feel like a comfortable learning environment. Regardless of meeting online or in person, try to find an accessible meeting space that you can use reliably for the duration of your learning circle. \(
 

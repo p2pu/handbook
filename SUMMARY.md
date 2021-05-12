@@ -4,14 +4,17 @@
 
 ## Methodology
 
+* [Learning Circle Checklist](methodology/learning-circle-checklist.md)
 * [Learning Circle Structure](methodology/learning-circle-structure.md)
 * [Group Expectations](methodology/group-expectations.md)
 
 ## Courses
 
+* [Set Your Intent](courses/set-your-intent.md)
 * [Choosing a Course](courses/choosing-courses/README.md)
   * [Finding Courses](courses/choosing-courses/finding-courses.md)
   * [Evaluating Courses](courses/choosing-courses/evaluating-courses.md)
+  * [Adapting Courses](courses/choosing-courses/adapting-courses.md)
 * [Creating a Course](courses/creating-courses/README.md)
   * [Establish the Outline](courses/creating-courses/establish-goals-and-outcomes.md)
   * [Wrangle Content](courses/creating-courses/wrangle-content.md)
@@ -20,13 +23,10 @@
 
 ## Facilitation
 
+* [Finding Participants](facilitation/promotion-and-outreach.md)
 * [Facilitating Peer Learning](facilitation/facilitation-basics.md)
-* [Learning Circle Checklist](facilitation/learning-circle-checklist/README.md)
-  * [Set Your Intent](facilitation/learning-circle-checklist/set-your-intent.md)
-  * [Adapt the Course](facilitation/learning-circle-checklist/adapting-courses.md)
-  * [Set Up Your Space](facilitation/learning-circle-checklist/set-up-your-space.md)
-  * [Promote Your Learning Circle](facilitation/learning-circle-checklist/promotion-and-outreach.md)
-  * [Evaluate & Reflect](facilitation/learning-circle-checklist/evaluate-and-reflect.md)
+* [Setting Up Meeting Spaces](facilitation/set-up-your-space.md)
+* [Evaluate & Reflect](facilitation/evaluate-and-reflect.md)
 
 ## Tools & Resources
 
