@@ -1,4 +1,4 @@
-# Wrangle Content
+# Collecting Content
 
 ### Structuring the Course
 

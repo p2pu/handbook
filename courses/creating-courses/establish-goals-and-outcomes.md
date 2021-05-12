@@ -4,17 +4,15 @@ description: >-
   they are serving and outline appropriate learning goals.
 ---
 
-# Establish the Outline
+# Outline the Contents
 
 ### Establish Learning Goals
 
 Take the time to establish an outline before diving in and writing content. There are three questions that we ask ourselves as we undertake a course creation project:
 
-**Who are you creating this course for?** You should have an understanding of who you are creating this course for, and why. A helpful way to think about this is to write down minimal set of qualifications you have for a participant who joins the learning circle. Are there certain skillsets \(language fluency, digital literacy, access to materials\) that will restrict who can meaningfully engage with your course? Is it relevant only for people in a particular country or region?
-
-**What expectations will participants bring to this course?** No matter how clearly you think you outline the scope of the course, people will show up to a learning circle with their own expectations about the subject matter. Understanding the outcomes that participants will be hoping to achieve as well as any preconceptions that they may bring to the learning circle will help you scope out a course that is both rewarding and also appropriate given the format and time allotted.
-
-**How will you know if participants have succeeded?** Considering how you expect participants to demonstrate mastery of a topic is an important step in the course creation process. With some topics there will be a very clear artifact that results from the learning circle \(e.g. an updated resume, a new website\); other times it will require participants to articulate progress in a more abstract concept \(e.g. increased confidence using computers, deeper understanding of Caribbean history\).
+1. **Who are you creating this course for?** You should have an understanding of who you are creating this course for, and why. A helpful way to think about this is to write down minimal set of qualifications you have for a participant who joins the learning circle. Are there certain skillsets \(language fluency, digital literacy, access to materials\) that will restrict who can meaningfully engage with your course? Is it relevant only for people in a particular country or region?
+2. **What expectations will participants bring to this course?** No matter how clearly you think you outline the scope of the course, people will show up to a learning circle with their own expectations about the subject matter. Understanding the outcomes that participants will be hoping to achieve as well as any preconceptions that they may bring to the learning circle will help you scope out a course that is both rewarding and also appropriate given the format and time allotted.
+3. **How will you know if participants have succeeded?** Considering how you expect participants to demonstrate mastery of a topic is an important step in the course creation process. With some topics there will be a very clear artifact that results from the learning circle \(e.g. an updated resume, a new website\); other times it will require participants to articulate progress in a more abstract concept \(e.g. increased confidence using computers, deeper understanding of Caribbean history\).
 
 ### Outline Each Module
 

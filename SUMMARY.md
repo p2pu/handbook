@@ -10,14 +10,14 @@
 
 ## Courses
 
-* [Establishing Intent](courses/set-your-intent.md)
+* [Setting Intent](courses/set-your-intent.md)
 * [Choosing a Course](courses/choosing-courses/README.md)
   * [Finding Courses](courses/choosing-courses/finding-courses.md)
   * [Evaluating Courses](courses/choosing-courses/evaluating-courses.md)
-  * [Adapting Courses](courses/choosing-courses/adapting-courses.md)
+* [Adapting Courses](courses/adapting-courses.md)
 * [Creating a Course](courses/creating-courses/README.md)
-  * [Establish the Outline](courses/creating-courses/establish-goals-and-outcomes.md)
-  * [Wrangle Content](courses/creating-courses/wrangle-content.md)
+  * [Outline the Contents](courses/creating-courses/establish-goals-and-outcomes.md)
+  * [Collecting Content](courses/creating-courses/wrangle-content.md)
   * [Design the Course](courses/creating-courses/develop-course-content.md)
   * [Publish Your Course](courses/creating-courses/publish-your-course.md)
 
