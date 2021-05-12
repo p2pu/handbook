@@ -8,30 +8,15 @@ description: >-
 
 ![](.gitbook/assets/learningcircle-crop.png)
 
-**Learning circles** are free, lightly-facilitated study groups that meet regularly to learn from open educational resources. Rooted in values of community, peer learning, equity, and open access, a learning circle typically has four components: 
+**Learning circles** are free, lightly-facilitated study groups that meet regularly to learn from open educational resources. Rooted in values of community, peer learning, equity, and open access, a learning circle typically has the following components: 
 
-* **a facilitator** who organizes the learning circle and keeps the group on task but doesn't need to be an expert in the topic
-* **a group of learners** \(ideally 4–12\)
-* **a regular meeting space and time** \(in-person or online; 90 minutes/week for 6–8 seems to be the sweet spot that offers enough time and space to build a productive group culture without being alienating due to the time commitment\)
-* **dedicated learning resource** \(like an online course\) 
+* **a facilitator** \(responsible for organizing the learning circle, not teaching: the group should work together to understand the material; see [**Facilitating Peer Learning**](facilitation/facilitation-basics.md)\)
+* **a group of learners** \(ideally 4–12 to offer a diverse perspective and engaging group dynamic; see [**Finding Participants**](facilitation/promotion-and-outreach.md)\)
+* **a regular meeting space** \(in-person or online; see [**Setting Up Meeting Spaces**](facilitation/set-up-your-space.md)\)
+* **recurring meetings** \(90 minutes/week for 6–8 weeks is a sweet spot for building a productive group culture without being alienating due to the time commitment; see [**Meeting Structure**](methodology/learning-circle-structure.md)\)
+* **dedicated learning materials** \(often an online course; see [**Choosing a Course**](courses/choosing-courses.md)\) 
 
-**Meeting structure:** To help facilitators avoid feeling like they need to be setting teaching plans, we recommend a basic and flexible weekly structure of a check-in, time spent learning, an optional break \(or energizing activity\), and a closing reflection.
-
-### Getting Started
-
-Interested in running your own learning circle? Check out:
-
-{% page-ref page="methodology/learning-circle-checklist.md" %}
-
-Keen to start a learning circle program in your area? Check out:
-
-{% page-ref page="teams/" %}
-
-Have knowledge you want to to lend to the global community of learning circles? Check out:
-
-{% page-ref page="courses/creating-courses.md" %}
-
-—————
+## 
 
 This handbook is maintained by [Peer 2 Peer University](https://www.p2pu.org/en/) \(aka P2PU\), a non-profit organization dedicated to creating and sustaining learning circle communities in public spaces around the world. [Learn more about us.](https://www.p2pu.org/en/about/)
 
