@@ -18,7 +18,7 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 ## 4 weeks prior
 
 * Create your learning circle using P2PU's free tools \(see [Creating learning circles](../tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)\)
-* Begin promoting online and offline \(see [Promote your learning circle](../facilitation/promotion-and-outreach.md)\)
+* Begin promoting online and offline \(see [Promote your learning circle](../facilitation/finding-participants.md)\)
 * Connect with local communities to find prospective participants
 
 ## 2 weeks prior

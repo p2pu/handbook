@@ -18,7 +18,7 @@
 
 ## Facilitation
 
-* [Finding Participants](facilitation/promotion-and-outreach.md)
+* [Finding Participants](facilitation/finding-participants.md)
 * [Setting Up Meeting Spaces](facilitation/set-up-your-space.md)
 * [Facilitating Peer Learning](facilitation/facilitation-basics.md)
 * [Evaluate & Reflect](facilitation/evaluate-and-reflect.md)
