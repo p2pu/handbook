@@ -43,5 +43,3 @@
   * [Courses for teams](teams/courses-for-teams.md)
   * [Aggregated data](teams/aggregated-data.md)
 
-## Resources
-
