@@ -5,7 +5,7 @@
 ## Methodology
 
 * [Learning Circle Checklist](methodology/learning-circle-checklist.md)
-* [Learning Circle Structure](methodology/learning-circle-structure.md)
+* [Meeting Structure](methodology/learning-circle-structure.md)
 * [Group Expectations](methodology/group-expectations.md)
 
 ## Courses

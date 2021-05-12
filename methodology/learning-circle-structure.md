@@ -1,4 +1,4 @@
-# Learning Circle Structure
+# Meeting Structure
 
 No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. That being said, there are a few common practices that help reinforce a peer learning environment and prevent facilitators from slipping into the role of a teacher. 
 
