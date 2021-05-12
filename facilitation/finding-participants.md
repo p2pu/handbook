@@ -15,13 +15,13 @@ With contributions from:
 
 ## Template messages to promote learning circles
 
-In addition to [**flyers**](https://community.p2pu.org/t/learning-circle-flyer-template/2744/1) and online promotion, you may want to reach out directly to your partners, neighbors, and constituents through email or social media. Below are some template messages you can use to advertise your learning circle:
+In addition to [**flyers**](https://community.p2pu.org/t/learning-circle-flyer-template/2744/1) and online promotion, you may want to reach out directly to your partners, neighbors, and constituents through email or social media. Below are some template messages you can use or modify to advertise your learning circle:
 
 ### **Internal email template**
 
 Got a mailing list for your organization? Here's a starting template for finding potential learners:
 
-> Are you interested in learning about **\[learn\]** but don’t want to study alone? Why not join our learning circle and study face-to-face with your peers?
+> Are you interested in learning about **\[topic\]** but don’t want to study alone? Why not join our learning circle and study face-to-face with your peers?
 >
 > From **\[date\]** to **\[date\]** we’ll be meeting at **\[venue\]** to work together through a course on **\[subject\]** in a supportive, peer-based group. We won’t have a teacher—we’ll use the online course and our personal experiences to learn together.
 >
@@ -51,7 +51,7 @@ Does your community use Facebook? If so, try this post as a first step. Remember
 
 If your community uses Twitter for sharing information, then you can use the two template Tweets below to get started. To really get noticed, you should tweet these messages at least 3 times per day, and come up with a hashtag so people can search for the messages \(we recommend using \#learningcircles\). Remember to add the link to your Learning Circle website, too!
 
-> Learn \[course subject\] together at \[venue\]. \#learningcircles start \[start date\]. Sign up: \[link to website\]
+> Learn **\[topic\]** with others at **\[venue\]**! \#learningcircle start **\[start date\]**. Learn more and sign up: **\[sign-up page link\]**
 
-> In \#\[city\]? Want to learn together? Join \#learningcircles at \[venue\]. Sign up: \[link to website\]
+> In \#**\[city\]**? Want to learn new things with your peers? Join \#learningcircles at **\[venue\]**. Sign up: **\[link to website or sign-up page\]**
 
