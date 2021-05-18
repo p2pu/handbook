@@ -12,7 +12,8 @@
 
 * [Setting Intent](courses/set-your-intent.md)
 * [Choosing a Course](courses/choosing-courses.md)
-* [OER Sources](courses/finding-courses.md)
+* [Searching for Courses](courses/finding-courses.md)
+* [Evaluating Courses](courses/evaluating-courses.md)
 * [Adapting a Course](courses/adapting-courses.md)
 * [Creating a Course](courses/creating-courses.md)
 

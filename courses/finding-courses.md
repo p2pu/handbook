@@ -1,8 +1,6 @@
-# OER Sources
+# Searching for Courses
 
-Facilitators are not limited to the materials in the P2PU [course library](https://www.p2pu.org/en/courses/). If you find something that you like, we encourage you to [add it yourself](https://learningcircles.p2pu.org/en/course/create/) so that others can find it in the future. 
-
-So how should you go about finding course materials not already in the P2PU library? Beyond Googling "free online course in \[topic\]", \(which honestly works pretty well\), there are a few discovery sites that we ****often turn to when looking for learning circle course content. 
+So how should you go about finding course materials not already in the [P2PU library](https://www.p2pu.org/en/courses/)? Beyond Googling "free online course in \[topic\]", \(which honestly works pretty well\), there are a few discovery sites that we ****often turn to when looking for learning circle course content. 
 
 * [Class Central](https://www.class-central.com/) is the most popular search engine and reviews site for free online courses.
 * [Community College Consortium for OER](https://www.cccoer.org/learn/find-oer/) keeps an updated list of the most popular OER repositories, disambiguated by media type.
@@ -16,7 +14,7 @@ So how should you go about finding course materials not already in the P2PU libr
 * [OER World Map](https://oerworldmap.org/) allows you to search for OER initiatives by geography.
 * [Open Culture](http://www.openculture.com/freeonlinecourses) is a blog that curates the best free cultural and educational media on the web.
 
-### ​Contextualizing Online Courses
+### ​Online Course Creators
 
 To understand the various players in the world of free, online learning, it's helpful to distinguish between the production of course materials \(commonly called "courseware"\) and the dissemination of the course \(often through a learning management system\). Some well-resourced universities do both production and dissemination, such as [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) \(MIT\), [Open Learning Initiative](https://oli.cmu.edu/) \(Carnegie Mellon\), [Open Learn](https://www.open.edu/openlearn/) \(Open University\), [OpenHIP](https://open.hpi.de/) \(Hasso Plattner Institute\), and [Wisc-Online](https://www.wisc-online.com/) \(Wisconsin's Technical Colleges\). Materials shared in this manner are almost universally open access, meaning that you can download course materials, remix them, and basically do whatever you want with them. 
 
