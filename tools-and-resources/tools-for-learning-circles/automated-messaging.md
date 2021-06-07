@@ -1,4 +1,4 @@
-# Automated Messages & Surveys
+# Automated Messages
 
 ### Communication and feedback <a id="&#xFE0F;-communication-and-feedback"></a>
 

@@ -30,7 +30,8 @@
   * [Facilitator Dashboard](tools-and-resources/tools-for-learning-circles/untitled.md)
   * [Creating Learning Circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
   * [Managing Learning Circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
-  * [Automated Messages & Surveys](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
+  * [Automated Messages](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
+  * [Evaluation Surveys](tools-and-resources/tools-for-learning-circles/evaluation-surveys.md)
 * [Community Support](tools-and-resources/community-support.md)
 
 ## Starting a Community
