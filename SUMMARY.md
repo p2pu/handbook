@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Learning Circle Handbook](README.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 
 ## Methodology
 
