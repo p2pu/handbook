@@ -4,10 +4,6 @@ description: Learning Circle FAQs
 
 # Frequently Asked Questions
 
-## What is a learning circle?
-
-Learning circles are free study groups for people who want to learn something together in their neighborhood. Most learning circles meet for 90 minutes per week and last for 6-8 weeks. Each learning circle is led by a facilitator, who chooses the topic, sets up the space each week, and helps to ensure that things flow smoothly. Without a teacher in the room, learning circles succeed through peer learning, a practice in which every participant is expected to bring their own experiences, share with one another, and give feedback. Learning circles are happening around the world, for a full list of active learning circles, visit [p2pu.org/en/learning-circles.](https://www.p2pu.org/en/learning-circles/)
-
 ## What can I expect in the first meeting?
 
 In the first meeting, you’ll get to know your fellow learners and familiarize yourself with the course materials that you’ll be using for the duration of the learning circle. Your facilitator may contact you before the first meeting with additional information.
@@ -30,13 +26,9 @@ When you sign up for a learning circle, your email address and information provi
 
 If you’d like more information, you can review our [privacy policy](https://www.p2pu.org/privacy/), [terms of service](https://www.p2pu.org/terms/) or contact us at [privacy@p2pu.org](mailto:privacy@p2pu.org).
 
-## What is P2PU?
-
-Peer 2 Peer University \(P2PU\) is a non-profit organization based in the United States, with team members in the United States, Canada, Germany, and South Africa. Founded in 2011, the mission of P2PU is to create and support liberating alternatives to mainstream higher education, rooted in the values of equity, peer learning, and community. P2PU launched learning circles in partnership with Chicago Public Library in 2015. For more information about P2PU and learning circles, visit [https://www.p2pu.org](https://www.p2pu.org/).
-
 ## Can I facilitate a learning circle?
 
-Yes! With a little bit of practice, anybody can facilitate a learning circle. Everything that you need to get started is available at [https://www.p2pu.org/facilitate](https://www.p2pu.org/facilitate/).
+Yes! With a little bit of practice, anybody can facilitate a learning circle. [Create an account](https://learningcircles.p2pu.org/en/accounts/register/?next=/en/login_redirect/) and explore the resources in this knowledge base to get started.
 
 
 
