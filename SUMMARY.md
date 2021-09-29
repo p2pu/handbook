@@ -34,6 +34,7 @@
   * [Automated Messages](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
   * [Evaluation Surveys](tools-and-resources/tools-for-learning-circles/evaluation-surveys.md)
 * [Community Support](tools-and-resources/community-support.md)
+* [Credit Bearing Learning Circle \(Pilot\) FAQ](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 
 ## Starting a Community
 
