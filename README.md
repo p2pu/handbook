@@ -4,7 +4,7 @@ description: >-
   start one, and how to enjoy the process!
 ---
 
-# Learning Circle Handbook
+# P2PU Knowledge Base
 
 ![](.gitbook/assets/learningcircle-crop.png)
 

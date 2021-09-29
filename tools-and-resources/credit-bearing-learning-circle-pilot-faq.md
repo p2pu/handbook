@@ -1,6 +1,14 @@
-# Credit Bearing Learning Circle \(Pilot\) FAQ
+---
+description: >-
+  Offer learning circles for college credit, in partnership with College
+  Unbound.
+---
 
-**Peer 2 Peer University is teaming up with College Unbound, an innovative and accredited university in Providence, RI, to create pathways to college credit through free peer-based learning programs at public libraries.** [**Read the press release**](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/)**. For now, this project is only open to Rhode Island-based library staff who have already facilitated a learning circle and participated in an additional credit-bearing learning circle training.**
+# Credit-Bearing Learning Circles
+
+With support from the WalMart Foundation, P2PU, College Unbound, and Providence Public Library have developed a pathway from library-based learning circles to college credit. [Read the press release](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/). 
+
+For now, this project is only open to Rhode Island-based library staff who have already facilitated a learning circle and participated in an additional credit-bearing learning circle training. The following courses are eligible fore credit: 
 
 | **Public Speaking** | How to Talk about Race | Cyber Security |
 | :---: | :---: | :---: |
