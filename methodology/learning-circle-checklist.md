@@ -39,20 +39,13 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 ## After each meeting
 
 * Capture feedback and communication with learners
-  * Facilitators should complete this process after each meeting - this process will include communicating to learners about the meeting, sharing insights with the P2PU community and capturing stats
-    * Go to your [P2PU Dashboard](https://learningcircles.p2pu.org/en/)
-    * Under My Learning Circles, click Manage to the right of the course
-    * To the right of each meeting, click Capture feedback - you will be asked to enter the following:
-      * For learners: Write a brief summary of this week's learning circle - You may want to include your impressions of how it went, plus/delta feedback, and anything the group agreed on having completed before the next meeting. This will be automatically sent to learners two days before next week's meeting.
-      * For the rest of us \(P2PU community\): Anything you want to share? - What went well this week? What surprised you? Any funny stories? We'll pull what you write here into our community newsletters and updates.
-      * How many people attended? These stats will be captured for MCL’s event stats
-      * Rating how the week's class went
+  * Facilitators will receive an email notification after each meeting prompting them to reflect on the meeting.
+  * Additionally, facilitators can send a recap message to learners to recap what was discussed during the meeting and loop in participants who could not attend.
+  * Lastly a facilitator might want to edit the reminder message for the next meeting if there is anything to be done for that meeting.
 
 ## Final learning circle meeting
 
 * Surveys 
-  * The P2PU portal will send emails to both the learners and facilitators before the final meetings, asking them to complete a survey about their experience
-    * Ask learners to complete this survey during the final meeting during plus/delta
-    * Facilitators should complete their survey immediately after the final session
-    * The survey results \(called Insight Report\) will be shared with learners, facilitators and team organizers 2 days after the last meeting
+  * The P2PU portal will send emails to learners before the final meetings, asking them to complete a survey about their experience
+  * Ask learners to complete this survey during the final meeting during plus/delta
 
