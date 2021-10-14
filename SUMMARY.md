@@ -27,18 +27,20 @@
 
 ## Tools & Resources
 
-* [Tools for Learning Circles](tools-and-resources/tools-for-learning-circles/README.md)
+* [Learning Circle Software](tools-and-resources/tools-for-learning-circles/README.md)
   * [Facilitator Dashboard](tools-and-resources/tools-for-learning-circles/untitled.md)
   * [Creating Learning Circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
   * [Managing Learning Circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
   * [Automated Messages](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
   * [Evaluation Surveys](tools-and-resources/tools-for-learning-circles/evaluation-surveys.md)
+* [Marketing Materials](tools-and-resources/marketing-materials/README.md)
+  * [P2PU.org Image Credits](tools-and-resources/marketing-materials/p2pu.org-image-credits.md)
 * [Community Support](tools-and-resources/community-support.md)
 * [Credit-Bearing Learning Circles](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 
 ## Starting a Community
 
----
+***
 
 * [Teams](teams/README.md)
   * [Managing team members](teams/team-members.md)
@@ -46,4 +48,3 @@
   * [Weekly summary](teams/weekly-summary.md)
   * [Courses for teams](teams/courses-for-teams.md)
   * [Aggregated data](teams/aggregated-data.md)
-
