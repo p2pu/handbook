@@ -6,13 +6,13 @@ description: >-
 
 # Credit-Bearing Learning Circles
 
-With support from the Walmart Foundation, P2PU, College Unbound, and Providence Public Library have developed a pathway from library-based learning circles to college credit. [Read the press release](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/). 
+With support from Walmart, P2PU, College Unbound, and Providence Public Library have developed a pathway from library-based learning circles to college credit. [Read the press release](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/).&#x20;
 
-For now, this project is only open to Rhode Island-based library staff who have already facilitated a learning circle and participated in an additional credit-bearing learning circle training. The following courses are eligible fore credit: 
+For now, this project is only open to Rhode Island-based library staff who have already facilitated a learning circle and participated in an additional credit-bearing learning circle training. The following courses are eligible fore credit:&#x20;
 
 |                                                **Public Speaking**                                                |                                          **How to Talk About Race**                                          |                                                     **Cyber Security**                                                    |
 | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-|   [**Learning Journal**](https://docs.google.com/document/d/1UGBtpmgN1eN9t_VSDjsL6fwIOVuC3spVtIE5C-oBYfI/edit#)   | [**Learning Journal**](https://docs.google.com/document/d/1bab9ZBgPzXZ6oG-797ha9SRpE-tP9H1qgrqrh3NDL88/edit) |       [**Learning Journal**](https://docs.google.com/document/d/17WK9r2OZkePF6V0vCKbYd7cuHX6vyJLAWflPbi_ic7Y/edit#)       |
+|   [**Learning Journal**](https://docs.google.com/document/d/1UGBtpmgN1eN9t\_VSDjsL6fwIOVuC3spVtIE5C-oBYfI/edit#)  | [**Learning Journal**](https://docs.google.com/document/d/1bab9ZBgPzXZ6oG-797ha9SRpE-tP9H1qgrqrh3NDL88/edit) |       [**Learning Journal**](https://docs.google.com/document/d/17WK9r2OZkePF6V0vCKbYd7cuHX6vyJLAWflPbi\_ic7Y/edit#)      |
 | [**Facilitator Guide**](https://docs.google.com/document/u/1/d/1Ee9qFinK6khLnabnZF7riY6sS39FHjn67bSP4PmVtHw/edit) |  [**Facilitator Guide**](https://docs.google.com/document/d/1tiv1Y4ScGm4mVnJh4tUjCSzvCr44jaaI9\_fn5y36Hvk/)  | [**Facilitator Guide**](https://docs.google.com/document/d/1V0ouIfg7XvGZ2arI5WCRi24QUcLzcpofV7d8rclYWlY/edit?usp=sharing) |
 
 ### **What makes a learning circle “credit worthy”?**
@@ -62,7 +62,7 @@ There are currently three learning circle courses approved for credit: introduct
 
 ### **Will there be more courses?**
 
-Yes! We’re working on it now. If there’s a particular subject or course that you’d like to see please let us know: [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org)  
+Yes! We’re working on it now. If there’s a particular subject or course that you’d like to see please let us know: [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org) &#x20;
 
 ### **Does running a credit-bearing LC make me faculty at College Unbound?**
 
