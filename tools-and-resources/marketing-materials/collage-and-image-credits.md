@@ -45,3 +45,10 @@ We've designed free templates in Figma and Google Slides for you to use to creat
 * _Study for "Mathematics," "The Sciences," Library of Congress, Washington D.C._ via Cooper Hewitt, Smithsonian Design Museum ([1923-6-23](https://www.si.edu/object/study-mathematics-sciences-library-congress-washington-dc:chndm\_1923-6-23))
 * _Ceiling paper_ via Cooper Hewitt, Smithsonian Design Museum ([1974-5-1](https://www.si.edu/object/ceiling-paper:chndm\_1974-5-1))
 * _Library_ via Cooper Hewitt, Smithsonian Design Museum ([2007-27-80](https://www.si.edu/object/library:chndm\_2007-27-80))
+
+## [About](collage-and-image-credits.md#make-your-own-p2pu-collage)
+
+* **Our Values, Peer Learning: **_The Virgin Teaching the Infant Jesus_ via Cooper Hewitt, Smithsonian Design Museum ([1896-3-274](https://www.si.edu/object/virgin-teaching-infant-jesus:chndm\_1896-3-274))
+* **Our Values, Community: **_The ascent of Mont Blanc, no. 1 "The Glacier du Tacconay"_ via Harvard Library ([source](https://iiif.lib.harvard.edu/manifests/view/drs:44233389$7i))
+* **Our Values, Open: **_Water color; A Neapolitan watermelon shop_ via Cooper Hewitt, Smithsonian Design Museum ([1931-73-1](https://www.si.edu/object/water-color-neapolitan-watermelon-shop:chndm\_1931-73-1))
+* **Our Values, Equity: **_Justice, Cartoon for Mosaic in Wisconsin State Capitol Rotunda_ via Cooper Hewitt, Smithsonian Design Museum ([1959-69-9](https://www.si.edu/object/justice-cartoon-mosaic-wisconsin-state-capitol-rotunda:chndm\_1959-69-9))
