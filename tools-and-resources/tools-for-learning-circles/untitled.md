@@ -1,10 +1,10 @@
 # Facilitator Dashboard
 
-The Facilitator Dashboard is the space you see when you sign in to your P2PU account. From here, you can create and manage your learning circles and see what else is happening around the community. 
+The Facilitator Dashboard is the space you see when you sign in to your P2PU account. From here, you can create and manage your learning circles and see what else is happening around the community.&#x20;
 
-**See the dashboard:** [**https://learningcircles.p2pu.org/en/**](https://learningcircles.p2pu.org/en/)\*\*\*\*
+**See the dashboard: **[**https://learningcircles.p2pu.org/en/**](https://learningcircles.p2pu.org/en/)****
 
-![Example dashboard](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2019-08-13-blank-dashboard.png)
+![Example dashboard](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/2019-08-13-blank-dashboard.png)
 
 ## Sections of the Dashboard
 
@@ -16,7 +16,7 @@ The first table on your Dashboard shows the learning circles of which you are th
 
 You only have this table if you are part of a team. It shows all of the learning circles facilitated by members of your team.
 
-If you are part of a larger organization that is running learning circles \(such as Chicago Public Library\), you should contact your learning circle organizer to make sure that you are added to the team. This will ensure that information about your learning circles is shared with them and that you have access to this section on your Dashboard.
+If you are part of a larger organization that is running learning circles (such as Chicago Public Library), you should contact your learning circle organizer to make sure that you are added to the team. This will ensure that information about your learning circles is shared with them and that you have access to this section on your Dashboard.
 
 #### My Courses
 
@@ -44,14 +44,12 @@ If there are any actions that you need to take, such as validating your email ad
 
 ## Joining a Team
 
-Some elements of the dashboard are only visible to people who are on a team. \(See [Teams](../../teams/)\) 
+Some elements of the dashboard are only visible to people who are on a team. (See [Teams](../../teams/))&#x20;
 
 Joining a team means:
 
 * Your learning circles will appear on your team’s learning circle page, making it easier for people in your community to find your learning circles.
-* You’ll be informed of other learning circles happening across your team through your dashboard and a weekly update. \(You can configure email communications in account settings\).
+* You’ll be informed of other learning circles happening across your team through your dashboard and a weekly update. (You can configure email communications in account settings).
 * Your email address will be visible to other members of your team in the weekly update.
 * Information about your learning circles will be included in any reporting or evaluation that your team is conducting.
-
-
 

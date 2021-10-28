@@ -2,13 +2,13 @@
 
 Learning circles are facilitated, not taught, which means you don't need to be a teacher or a subject matter expert in order to successfully host a learning circle:
 
-The facilitator's role is to maintain the fidelity of the learning circle model \(e.g. cultivating a supportive environment, keeping discussion on track, ending each meeting on time\), but you’re not responsible for what happens during each meeting.
+The facilitator's role is to maintain the fidelity of the learning circle model (e.g. cultivating a supportive environment, keeping discussion on track, ending each meeting on time), but you’re not responsible for what happens during each meeting.
 
 All of the resources and methodologies referenced in this handbook—the [weekly structure](https://handbook.p2pu.org/methodology/learning-circle-structure), the [activities](https://handbook.p2pu.org/methodology/learning-circle-structure#learn-and-do), the [courses](https://handbook.p2pu.org/courses/finding-courses)—have all been developed to help you lead a successful learning circle. That being said, facilitation can still feel daunting, especially at first.
 
 The good news is that facilitation is a practice, and that you needn’t stress about getting it “perfect” right away. Growing comfortable as a learning circle facilitator will be a continuous process of trying, reflecting, and iterating. And you needn’t do this alone. The P2PU community is here to help -- our welcome committee, community forum, monthly facilitator calls, and weekly reflection prompts are each designed to help you refine your practice and grow confident and comfortable in the facilitator role.
 
-What follows are some of the most common questions and worries we hear from facilitators, followed by specific strategies for addressing them. ****
+What follows are some of the most common questions and worries we hear from facilitators, followed by specific strategies for addressing them.** **
 
 ## **Establishing Your Role**
 
@@ -38,27 +38,27 @@ You can also find support from working with a co-worker or two within your organ
 
 ### **Providing technical support**
 
-The supportive environment of learning circles can attract individuals with little digital skills who had never taken an online course before. In these cases, it is essential to provide technical support so these learners can keep up with the rest of the group. In a face-to-face setting, you can demonstrate how to navigate the online course. In a virtual meeting, tutorials can help them use video conferencing systems. You can also directly share the links to specific materials, such as lectures and course modules. Learners with low digital skills also have [lower exposure to lifelong learning opportunities](https://www.pewresearch.org/internet/2016/03/22/lifelong-learning-and-technology/), so your help can open a myriad of possibilities for them! 
+The supportive environment of learning circles can attract individuals with little digital skills who had never taken an online course before. In these cases, it is essential to provide technical support so these learners can keep up with the rest of the group. In a face-to-face setting, you can demonstrate how to navigate the online course. In a virtual meeting, tutorials can help them use video conferencing systems. You can also directly share the links to specific materials, such as lectures and course modules. Learners with low digital skills also have [lower exposure to lifelong learning opportunities](https://www.pewresearch.org/internet/2016/03/22/lifelong-learning-and-technology/), so your help can open a myriad of possibilities for them!&#x20;
 
 ## **Managing Conversations**
 
 ### **Creating group norms**
 
-A big component of peer-based learning is being able to share thoughts, ideas and experiences with the group. One common first step is to collectively create group norms to help your learning circle run effectively. All learners should contribute to the creation of the group norms that will provide guidance on how to have respectful conversation and engagement. \(See Group Expectations\) The creation of group norms can also help to create social Cohesion. It establishes that “we” as a group have control and input into how “we” operate as a group. Learners are more likely to participate in a process that they feel that they have ownership of.
+A big component of peer-based learning is being able to share thoughts, ideas and experiences with the group. One common first step is to collectively create group norms to help your learning circle run effectively. All learners should contribute to the creation of the group norms that will provide guidance on how to have respectful conversation and engagement. (See Group Expectations) The creation of group norms can also help to create social Cohesion. It establishes that “we” as a group have control and input into how “we” operate as a group. Learners are more likely to participate in a process that they feel that they have ownership of.
 
 ### **Mediating conflicts**
 
-Depending on the topic and how passionate your participants are about the subject materials conflicts can arise. It’s not possible to know what kind of conflicts will arise but you can handle those by using your group norms that your learning circle established on the first day. \(See Group Expectations\) Group norms are not just for the first day you can revisit them at the end or beginning of subsequent meetings to make sure that your group norms still fit your group’s needs. It's okay for the group to change them as necessary, to make sure that the learning circle is and continues to be a comfortable and fair exchange of ideas and information.
+Depending on the topic and how passionate your participants are about the subject materials conflicts can arise. It’s not possible to know what kind of conflicts will arise but you can handle those by using your group norms that your learning circle established on the first day. (See Group Expectations) Group norms are not just for the first day you can revisit them at the end or beginning of subsequent meetings to make sure that your group norms still fit your group’s needs. It's okay for the group to change them as necessary, to make sure that the learning circle is and continues to be a comfortable and fair exchange of ideas and information.
 
 We also like these tactical tips from[ this article and TED Talk by Adar Cohen](https://ideas.ted.com/3-steps-to-having-difficult-but-necessary-conversations/):
 
-1. **Move toward—not away from—conflict:** Conflict can be an opportunity to explore a problem or concern more deeply. Engage participants with questions that allow them to explain their opinions or comments.
-2. **Act as if you don’t know anything about the situation \(even if you do\):** Acting as if you don’t know anything gives you the space to learn and hear information that you may not have, if you immediately jumped in with your personal assumptions.
-3. **Keep quiet, especially at the beginning:** Silence is not a bad thing, allow silence to happen, and try to think of it as an opportunity. Silence is an opportunity for people to reflect, and gather their thoughts, and it can also be a space for a different person to speak up and share with the group.
+1. **Move toward—not away from—conflict: **Conflict can be an opportunity to explore a problem or concern more deeply. Engage participants with questions that allow them to explain their opinions or comments.
+2. **Act as if you don’t know anything about the situation (even if you do):** Acting as if you don’t know anything gives you the space to learn and hear information that you may not have, if you immediately jumped in with your personal assumptions.
+3. **Keep quiet, especially at the beginning: **Silence is not a bad thing, allow silence to happen, and try to think of it as an opportunity. Silence is an opportunity for people to reflect, and gather their thoughts, and it can also be a space for a different person to speak up and share with the group.
 
 ### **Sitting with silence**
 
-Silence can be awkward and nerve wracking for someone trying to facilitate a discussion. You may feel like people are not engaged if they don’t respond quickly, however silence can also be an opportunity for people to gather their thoughts. To encourage others in the group to contribute to the discussion practice keeping quiet. Don’t rush in to fill the awkward silence. If you have trouble with keeping quiet, try counting to ****10 or 30 in your head. One of your fellow learning circle participants may then rush to fill the silence. So keep quiet, especially in the beginning.
+Silence can be awkward and nerve wracking for someone trying to facilitate a discussion. You may feel like people are not engaged if they don’t respond quickly, however silence can also be an opportunity for people to gather their thoughts. To encourage others in the group to contribute to the discussion practice keeping quiet. Don’t rush in to fill the awkward silence. If you have trouble with keeping quiet, try counting to** **10 or 30 in your head. One of your fellow learning circle participants may then rush to fill the silence. So keep quiet, especially in the beginning.
 
 ### Sharing information between meetings
 
@@ -80,11 +80,11 @@ What if the group is stuck? If you are not a subject expert and your course cont
 
 ### Using diverse modes of communication
 
-When you think about discussion you probably think about people gathered together and speaking out loud to one another, and this is the normal expectation for in person and virtual meetings with video conferencing. However, sometimes you may need to promote other types of non-verbal communication to get a group to interact. Maybe you have some shy people in person or you may have some people who might have technical difficulties or limitations with their personal set up. 
+When you think about discussion you probably think about people gathered together and speaking out loud to one another, and this is the normal expectation for in person and virtual meetings with video conferencing. However, sometimes you may need to promote other types of non-verbal communication to get a group to interact. Maybe you have some shy people in person or you may have some people who might have technical difficulties or limitations with their personal set up.&#x20;
 
-Here are a few alternatives to try: 
+Here are a few alternatives to try:&#x20;
 
-* If you can see everyone you can try hand gestures such as thumbs up or thumbs down. This allows for participants to give a quick check in and may spark more verbal conversation when they see the responses of other learners. 
+* If you can see everyone you can try hand gestures such as thumbs up or thumbs down. This allows for participants to give a quick check in and may spark more verbal conversation when they see the responses of other learners.&#x20;
 * In online meetings, the embedded chat channel can serve as a nice space for conversation and an essential place for link sharing. It may also be the case that some participants do not have access to a working microphone and are therefore only able to communicate via the chat. If you use the chat function in addition to verbal communication make sure to check it regularly so that people who use the chat don’t feel left out of the conversation or start running a side conversation.
 
 ## Cultivating lifelong learning
@@ -102,13 +102,12 @@ Here are some ideas on how to start these conversations:
 * How do you structure your study routine outside a learning circle?
 * How do you find help when you don’t understand something?
 * Please, walk us through the process that you used to solve this problem.
-* Where do you generally find answers to your questions about \[learning circle topic\]?
+* Where do you generally find answers to your questions about \[learning circle topic]?
 * How are you applying the knowledge acquired in this learning circle?
 
 ### **Sharing learning resources**
 
-Being able to locate reliable pieces of information is crucial for lifelong learners, and you can expand people’s repertoire of relevant resources. Make a habit of sharing materials related to your learning circle, and ask for learners’ recommendations as well. They are probably already relying on content beyond the online course, such as podcasts, YouTube videos, TED talks, movies, books, newspaper articles, among others. You can create a shared document to keep track of all additional resources and encourage people to write down suggestions. The online course is not the only source of information in a learning circle, and people are more likely to attend meetings that provide them with a wealth of information.  
+Being able to locate reliable pieces of information is crucial for lifelong learners, and you can expand people’s repertoire of relevant resources. Make a habit of sharing materials related to your learning circle, and ask for learners’ recommendations as well. They are probably already relying on content beyond the online course, such as podcasts, YouTube videos, TED talks, movies, books, newspaper articles, among others. You can create a shared document to keep track of all additional resources and encourage people to write down suggestions. The online course is not the only source of information in a learning circle, and people are more likely to attend meetings that provide them with a wealth of information.\
 
 
-## 
-
+##
