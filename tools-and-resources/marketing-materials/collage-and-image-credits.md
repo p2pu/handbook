@@ -1,4 +1,4 @@
-# Collage & Image Credits
+# ✂ Collage & Image Credits
 
 One of P2PU’s 4 core values is _open_: the belief that we create value not by gatekeeping but instead by working together, sharing resources, and lowering barriers to entry. P2PU is built on open source technology and everything we create is free to share, remix, and redistribute.
 
@@ -8,7 +8,9 @@ For more details, check out our blog post. (_Coming soon!_)
 
 ## Make Your Own P2PU Collage
 
-We've designed free templates in Figma and Google Slides for you to use to create promotional materials for your learning circles. Below we’ve shared a few of our favorite sources for open-access imagery to inspire your works\*.&#x20;
+We've designed free templates in Figma and Google Slides for you to use to create promotional materials for your learning circles. (_Links coming soon!_)&#x20;
+
+Below we’ve shared a few of our favorite sources for open-access imagery to inspire your works\*.&#x20;
 
 * [Smithsonian Open Access](https://www.si.edu/openaccess)
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main\_Page)
@@ -17,7 +19,7 @@ We've designed free templates in Figma and Google Slides for you to use to creat
 * [WorldImages](https://worldimages.sjsu.edu)
 * [Public Domain Review](https://publicdomainreview.org)
 
-\*Many media archives in the United States disproportionately highlight the representation of wealthy white people in historical narratives. To counter this, P2PU makes a dedicated effort to find and use respectful depictions of people of color and women. We review the content of all materials we include in our collages (even when it’s obscured or illegible in the final piece) to avoid materials that contain violent, harmful, or otherwise disrespectful representations of human beings.
+\*Many media archives in the United States highlight the disproportionate representation of wealthy white people in historical narratives. To counter this, P2PU makes a dedicated effort to prioritize respectful depictions of people of color and women in our collages. We review the content of all materials we include in our collages (even when it’s obscured or illegible in the final piece) to avoid sources or materials that contain violent, harmful, or otherwise disrespectful representations of human beings.
 
 ## P2PU.org Image Credits
 
@@ -47,23 +49,17 @@ We've designed free templates in Figma and Google Slides for you to use to creat
 * **Learn better together: **_Lunch Hour_ via Smithsonian American Art Museum and its Renwick Gallery ([1971.214](https://www.si.edu/object/lunch-hour:saam\_1971.214))
 * **Access for all: **_United States National Museum Library_ via Smithsonian Libraries and Archives ([MAH-3666](https://www.si.edu/object/united-states-national-museum-library:siris\_arc\_389215))
 
-![No expert required: Man Giving Speech by via Cooper Hewitt, Smithsonian Design Museum (1901-39-1393)](../../.gitbook/assets/CHSDM-6ADC659514122-000001.jpeg) ![Explore any topic: The Copper Plate Engraver via Cooper Hewitt, Smithsonian Design Museum (1949-152-51)](../../.gitbook/assets/CHSDM-D178A2B6D06F2-000001.jpeg) ![Learn better together: Lunch Hour via Smithsonian American Art Museum and its Renwick Gallery (1971.214)](../../.gitbook/assets/SAAM-1971.214\_1.jpg) ![Access for all: United States National Museum Library via Smithsonian Libraries and Archives (MAH-3666)](../../.gitbook/assets/SIA-MAH-3666-000002.jpeg)
-
 #### **Join the Community:**
 
 * _Commercial_ via Smithsonian Open Access ([2011.109.13.3](https://www.si.edu/object/commercial:nmaahc\_2011.109.13.3))
 * _Handwritten Note, Manuscript Page of Knitting Instructions_ via Cooper Hewitt, Smithsonian Design Museum ([2000-69-1264](https://collection.cooperhewitt.org/objects/18683907/))
 * _Library date due slip_ via Labratmatt, CC BY-SA 4.0, Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Library\_date\_due\_slip.jpg))
 
-![Library date due slip via Labratmatt, CC BY-SA 4.0, Wikimedia Commons (source)](../../.gitbook/assets/180px-Library\_date\_due\_slip.jpeg) ![Handwritten Note, Manuscript Page of Knitting Instructions via Cooper Hewitt, Smithsonian Design Museum (2000-69-1264)](../../.gitbook/assets/CHSDM-4B471385B8532-000001.jpeg) ![Commercial via Smithsonian Open Access (2011.109.13.3)](<../../.gitbook/assets/deliveryService (1).jpeg>)
-
 #### **Start a Team:**
 
 * _Study for "Mathematics," "The Sciences," Library of Congress, Washington D.C._ via Cooper Hewitt, Smithsonian Design Museum ([1923-6-23](https://www.si.edu/object/study-mathematics-sciences-library-congress-washington-dc:chndm\_1923-6-23))
 * _Ceiling paper_ via Cooper Hewitt, Smithsonian Design Museum ([1974-5-1](https://www.si.edu/object/ceiling-paper:chndm\_1974-5-1))
 * _Library_ via Cooper Hewitt, Smithsonian Design Museum ([2007-27-80](https://www.si.edu/object/library:chndm\_2007-27-80))
-
-![Study for "Mathematics," "The Sciences," Library of Congress, Washington D.C. via Cooper Hewitt, Smithsonian Design Museum (1923-6-23)](../../.gitbook/assets/CHSDM-E56998F4F9B42-000001.jpeg) ![Library via Cooper Hewitt, Smithsonian Design Museum (2007-27-80)](../../.gitbook/assets/deliveryService.jpeg) ![Ceiling paper via Cooper Hewitt, Smithsonian Design Museum (1974-5-1)](../../.gitbook/assets/CHSDM-A6BC0BC6799D2-000001.jpeg)
 
 ## [About](collage-and-image-credits.md#make-your-own-p2pu-collage)
 

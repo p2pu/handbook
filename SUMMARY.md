@@ -34,7 +34,7 @@
   * [Automated Messages](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
   * [Evaluation Surveys](tools-and-resources/tools-for-learning-circles/evaluation-surveys.md)
 * [Marketing Materials](tools-and-resources/marketing-materials/README.md)
-  * [Collage & Image Credits](tools-and-resources/marketing-materials/collage-and-image-credits.md)
+  * [✂ Collage & Image Credits](tools-and-resources/marketing-materials/collage-and-image-credits.md)
 * [Community Support](tools-and-resources/community-support.md)
 * [Credit-Bearing Learning Circles](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 
