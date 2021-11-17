@@ -25,6 +25,8 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 
 ### [Homepage](https://www.p2pu.org/en/)****
 
+![Homepage header collage](../.gitbook/assets/home-splash.jpg)
+
 **Header collage:**
 
 * _Program from the NOMA Second Annual Conference_ by National Organization of Minority Architects via National Museum of African American History and Culture ([TA2017.53.5.1.12.2](https://www.si.edu/object/program-noma-second-annual-conference:nmaahc\_TA2017.53.5.1.12.2))
@@ -42,6 +44,8 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * _Ella Fitzgerald (with Ray Brown, Dizzy Gillespie, and Milt Jackson)_ by William Paul Gottlieb via National Portrait Gallery (NPG.2016.60)
 * _Sholes & Schwalbach Patent Model for Improvement in Type-Writing Machines_ via National Museum of American History ([1981.0359.02](https://www.si.edu/object/sholes-schwalbach-patent-model-improvement-type-writing-machines:nmah\_1383308))
 
+![Homepage learning circle icons](../.gitbook/assets/homepage-lc-icons.png)
+
 **Learning circle icons:**
 
 * **No expert required: **_Man Giving Speech_ by via Cooper Hewitt, Smithsonian Design Museum ([1901-39-1393](https://www.si.edu/object/man-giving-speech:chndm\_1901-39-1393))
@@ -49,11 +53,15 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * **Learn better together: **_Lunch Hour_ via Smithsonian American Art Museum and its Renwick Gallery ([1971.214](https://www.si.edu/object/lunch-hour:saam\_1971.214))
 * **Access for all: **_United States National Museum Library_ via Smithsonian Libraries and Archives ([MAH-3666](https://www.si.edu/object/united-states-national-museum-library:siris\_arc\_389215))
 
+![](<../.gitbook/assets/image (8).png>)
+
 #### **Join the Community:**
 
 * _Commercial_ via Smithsonian Open Access ([2011.109.13.3](https://www.si.edu/object/commercial:nmaahc\_2011.109.13.3))
 * _Handwritten Note, Manuscript Page of Knitting Instructions_ via Cooper Hewitt, Smithsonian Design Museum ([2000-69-1264](https://collection.cooperhewitt.org/objects/18683907/))
 * _Library date due slip_ via Labratmatt, CC BY-SA 4.0, Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Library\_date\_due\_slip.jpg))
+
+![](<../.gitbook/assets/image (7).png>)
 
 #### **Start a Team:**
 
@@ -63,7 +71,93 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 
 ## [About](collage-and-image-credits.md#make-your-own-p2pu-collage)
 
+![](../.gitbook/assets/about-ourvalues.png)
+
 * **Our Values, Peer Learning: **_The Virgin Teaching the Infant Jesus_ via Cooper Hewitt, Smithsonian Design Museum ([1896-3-274](https://www.si.edu/object/virgin-teaching-infant-jesus:chndm\_1896-3-274))
 * **Our Values, Community: **_The ascent of Mont Blanc, no. 1 "The Glacier du Tacconay"_ via Harvard Library ([source](https://iiif.lib.harvard.edu/manifests/view/drs:44233389$7i))
 * **Our Values, Open: **_Water color; A Neapolitan watermelon shop_ via Cooper Hewitt, Smithsonian Design Museum ([1931-73-1](https://www.si.edu/object/water-color-neapolitan-watermelon-shop:chndm\_1931-73-1))
 * **Our Values, Equity: **_Justice, Cartoon for Mosaic in Wisconsin State Capitol Rotunda_ via Cooper Hewitt, Smithsonian Design Museum ([1959-69-9](https://www.si.edu/object/justice-cartoon-mosaic-wisconsin-state-capitol-rotunda:chndm\_1959-69-9))
+
+## Learning Resources
+
+#### ![](<../.gitbook/assets/antiracism (1).jpg>)
+
+#### Antiracism
+
+* _Put People Before Profits_ via National Museum of African American History and Culture ([2010.55.103](collage-and-image-credits.md#make-your-own-p2pu-collage))
+* _Placard from memorial march reading "HONOR KING: END RACISM!" _via National Museum of African American History and Culture ([2011.57.6](https://www.si.edu/object/placard-memorial-march-reading-honor-king-end-racism:nmaahc\_2011.57.6))
+* _Poster for presidential candidate Shirley Chisholm_ via National Museum of African American History and Culture ([2014.167.3](https://www.si.edu/object/poster-presidential-candidate-shirley-chisholm:nmaahc\_2014.167.3))
+* _Evidence of Intimidation & Fascist Crimes by USA: The War on the Black Panther Party 1968 - 1969_ via National Museum of African American History and Culture ([2015.97.13](https://www.si.edu/object/evidence-intimidation-fascist-crimes-usa-war-black-panther-party-1968-1969:nmaahc\_2015.97.13))
+
+#### ![](../.gitbook/assets/climate-change.jpg)
+
+#### Climate Change
+
+* _Hypecoum grandiflorum Benth._ via National Museum of Natural History ([03579702](https://www.si.edu/object/hypecoum-grandiflorum-benth:nmnhbotany\_15175377))
+* _Great Auk Skeleton Mounted for Exhibit_ via Smithsonian Libraries and Archives ([SIA Acc. 11-007](https://www.si.edu/object/great-auk-skeleton-mounted-exhibit:siris\_arc\_390394))
+* _Trees in Washington, DC_ via Smithsonian Libraries and Archives ([SIA RU007355](https://www.si.edu/object/trees-washington-dc:siris\_arc\_291973))
+
+#### ![](../.gitbook/assets/computer-programming.jpg)
+
+#### Computer Programming
+
+* _Details of the mechanisms of the Leibniz calculator, the most advanced of its time_ by Jacob Leupold via Library of Congress Rare Book and Special Collections Division ([2006690495](https://www.loc.gov/resource/cph.3c10471/))
+* _DDR4 SDRAM bar from Samsung with 16 GiB of memory at 2666 MHz. _by PantheraLeo1359531 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:16\_GiB-DDR4-RAM-Riegel\_RAM019FIX\_Small\_Crop\_90\_PCNT.png))
+* _Installation of WINE under Linux Deepin 20.1. OS_ by Deepin-Gemeinde/Screenshot by PantheraLeo1359531 😺, GPL [http://www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html), via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:VirtualBox\_Linux\_Deepin\_20.1\_LARGE\_18\_03\_2021\_11\_00\_20.png))
+* _Reprogramming ENIAC _via ARL Technical Library, Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Reprogramming\_ENIAC.png))
+* _Computer, Dead Reckoning, Sally Ride_ via National Air and Space Museum ([A20140274000](https://www.si.edu/object/computer-dead-reckoning-sally-ride:nasm\_A20140274000))
+
+#### ![](../.gitbook/assets/creativity.jpg)
+
+#### Creativity
+
+* _Parrot Painted by M Street High School Student_ via Anacostia Community Museum ([2011.1008.0006](https://www.si.edu/object/parrot-painted-m-street-high-school-student:acm\_2011.1008.0006))
+* _Border_ via Cooper Hewitt, Smithsonian Design Museum ([1950-121-10](https://www.si.edu/object/border:chndm\_1950-121-10))
+* _Untitled (Artist Painting)_ via Smithsonian American Art Museum and its Renwick Gallery ([1979.136.153](https://www.si.edu/object/untitled-artist-painting:saam\_1979.136.153))
+* _Tassel_ via Cooper Hewitt, Smithsonian Design Museum ([1951-132-5](https://www.si.edu/object/tassel:chndm\_1951-132-5))
+
+#### ![](../.gitbook/assets/digital-literacy.jpg)
+
+#### Digital Literacy
+
+* _Different shape networks_ by Melusine Boon Falleur via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Different\_shape\_networks.png))
+* _Photo of an Apple Desktop Bus Mouse II - the black version_ by StephenEdmonds for http://popcorn.cx/computers/, CC BY-SA 2.5 AU, via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Apple\_mouse\_desktop\_bus\_ii\_black.jpg))
+* _A vector hand cursor and cursor. _by Lordalpha1 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Mouse-cursor-hand-pointer.svg))
+* University of Texas at Arlington (U. T. A.) Library via University of Texas at Arlington Libraries, Special Collections ([AR324-6-22](https://library.uta.edu/digitalgallery/img/10003731))
+* _Laptop Acrobat Model NBD 486C, Type DXh2 - German keyboard layout, compact form_ by Raimond Spekking via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Laptop\_Acrobat\_Model\_NBD\_486C,\_Type\_DXh2\_-\_keyboard-8631.jpg))
+
+#### ![](../.gitbook/assets/job-readiness.jpg)
+
+#### Job Readiness
+
+* _Watch-Tower, Corner of Spring and Varick Streets, New York, from Harper's Weekly, February 28, 1874_ by Winslow Homer via Smithsonian American Art Museum and its Renwick Gallery ([1996.63.93](https://www.si.edu/object/watch-tower-corner-spring-and-varick-streets-new-york-harpers-weekly-february-28-1874:saam\_1996.63.93))
+* _Neville Chamberlain_ by Samuel Johnson Woolf via National Portrait Gallery ([NPG.86.TC81](https://www.si.edu/object/neville-chamberlain:npg\_NPG.86.TC81))
+* _Old Time Card Rack_ by John F. Peto via The Phillips Collection ([source](https://commons.wikimedia.org/wiki/File:John\_Frederick\_Peto\_-\_Old\_Time\_Card\_Rack\_-\_Google\_Art\_Project.jpg))
+* _Time Card for Albert Einstein_ via U.S. Civil Service Commission. 1883-1/1/1979, National Archives and Records Administration ([source](https://commons.wikimedia.org/wiki/File:Time\_Card\_for\_Albert\_Einstein\_-\_NARA\_-\_597840\_\(page\_3\).jpg))
+
+## Create an Account
+
+#### Icons:
+
+* **Tools:** Created by John Caserta from the Noun Project
+* **Community: **Created by P2PU
+* **Course Library:** Created by DvM Design from the Noun Project
+
+## Explore Learning Circles
+
+#### Icons:
+
+* **Hosted by a Facilitator:** Created by P2PU
+* **Peer Learning:** Created by P2PU
+* **Meet Regularly**:** **Created by WEBTECHOPS LLP from the Noun Project
+* **Dedicated Materials:** Created by Adrien Coquet from the Noun Project
+
+## Help
+
+#### Icons:
+
+* **Forum:** Created by Vectors Point from the Noun Project
+* **Knowledge Base: **Created by Abdellah El Falah El Quadmiry from the Noun Project
+* **Community Calls: **Created by Danil Polshin from the Noun Project
+* **Hire Us: **Created by The Icon Z from the Noun Project
+

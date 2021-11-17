@@ -9,9 +9,9 @@ Adding a facilitator to your team will enable a variety functions:
 
 ### Adding Team Members
 
-Once your P2PU account is set up as an organizer, you will see a new block on your learning circle dashboard called _Team Management_, where you can view and invite members to your team. 
+Once your P2PU account is set up as an organizer, you will see a new block on your learning circle dashboard called _Team Management_, where you can view and invite members to your team.&#x20;
 
-![Team Management block on organizer&apos;s dashboard.](../.gitbook/assets/team-page-edit%20%281%29.png)
+![Team Management block on organizer's dashboard.](<../../.gitbook/assets/team-page-edit (1).png>)
 
 ‌There are three ways to invite people to join your team:
 
@@ -19,7 +19,7 @@ Once your P2PU account is set up as an organizer, you will see a new block on yo
 2. **Email invitation**: You can send invitations directly via email from your dashboard. If the recipient already has a P2PU account, they will be prompted to join your team. If they do not, they will be asked to create a P2PU account and then prompted to join your team.
 3. **Invitation link:** You can also generate a unique link that allows anyone with the link to join your team. You can regenerate this link whenever you want, making all previous links inactive.
 
-![Invite members view of dashboard.](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/2019-08-13-team-management.png)
+![Invite members view of dashboard.](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/2019-08-13-team-management.png)
 
 ### **Pending Invitations**
 
@@ -27,15 +27,13 @@ Invitations that have been sent via Option 1 or Option 2 will be visible in the 
 
 ### Removing Team Members
 
-There isn't currently a way for organizers to remove a facilitator from a team or change a team members status between facilitator and organizer. If you'd like to make any of these changes contact  [support@p2pu.org](mailto:support%40p2pu.org). 
+There isn't currently a way for organizers to remove a facilitator from a team or change a team members status between facilitator and organizer. If you'd like to make any of these changes contact  [support@p2pu.org](mailto:support%40p2pu.org).&#x20;
 
 ### Facilitator Profiles
 
-All P2PU accountholders can update their profiles through [account settings](https://learningcircles.p2pu.org/en/accounts/settings/%29). In addition to appearing on learning circle sign up pages, their avatar will also appear on the team page carousel. Team members who have uploaded a photo will appear first, followed by others with a placeholder image \(example below\). Organizers should encourage facilitators to add an image so that they can be fully featured on their team site!
+All P2PU accountholders can update their profiles through [account settings](https://learningcircles.p2pu.org/en/accounts/settings/\)). In addition to appearing on learning circle sign up pages, their avatar will also appear on the team page carousel. Team members who have uploaded a photo will appear first, followed by others with a placeholder image (example below). Organizers should encourage facilitators to add an image so that they can be fully featured on their team site!
 
-![\_images/team-page-facilitator-profile.png](https://learning-circles-user-manual.readthedocs.io/en/latest/_images/team-page-facilitator-profile.png)
-
-
+![\_images/team-page-facilitator-profile.png](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/team-page-facilitator-profile.png)
 
 
 

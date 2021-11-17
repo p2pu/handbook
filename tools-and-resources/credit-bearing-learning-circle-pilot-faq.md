@@ -25,11 +25,11 @@ Learners seeking credit will need to complete a weekly reflection, end of learni
 
 ### **Can anybody sign up for the credit-bearing learning circles?**
 
-Yes, these learning circles are open to the public. Not all participants need to be seeking credit.  There is no age limit for participants who wish to participate for Credit.
+Yes, these learning circles are open to the public. Not all participants need to be seeking credit. There is no age limit for participants who wish to participate for Credit.
 
 ### **Do participants need to have a high school diploma or equivalency to obtain credit from College Unbound?**
 
-No diploma or high school equivalency is necessary to obtain credit.  However if a learner decides to enroll in a degree seeking program at college unbound there are different  requirements.
+No diploma or high school equivalency is necessary to obtain credit. However, if a learner decides to enroll in a degree seeking program at college unbound there are different requirements.
 
 ### **How do learners apply for credit?**
 
@@ -37,12 +37,12 @@ Participants must submit their learner journals via email within 3 weeks of comp
 
 ### **Is there a cost for learners in applying for credit? **
 
-There is no cost for learners to apply for or receive credit for learning circles. If for some reason you need an official College Unbound transcript It will cost $2.25 to $3.50, however College Unbound does not require that you purchase an official transcript.
+There is no cost for learners to apply for or receive credit for learning circles. If for some reason you need an official College Unbound transcript, it will cost $2.25 to $3.50, but College Unbound does not require that you purchase an official transcript.
 
 ### **How much more time does it take to facilitate a credit-bearing learning circle?**
 
 \
-It shouldn’t take more than an extra 30-60 minutes per week. Any credit related questions should be directed to College Unbound, so the main difference for the facilitator is just reminding those on the credit track to do their weekly reflections.
+It shouldn’t take more than an extra 30-60 minutes per week. Any credit-related questions should be directed to College Unbound, so the main difference for the facilitator is just reminding those on the credit track to do their weekly reflections.
 
 ### **Do I need to tell anybody before I run a credit-bearing learning circle? **
 
@@ -50,7 +50,7 @@ No. Once you’ve completed a P2PU training, you are free to run credit-bearing 
 
 ### **Do I have to do anything to verify that participants have attended meetings or completed all of their assignments? **
 
-Facilitators are not required to monitor or grade any of the learning journal reflections or assignments. You may be contacted to verify that a learner participated in the learning circle, however you will not be required to account for weekly attendance data.
+Facilitators are not required to monitor or grade any of the learning journal reflections or assignments. You may be contacted to verify that a learner participated in the learning circle, but you will not be required to account for weekly attendance data.
 
 ### **Can I alter the duration of the learning circle?**
 
@@ -58,7 +58,7 @@ Each course has a required minimum number of meetings and a recommended cadence.
 
 ### **How many learning circles are currently offered for credit?**
 
-There are currently three learning circle courses approved for credit: introduction to cybersecurity (1 credit), introduction to public speaking (0.5 credit) and how to talk about race (0.5 credit).  Each participant can only earn credit for each course once.
+There are currently three learning circle courses approved for credit: introduction to cybersecurity (1 credit), introduction to public speaking (0.5 credit) and how to talk about race (0.5 credit). Each participant can only earn credit for each course once.
 
 ### **Will there be more courses?**
 
@@ -70,8 +70,8 @@ No. If you are interested in becoming a faculty member at College Unbound, pleas
 
 ### **Are learning circle participants automatically enrolled at College Unbound?**
 
-No, they are being awarded credit as non-degree-seeking community members. If participants wish to apply this credit to a CU degree, they should reach out to  [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org) for more information. If a learner decides to enroll in a degree seeking program at college unbound there are additional requirements that will need to be met.  Learners who wish to enroll in a degree seeking program will also need to be able to attend classes in Rhode Island, either Providence or Newport at least once per week.
+No, they are being awarded credit as non-degree-seeking community members. If participants wish to apply this credit to a CU degree, they should reach out to [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org) for more information. If a learner decides to enroll in a degree seeking program at college unbound there are additional requirements that will need to be met. Learners who wish to enroll in a degree seeking program will also need to be able to attend classes in Rhode Island, either Providence or Newport at least once per week.
 
 ### **Is there a cost for seeking a degree?**
 
-Learners who wish to obtain a degree from College Unbound will be responsible for paying tuition for  their classes at college unbound post-enrollment.
+Learners who wish to obtain a degree from College Unbound will be responsible for paying tuition for their classes at college unbound post-enrollment.

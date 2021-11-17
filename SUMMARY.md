@@ -33,18 +33,16 @@
   * [Managing Learning Circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
   * [Automated Messages](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
   * [Evaluation Surveys](tools-and-resources/tools-for-learning-circles/evaluation-surveys.md)
-* [Marketing Materials](tools-and-resources/marketing-materials/README.md)
-  * [✂ Collage & Image Credits](tools-and-resources/marketing-materials/collage-and-image-credits.md)
+* [Marketing Materials](tools-and-resources/marketing-materials.md)
+* [✂ Collage & Image Credits](tools-and-resources/collage-and-image-credits.md)
 * [Community Support](tools-and-resources/community-support.md)
 * [Credit-Bearing Learning Circles](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 
 ## Starting a Community
 
-***
-
-* [Teams](teams/README.md)
-  * [Managing team members](teams/team-members.md)
-  * [Customizing team sites](teams/team-sites.md)
-  * [Weekly summary](teams/weekly-summary.md)
-  * [Courses for teams](teams/courses-for-teams.md)
-  * [Aggregated data](teams/aggregated-data.md)
+* [Teams](starting-a-community/teams/README.md)
+  * [Customizing team sites](starting-a-community/teams/team-sites.md)
+  * [Weekly summary](starting-a-community/teams/weekly-summary.md)
+  * [Courses for teams](starting-a-community/teams/courses-for-teams.md)
+  * [Aggregated data](starting-a-community/teams/aggregated-data.md)
+  * [Managing team members](starting-a-community/teams/team-members.md)

@@ -44,7 +44,7 @@ If there are any actions that you need to take, such as validating your email ad
 
 ## Joining a Team
 
-Some elements of the dashboard are only visible to people who are on a team. (See [Teams](../../teams/))&#x20;
+Some elements of the dashboard are only visible to people who are on a team. (See [Teams](../../starting-a-community/teams/))&#x20;
 
 Joining a team means:
 
