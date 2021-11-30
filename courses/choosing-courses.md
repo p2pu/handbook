@@ -6,6 +6,12 @@ Many facilitators use free online courses for subject material because they are 
 
 Regardless of where the content comes from, there is no such thing as a perfect course! No matter how well content is arranged, a course will never know you as a person, help you make decisions, or tell you when you need to look for answers somewhere else. The learning circle format and the power of peer learning do a lot of work to create a great learning experience. At its best, a course is a starting point for a community of learners to reach common goal, wherever that path may lead.&#x20;
 
+## P2PU's Topic Guides
+
+Our [topic guides](https://www.p2pu.org/en/learning-resources/) help facilitators choose courses related to popular topics, and they include helpful practices and additional readings suggested by our community.&#x20;
+
+![P2PU's current list of guides to popular topics](<../.gitbook/assets/Topic Guides.png>)
+
 ## P2PU's Course Library&#x20;
 
 ![P2PU's community-curated library of open course materials](<../.gitbook/assets/Learning Resources.png>)
@@ -32,9 +38,3 @@ This information is shared on detail pages for each individual course. These pag
 
 * **1–5 star community ratings** (from facilitator and participants)
 * **Links to a dedicated discussion about the course** in the P2PU forums
-
-## P2PU's Topic Guides
-
-Our [topic guides](https://www.p2pu.org/en/learning-resources/) help facilitators choose courses related to popular topics, and they include helpful practices and additional readings suggested by our community.&#x20;
-
-![P2PU's current list of guides to popular topics](<../.gitbook/assets/Topic Guides.png>)

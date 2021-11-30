@@ -1,6 +1,6 @@
 # Searching for Courses
 
-So how should you go about finding course materials not already in the [P2PU library](https://www.p2pu.org/en/courses/)? Beyond Googling "free online course in \[topic]", (which honestly works pretty well), there are a few discovery sites that we **** often turn to when looking for learning circle course content.&#x20;
+So how should you go about finding course materials not already in the [P2PU library](https://www.p2pu.org/en/learning-resources/)? Beyond Googling "free online course in \[topic]", (which honestly works pretty well), there are a few discovery sites that we **** often turn to when looking for learning circle course content.&#x20;
 
 * [Class Central](https://www.class-central.com) is the most popular search engine and reviews site for free online courses.
 * [Community College Consortium for OER](https://www.cccoer.org/learn/find-oer/) keeps an updated list of the most popular OER repositories, disambiguated by media type.
