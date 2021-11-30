@@ -35,7 +35,7 @@ No diploma or high school equivalency is necessary to obtain credit. However, if
 
 Participants must submit their learner journals via email within 3 weeks of completing their learning circle. Instructions for submission are included in each journal. For participants who need to submit via mail, please contact lips@cu for more information.
 
-### **Is there a cost for learners in applying for credit? **
+### **Is there a cost for learners in applying for credit?**&#x20;
 
 There is no cost for learners to apply for or receive credit for learning circles. If for some reason you need an official College Unbound transcript, it will cost $2.25 to $3.50, but College Unbound does not require that you purchase an official transcript.
 
@@ -44,11 +44,11 @@ There is no cost for learners to apply for or receive credit for learning circle
 \
 It shouldn’t take more than an extra 30-60 minutes per week. Any credit-related questions should be directed to College Unbound, so the main difference for the facilitator is just reminding those on the credit track to do their weekly reflections.
 
-### **Do I need to tell anybody before I run a credit-bearing learning circle? **
+### **Do I need to tell anybody before I run a credit-bearing learning circle?**&#x20;
 
 No. Once you’ve completed a P2PU training, you are free to run credit-bearing learning circles whenever you want.
 
-### **Do I have to do anything to verify that participants have attended meetings or completed all of their assignments? **
+### **Do I have to do anything to verify that participants have attended meetings or completed all of their assignments?**&#x20;
 
 Facilitators are not required to monitor or grade any of the learning journal reflections or assignments. You may be contacted to verify that a learner participated in the learning circle, but you will not be required to account for weekly attendance data.
 

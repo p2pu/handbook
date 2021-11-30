@@ -37,7 +37,7 @@ If your learning circle takes place in a venue that has a schedule, public calen
 
 > We thought you might be interested in a learning project taking place in your community. We are going to be hosting a learning circle, a free, peer-led study group for learners who want to take online courses together in a public space. Each week, learners will meet for approximately 90 minutes to work through learning materials about **\[subject]** together.
 >
-> The learning circle will take place at **\[venue] **and run from **\[start time]** to **\[end time]** on the following dates: **\[dates]**.
+> The learning circle will take place at **\[venue]** and run from **\[start time]** to **\[end time]** on the following dates: **\[dates]**.
 >
 > Interested people can learn more and sign up at **\[sign-up page link]**. Please pass this message on to anyone in your community who you think might be interested, and get in touch if you have any questions!
 

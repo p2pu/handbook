@@ -35,7 +35,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * _Black Studies: Paradox with a Promise_ by National Council for Black Studies via National Museum of African American History and Culture ([2012.22.17](https://www.si.edu/object/black-studies-paradox-promise:nmaahc\_2012.22.17))
 * _Study of a Wing_ by Francis Augustus Lathrop via Cooper Hewitt, Smithsonian Design Museum ([1914-38-213](https://www.si.edu/object/study-wing:chndm\_1914-38-213))
 * _Trees in Washington, DC_ via Smithsonian Institution Archives, Record Unit 7355, Martin A. Gruber Photograph Collection ([SIA2010-2294](https://www.si.edu/object/trees-washington-dc:siris\_arc\_291967))
-* _Command Module, Apollo 11 _via National Air and Space Museum ([A19700102000](https://www.si.edu/object/command-module-apollo-11:nasm\_A19700102000))
+* _Command Module, Apollo 11_ via National Air and Space Museum ([A19700102000](https://www.si.edu/object/command-module-apollo-11:nasm\_A19700102000))
 * _Perspectiva: Corporum Regularium_ by Wenzel Jamnitzer via Cooper Hewitt, Smithsonian Design Museum ([1957-192-3-2](https://www.si.edu/object/perspectiva-corporum-regularium:chndm\_1957-192-3-2))
 * _Woman Reading_ by Rembrandt Harmensz van Rijn via Cooper Hewitt, Smithsonian Design Museum ([1949-100-5](https://www.si.edu/object/woman-reading:chndm\_1949-100-5))
 * Eight Origami Cranes by Ira Blount via Anacostia Community Museum ([2011.0004.0092](https://www.si.edu/object/eight-origami-cranes:acm\_2011.0004.0092))
@@ -48,10 +48,10 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 
 **Learning circle icons:**
 
-* **No expert required: **_Man Giving Speech_ by via Cooper Hewitt, Smithsonian Design Museum ([1901-39-1393](https://www.si.edu/object/man-giving-speech:chndm\_1901-39-1393))
-* **Explore any topic: **_The Copper Plate Engraver_ via Cooper Hewitt, Smithsonian Design Museum ([1949-152-51](https://www.si.edu/object/copper-plate-engraver:chndm\_1949-152-51))
-* **Learn better together: **_Lunch Hour_ via Smithsonian American Art Museum and its Renwick Gallery ([1971.214](https://www.si.edu/object/lunch-hour:saam\_1971.214))
-* **Access for all: **_United States National Museum Library_ via Smithsonian Libraries and Archives ([MAH-3666](https://www.si.edu/object/united-states-national-museum-library:siris\_arc\_389215))
+* **No expert required:** _Man Giving Speech_ by via Cooper Hewitt, Smithsonian Design Museum ([1901-39-1393](https://www.si.edu/object/man-giving-speech:chndm\_1901-39-1393))
+* **Explore any topic:** _The Copper Plate Engraver_ via Cooper Hewitt, Smithsonian Design Museum ([1949-152-51](https://www.si.edu/object/copper-plate-engraver:chndm\_1949-152-51))
+* **Learn better together:** _Lunch Hour_ via Smithsonian American Art Museum and its Renwick Gallery ([1971.214](https://www.si.edu/object/lunch-hour:saam\_1971.214))
+* **Access for all:** _United States National Museum Library_ via Smithsonian Libraries and Archives ([MAH-3666](https://www.si.edu/object/united-states-national-museum-library:siris\_arc\_389215))
 
 ![](<../.gitbook/assets/image (8).png>)
 
@@ -73,10 +73,10 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 
 ![](../.gitbook/assets/about-ourvalues.png)
 
-* **Our Values, Peer Learning: **_The Virgin Teaching the Infant Jesus_ via Cooper Hewitt, Smithsonian Design Museum ([1896-3-274](https://www.si.edu/object/virgin-teaching-infant-jesus:chndm\_1896-3-274))
-* **Our Values, Community: **_The ascent of Mont Blanc, no. 1 "The Glacier du Tacconay"_ via Harvard Library ([source](https://iiif.lib.harvard.edu/manifests/view/drs:44233389$7i))
-* **Our Values, Open: **_Water color; A Neapolitan watermelon shop_ via Cooper Hewitt, Smithsonian Design Museum ([1931-73-1](https://www.si.edu/object/water-color-neapolitan-watermelon-shop:chndm\_1931-73-1))
-* **Our Values, Equity: **_Justice, Cartoon for Mosaic in Wisconsin State Capitol Rotunda_ via Cooper Hewitt, Smithsonian Design Museum ([1959-69-9](https://www.si.edu/object/justice-cartoon-mosaic-wisconsin-state-capitol-rotunda:chndm\_1959-69-9))
+* **Our Values, Peer Learning:** _The Virgin Teaching the Infant Jesus_ via Cooper Hewitt, Smithsonian Design Museum ([1896-3-274](https://www.si.edu/object/virgin-teaching-infant-jesus:chndm\_1896-3-274))
+* **Our Values, Community:** _The ascent of Mont Blanc, no. 1 "The Glacier du Tacconay"_ via Harvard Library ([source](https://iiif.lib.harvard.edu/manifests/view/drs:44233389$7i))
+* **Our Values, Open:** _Water color; A Neapolitan watermelon shop_ via Cooper Hewitt, Smithsonian Design Museum ([1931-73-1](https://www.si.edu/object/water-color-neapolitan-watermelon-shop:chndm\_1931-73-1))
+* **Our Values, Equity:** _Justice, Cartoon for Mosaic in Wisconsin State Capitol Rotunda_ via Cooper Hewitt, Smithsonian Design Museum ([1959-69-9](https://www.si.edu/object/justice-cartoon-mosaic-wisconsin-state-capitol-rotunda:chndm\_1959-69-9))
 
 ## Learning Resources
 
@@ -85,7 +85,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 #### Antiracism
 
 * _Put People Before Profits_ via National Museum of African American History and Culture ([2010.55.103](collage-and-image-credits.md#make-your-own-p2pu-collage))
-* _Placard from memorial march reading "HONOR KING: END RACISM!" _via National Museum of African American History and Culture ([2011.57.6](https://www.si.edu/object/placard-memorial-march-reading-honor-king-end-racism:nmaahc\_2011.57.6))
+* _Placard from memorial march reading "HONOR KING: END RACISM!"_ via National Museum of African American History and Culture ([2011.57.6](https://www.si.edu/object/placard-memorial-march-reading-honor-king-end-racism:nmaahc\_2011.57.6))
 * _Poster for presidential candidate Shirley Chisholm_ via National Museum of African American History and Culture ([2014.167.3](https://www.si.edu/object/poster-presidential-candidate-shirley-chisholm:nmaahc\_2014.167.3))
 * _Evidence of Intimidation & Fascist Crimes by USA: The War on the Black Panther Party 1968 - 1969_ via National Museum of African American History and Culture ([2015.97.13](https://www.si.edu/object/evidence-intimidation-fascist-crimes-usa-war-black-panther-party-1968-1969:nmaahc\_2015.97.13))
 
@@ -102,9 +102,9 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 #### Computer Programming
 
 * _Details of the mechanisms of the Leibniz calculator, the most advanced of its time_ by Jacob Leupold via Library of Congress Rare Book and Special Collections Division ([2006690495](https://www.loc.gov/resource/cph.3c10471/))
-* _DDR4 SDRAM bar from Samsung with 16 GiB of memory at 2666 MHz. _by PantheraLeo1359531 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:16\_GiB-DDR4-RAM-Riegel\_RAM019FIX\_Small\_Crop\_90\_PCNT.png))
+* _DDR4 SDRAM bar from Samsung with 16 GiB of memory at 2666 MHz._ by PantheraLeo1359531 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:16\_GiB-DDR4-RAM-Riegel\_RAM019FIX\_Small\_Crop\_90\_PCNT.png))
 * _Installation of WINE under Linux Deepin 20.1. OS_ by Deepin-Gemeinde/Screenshot by PantheraLeo1359531 😺, GPL [http://www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html), via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:VirtualBox\_Linux\_Deepin\_20.1\_LARGE\_18\_03\_2021\_11\_00\_20.png))
-* _Reprogramming ENIAC _via ARL Technical Library, Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Reprogramming\_ENIAC.png))
+* _Reprogramming ENIAC_ via ARL Technical Library, Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Reprogramming\_ENIAC.png))
 * _Computer, Dead Reckoning, Sally Ride_ via National Air and Space Museum ([A20140274000](https://www.si.edu/object/computer-dead-reckoning-sally-ride:nasm\_A20140274000))
 
 #### ![](../.gitbook/assets/creativity.jpg)
@@ -122,7 +122,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 
 * _Different shape networks_ by Melusine Boon Falleur via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Different\_shape\_networks.png))
 * _Photo of an Apple Desktop Bus Mouse II - the black version_ by StephenEdmonds for http://popcorn.cx/computers/, CC BY-SA 2.5 AU, via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Apple\_mouse\_desktop\_bus\_ii\_black.jpg))
-* _A vector hand cursor and cursor. _by Lordalpha1 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Mouse-cursor-hand-pointer.svg))
+* _A vector hand cursor and cursor._ by Lordalpha1 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Mouse-cursor-hand-pointer.svg))
 * University of Texas at Arlington (U. T. A.) Library via University of Texas at Arlington Libraries, Special Collections ([AR324-6-22](https://library.uta.edu/digitalgallery/img/10003731))
 * _Laptop Acrobat Model NBD 486C, Type DXh2 - German keyboard layout, compact form_ by Raimond Spekking via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Laptop\_Acrobat\_Model\_NBD\_486C,\_Type\_DXh2\_-\_keyboard-8631.jpg))
 
@@ -140,7 +140,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 #### Icons:
 
 * **Tools:** Created by John Caserta from the Noun Project
-* **Community: **Created by P2PU
+* **Community:** Created by P2PU
 * **Course Library:** Created by DvM Design from the Noun Project
 
 ## Explore Learning Circles
@@ -149,7 +149,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 
 * **Hosted by a Facilitator:** Created by P2PU
 * **Peer Learning:** Created by P2PU
-* **Meet Regularly**:** **Created by WEBTECHOPS LLP from the Noun Project
+* **Meet Regularly**: **** Created by WEBTECHOPS LLP from the Noun Project
 * **Dedicated Materials:** Created by Adrien Coquet from the Noun Project
 
 ## Help
@@ -157,7 +157,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 #### Icons:
 
 * **Forum:** Created by Vectors Point from the Noun Project
-* **Knowledge Base: **Created by Abdellah El Falah El Quadmiry from the Noun Project
-* **Community Calls: **Created by Danil Polshin from the Noun Project
-* **Hire Us: **Created by The Icon Z from the Noun Project
+* **Knowledge Base:** Created by Abdellah El Falah El Quadmiry from the Noun Project
+* **Community Calls:** Created by Danil Polshin from the Noun Project
+* **Hire Us:** Created by The Icon Z from the Noun Project
 

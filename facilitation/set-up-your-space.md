@@ -59,7 +59,7 @@ As you find tools you want to use, keep learner accessibility in mind. Here are 
 
 Because many facilitators are locked into institutional requirements and it’d be impossible to address every learning circle’s unique tech needs, this is not a hefty tool comparison. (Looking for a comprehensive guide? We recommend [Mozilla’s Video Call Apps list](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)!) Instead, we’re getting right to our recommended setup: Jitsi video calls + Etherpad collaborative text documents.
 
-### ****[**Jitsi**](https://meet.jit.si)** (Video Conferencing w/ Screenshare, Dial-In, Text)**
+### ****[**Jitsi**](https://meet.jit.si) **(Video Conferencing w/ Screenshare, Dial-In, Text)**
 
 ![Preview of a group Jitsi call during an individual reading activity: most participants have video turned off and one participant is screen-sharing a countdown timer](https://lh5.googleusercontent.com/CP8yTAy6Q4e-j3eJdL\_XXYQvCCRie2iQ9EwMiS64j898aBL7mi8Y9W7iadTCrLoBqtLn9Az\_\_j5Jy8YeophAhERa-nM1U2RAOPdD870vcSmTnzcJ335-mCgz1ggoExAEsr3Fki\_E)
 

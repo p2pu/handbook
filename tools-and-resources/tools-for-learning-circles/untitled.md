@@ -2,7 +2,7 @@
 
 The Facilitator Dashboard is the space you see when you sign in to your P2PU account. From here, you can create and manage your learning circles and see what else is happening around the community.&#x20;
 
-**See the dashboard: **[**https://learningcircles.p2pu.org/en/**](https://learningcircles.p2pu.org/en/)****
+**See the dashboard:** [**https://learningcircles.p2pu.org/en/**](https://learningcircles.p2pu.org/en/)****
 
 ![Example dashboard](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/2019-08-13-blank-dashboard.png)
 

@@ -1,6 +1,6 @@
 # Group Expectations
 
-To create a supportive and effective space for everyone, it’s recommended that the group agrees on a set of norms for their meetings** **during the first meeting. It is the facilitator’s role to uphold these expectations and remind participants when they are not upheld.&#x20;
+To create a supportive and effective space for everyone, it’s recommended that the group agrees on a set of norms for their meetings **** during the first meeting. It is the facilitator’s role to uphold these expectations and remind participants when they are not upheld.&#x20;
 
 Here are some suggestions (adapted from [Our Data Bodies’ Digital Defense Playbook](https://www.odbproject.org/wp-content/uploads/2019/03/ODB\_DDP\_HighRes\_Single.pdf)) that work well for most learning circles:
 

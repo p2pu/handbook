@@ -8,7 +8,7 @@ All of the resources and methodologies referenced in this handbook—the [weekly
 
 The good news is that facilitation is a practice, and that you needn’t stress about getting it “perfect” right away. Growing comfortable as a learning circle facilitator will be a continuous process of trying, reflecting, and iterating. And you needn’t do this alone. The P2PU community is here to help -- our welcome committee, community forum, monthly facilitator calls, and weekly reflection prompts are each designed to help you refine your practice and grow confident and comfortable in the facilitator role.
 
-What follows are some of the most common questions and worries we hear from facilitators, followed by specific strategies for addressing them.** **
+What follows are some of the most common questions and worries we hear from facilitators, followed by specific strategies for addressing them. ****&#x20;
 
 ## **Establishing Your Role**
 
@@ -52,13 +52,13 @@ Depending on the topic and how passionate your participants are about the subjec
 
 We also like these tactical tips from[ this article and TED Talk by Adar Cohen](https://ideas.ted.com/3-steps-to-having-difficult-but-necessary-conversations/):
 
-1. **Move toward—not away from—conflict: **Conflict can be an opportunity to explore a problem or concern more deeply. Engage participants with questions that allow them to explain their opinions or comments.
+1. **Move toward—not away from—conflict:** Conflict can be an opportunity to explore a problem or concern more deeply. Engage participants with questions that allow them to explain their opinions or comments.
 2. **Act as if you don’t know anything about the situation (even if you do):** Acting as if you don’t know anything gives you the space to learn and hear information that you may not have, if you immediately jumped in with your personal assumptions.
-3. **Keep quiet, especially at the beginning: **Silence is not a bad thing, allow silence to happen, and try to think of it as an opportunity. Silence is an opportunity for people to reflect, and gather their thoughts, and it can also be a space for a different person to speak up and share with the group.
+3. **Keep quiet, especially at the beginning:** Silence is not a bad thing, allow silence to happen, and try to think of it as an opportunity. Silence is an opportunity for people to reflect, and gather their thoughts, and it can also be a space for a different person to speak up and share with the group.
 
 ### **Sitting with silence**
 
-Silence can be awkward and nerve wracking for someone trying to facilitate a discussion. You may feel like people are not engaged if they don’t respond quickly, however silence can also be an opportunity for people to gather their thoughts. To encourage others in the group to contribute to the discussion practice keeping quiet. Don’t rush in to fill the awkward silence. If you have trouble with keeping quiet, try counting to** **10 or 30 in your head. One of your fellow learning circle participants may then rush to fill the silence. So keep quiet, especially in the beginning.
+Silence can be awkward and nerve wracking for someone trying to facilitate a discussion. You may feel like people are not engaged if they don’t respond quickly, however silence can also be an opportunity for people to gather their thoughts. To encourage others in the group to contribute to the discussion practice keeping quiet. Don’t rush in to fill the awkward silence. If you have trouble with keeping quiet, try counting to **** 10 or 30 in your head. One of your fellow learning circle participants may then rush to fill the silence. So keep quiet, especially in the beginning.
 
 ### Sharing information between meetings
 

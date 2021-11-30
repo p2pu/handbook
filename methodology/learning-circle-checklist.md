@@ -6,7 +6,7 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 
 ## First Steps
 
-* ****[**Set Your Intent**](../courses/set-your-intent.md)** **by connecting with your own goals, your community, or your colleagues to identify the learning objectives and audience you want to support with your learning circle
+* ****[**Set Your Intent**](../courses/set-your-intent.md) **** by connecting with your own goals, your community, or your colleagues to identify the learning objectives and audience you want to support with your learning circle
 * Decide your learning circle details:
   * Choice of course/learning materials
   * Number of meetings and length of each session

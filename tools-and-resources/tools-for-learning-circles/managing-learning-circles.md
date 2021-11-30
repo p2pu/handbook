@@ -1,6 +1,6 @@
 # Managing Learning Circles
 
-Once a [new learning circle has been created](creating-learning-circles.md) (either as a draft or live), P2PU will automatically generate a sign-up page and a private management page associated with that learning circle. The facilitator will receive a confirmation email with links to both pages which can also be found on their dashboard in the **My Learning Circles **section.
+Once a [new learning circle has been created](creating-learning-circles.md) (either as a draft or live), P2PU will automatically generate a sign-up page and a private management page associated with that learning circle. The facilitator will receive a confirmation email with links to both pages which can also be found on their dashboard in the **My Learning Circles** section.
 
 !["My Learning Circles" section of the Facilitator Dashboard showing links to manage individual learning circles](../../.gitbook/assets/screen-shot-2021-04-22-at-2.10.31-pm.png)
 
@@ -14,8 +14,8 @@ Once a [new learning circle has been created](creating-learning-circles.md) (eit
 
 The top section of the page shows a preview of the learning circle's information: title, image, facilitator info, link to the course materials, and meeting details. Below that is a yellow bar containing the following tools:
 
-* **Edit: **Return to the [5-step learning circle creation form](creating-learning-circles.md) to update any information previously entered.
-* **View: **See the live learning circle sign-up page.
+* **Edit:** Return to the [5-step learning circle creation form](creating-learning-circles.md) to update any information previously entered.
+* **View:** See the live learning circle sign-up page.
 * **Add Meeting:** Quickly add a new meeting to the learning circle. This will add a section for that meeting on the management page and automatically generate an editable reminder message for that meeting.
 * **Close Signup:** Turn off the registration form on the sign-up page. (If signup is closed, the button will change to **Open Signup** and can be used to activate registration again anytime.)
 * **Delete:** Delete the learning circle from public view and remove the records of the learning circle and registered learners from the P2PU database.
