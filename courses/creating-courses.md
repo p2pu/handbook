@@ -26,6 +26,8 @@ Take the time to establish an outline before diving in and writing content. Ther
 
 Once you’ve established the goals for a course, start arranging materials into weekly modules, outlining 2–3 learning goals for each individual meeting. When scoping out the learning goals, keep in mind the 6-8 week length of learning circle: we tend to think about the learning content as being more than a workshop, but less than a semester’s worth of work.&#x20;
 
+Our section on creating [Facilitator Guides & Agendas](https://docs.p2pu.org/courses/adapting-courses#facilitator-guides-and-agendas) provides some examples of course outlines created by our community, and you can [make a copy](https://docs.google.com/document/d/1ozi0IWRkhSamBxYD4l11Dy86TaVhMDiIYZhqFYNGxPM/copy) of our Facilitator Guide Template to help structure your course.
+
 ### Write Course Introduction
 
 Finally, we often find it helpful to take all of this work and summarize it into a first draft of the course landing page. In addition to drafting a course title, you should include:
