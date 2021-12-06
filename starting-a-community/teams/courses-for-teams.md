@@ -8,7 +8,7 @@ Sometimes, teams want to limit the selection of courses that their facilitator c
 * It allows the team to prioritize topics that align with other strategic goals
 * It creates a shared space for facilitators to work together and share feedback on the same courses
 
-This functionality will expanded in the coming months so that it can be handled directly from the organizer dashboard. For now, we do this by adding a tag to courses that you want to feature ([see Chicago's list](https://www.p2pu.org/en/learning-resources/?languages=en\&order\&topics=cpl)). You can add tags to courses that you add; if you want us to add a tag to an existing course in our library just reach out.
+This functionality will expanded in the coming months so that it can be handled directly from the organizer dashboard. For now, we do this by adding a tag to courses that you want to feature ([see Chicago's list](https://www.p2pu.org/en/learning-resources/?languages=en\&order\&q=\&topics=CPL)). You can add tags to courses that you add; if you want us to add a tag to an existing course in our library just reach out.
 
 ### Proprietary Course Management
 

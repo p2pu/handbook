@@ -12,7 +12,7 @@ Our [topic guides](https://www.p2pu.org/en/learning-resources/) help facilitator
 
 ![P2PU's current list of guides to popular topics](<../.gitbook/assets/Topic Guides.png>)
 
-## P2PU's Course Library&#x20;
+## P2PU's Learning Resource Library&#x20;
 
 ![P2PU's community-curated library of open course materials](<../.gitbook/assets/Learning Resources.png>)
 

@@ -6,7 +6,7 @@ Learn more about how to [Start a Team](https://www.p2pu.org/en/teams/) on our we
 
 Teams are granted the following features and functionality, as detailed throughout this section:
 
-* Customizable learning circle team website (see [Current Teams](https://www.p2pu.org/en/about/#P2PU-Teams))
+* Customizable learning circle team website (see [Current Teams](https://www.p2pu.org/en/about/#teams))
 * Weekly internal email with team updates and reflections
 * Curated course lists and proprietary course management
 * Aggregated learning circle feedback and data

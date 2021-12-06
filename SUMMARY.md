@@ -9,7 +9,7 @@
 * [Meeting Structure](methodology/learning-circle-structure.md)
 * [Group Expectations](methodology/group-expectations.md)
 
-## Courses
+## Learning Resources <a href="#courses" id="courses"></a>
 
 * [Setting Intent](courses/set-your-intent.md)
 * [Choosing a Course](courses/choosing-courses.md)
