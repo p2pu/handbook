@@ -47,4 +47,6 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 
 * Surveys&#x20;
   * The P2PU portal will send emails to learners before the final meetings, asking them to complete a survey about their experience
-  * Ask learners to complete this survey during the final meeting during plus/delta
+    * Ask learners to complete this survey during the final meeting during plus/delta
+    * You can also find the learner survey link on your dashboard
+  * After the last meeting, facilitators can rate their learning circle, course and complete an additional survey. The responses to the learner surveys can be downloaded and a facilitator can view a summary of this called the “learning circle insights."
