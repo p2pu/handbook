@@ -6,7 +6,7 @@ The survey responses are used to generate a “learning circle insights” summa
 
 ### Survey Notifications
 
-Facilitators can check their [learning circle's management page](../tools-and-resources/tools-for-learning-circles/managing-learning-circles.md) to see which participants have completed the survey. P2PU only sends out one email to participants about filling out the closing survey (see [**Automated Messages**](../tools-and-resources/tools-for-learning-circles/automated-messaging.md)), so many facilitators like to send a small nudge to remind learners to give feedback:
+Facilitators can check their [learning circle's management page](../tools-and-resources/tools-for-learning-circles/managing-learning-circles.md) to see which participants have completed the survey. P2PU only sends out one email to participants about filling out the closing survey (see [**Messages**](https://docs.p2pu.org/tools-and-resources/tools-for-learning-circles/managing-learning-circles#messages)), so many facilitators like to send a small nudge to remind learners to give feedback:
 
 **Example email template:**
 

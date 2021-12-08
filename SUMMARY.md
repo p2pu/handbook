@@ -31,7 +31,6 @@
   * [Facilitator Dashboard](tools-and-resources/tools-for-learning-circles/untitled.md)
   * [Creating Learning Circles](tools-and-resources/tools-for-learning-circles/creating-learning-circles.md)
   * [Managing Learning Circles](tools-and-resources/tools-for-learning-circles/managing-learning-circles.md)
-  * [Automated Messages](tools-and-resources/tools-for-learning-circles/automated-messaging.md)
   * [Evaluation Surveys](tools-and-resources/tools-for-learning-circles/evaluation-surveys.md)
 * [Marketing Materials](tools-and-resources/marketing-materials.md)
 * [✂ Collage & Image Credits](tools-and-resources/collage-and-image-credits.md)

@@ -6,7 +6,7 @@ P2PU offers a free system for creating and managing learning circle meetings. On
 
 ## Video: How to Create a Learning Circle (18m)
 
-{% embed url="https://youtu.be/860ITkW8WmU" %}
+{% embed url="https://www.youtube.com/watch?v=860ITkW8WmU" %}
 
 Or [view on YouTube](https://youtu.be/860ITkW8WmU) for more viewing controls and to enable closed captions.
 
@@ -22,9 +22,9 @@ Creating a learning circle is a 5-step process:
 
 ### Publishing Your Learning Circle
 
-Once you complete the creation process and publish your learning circle (either as a draft or a public circle), your sign-up page will automatically generated and look something like this:
+![Signup page used by learners to join  your learning circle](<../../.gitbook/assets/learning circle signup page.png>)
 
-![](../../.gitbook/assets/learning-how-to-learn-.png)
+Once you complete the creation process and publish your learning circle (either as a draft or a public circle), your sign-up page will automatically generated and look something like this:
 
 You’ll receive a confirmation email which includes the link to your sign up page and a number of other resources. The P2PU Welcome Committee (a mix of P2PU staff and community members) will be copied on the email; if you asked for any help on Step 5, someone will reach out to ensure that your concerns are addressed before the learning circle begins.&#x20;
 
