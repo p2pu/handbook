@@ -1,8 +1,11 @@
-# Managing team members
+# Organizer Tools
 
-Adding a facilitator to your team will enable a variety functions:
+### Facilitator Functionality
 
-* Their P2PU profile image and any learning circle they create will show up on your team page
+Adding or inviting a facilitator to your team will enable a variety functions:
+
+* Their P2PU profile image will appear on your team page
+* Any learning circle they create will show up on your team page
 * Their learning circle signup pages will list an affiliation with your team and include a link back to your team page
 * They will see details about all learning circles happening on the team on their dashboard, and they'll have the option to opt into weekly team summary emails
 * They will be able to create learning circles using any proprietary courses that have been added to the P2PU courses page by their team members
@@ -27,11 +30,11 @@ Invitations that have been sent via Option 1 or Option 2 will be visible in the 
 
 ### Removing Team Members
 
-There isn't currently a way for organizers to remove a facilitator from a team or change a team members status between facilitator and organizer. If you'd like to make any of these changes contact  [support@p2pu.org](mailto:support%40p2pu.org).&#x20;
+Organizers can remove team members through the same management table. When a team member is removed, learning circles that they facilitated as part of your team will continue to show up as past learning circles for your team. If you'd like to remove these reach out to us.
 
 ### Facilitator Profiles
 
-All P2PU accountholders can update their profiles through [account settings](https://learningcircles.p2pu.org/en/accounts/settings/\)). In addition to appearing on learning circle sign up pages, their avatar will also appear on the team page carousel. Team members who have uploaded a photo will appear first, followed by others with a placeholder image (example below). Organizers should encourage facilitators to add an image so that they can be fully featured on their team site!
+All P2PU account holders can update their profiles through [account settings](https://learningcircles.p2pu.org/en/accounts/settings/\)). In addition to appearing on learning circle sign up pages, their avatar will also appear on the team page carousel. Team members who have uploaded a photo will appear first, followed by others with a placeholder image (example below). Organizers should encourage facilitators to add an image so that they can be fully featured on their team site!
 
 ![\_images/team-page-facilitator-profile.png](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/team-page-facilitator-profile.png)
 

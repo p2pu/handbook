@@ -40,9 +40,11 @@
 
 ## Starting a Community
 
-* [Teams](starting-a-community/teams/README.md)
-  * [Customizing team sites](starting-a-community/teams/team-sites.md)
-  * [Weekly summary](starting-a-community/teams/weekly-summary.md)
-  * [Courses for teams](starting-a-community/teams/courses-for-teams.md)
-  * [Aggregated data](starting-a-community/teams/aggregated-data.md)
-  * [Managing team members](starting-a-community/teams/team-members.md)
+* [P2PU Teams](starting-a-community/teams/README.md)
+  * [Custom Team Sites](starting-a-community/teams/team-sites.md)
+  * [Weekly Summary](starting-a-community/teams/weekly-summary.md)
+  * [Courses for Teams](starting-a-community/teams/courses-for-teams.md)
+  * [Aggregated Data](starting-a-community/teams/aggregated-data.md)
+  * [Organizer Tools](starting-a-community/teams/organizer-tools.md)
+  * [Facilitator Support](starting-a-community/teams/facilitator-support.md)
+  * [Member Events](starting-a-community/teams/member-events.md)
