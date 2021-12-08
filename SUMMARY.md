@@ -40,7 +40,7 @@
 
 ## P2PU Teams <a href="#teams" id="teams"></a>
 
-* [About Teams](teams/teams.md)
+* [About Teams](teams/about-teams.md)
 * [Custom Team Sites](teams/team-sites.md)
 * [Organizer Tools](teams/organizer-tools.md)
 * [Weekly Summary](teams/weekly-summary.md)
