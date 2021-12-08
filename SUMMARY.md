@@ -38,13 +38,13 @@
 * [Community Support](tools-and-resources/community-support.md)
 * [Credit-Bearing Learning Circles](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 
-## Starting a Community
+## P2PU Teams <a href="#teams" id="teams"></a>
 
-* [P2PU Teams](starting-a-community/teams/README.md)
-  * [Custom Team Sites](starting-a-community/teams/team-sites.md)
-  * [Weekly Summary](starting-a-community/teams/weekly-summary.md)
-  * [Courses for Teams](starting-a-community/teams/courses-for-teams.md)
-  * [Aggregated Data](starting-a-community/teams/aggregated-data.md)
-  * [Organizer Tools](starting-a-community/teams/organizer-tools.md)
-  * [Facilitator Support](starting-a-community/teams/facilitator-support.md)
-  * [Member Events](starting-a-community/teams/member-events.md)
+* [About Teams](teams/teams.md)
+* [Custom Team Sites](teams/team-sites.md)
+* [Organizer Tools](teams/organizer-tools.md)
+* [Weekly Summary](teams/weekly-summary.md)
+* [Courses for Teams](teams/courses-for-teams.md)
+* [Aggregated Data](teams/aggregated-data.md)
+* [Facilitator Support](teams/facilitator-support.md)
+* [Member Events](teams/member-events.md)
