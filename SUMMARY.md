@@ -15,7 +15,7 @@
 * [Choosing a Course](courses/choosing-courses.md)
 * [Searching for Courses](courses/searching-for-courses.md)
 * [Evaluating Courses](courses/evaluating-courses.md)
-* [Adapting a Course](courses/adapting-courses.md)
+* [Facilitator Guides](courses/facilitator-guides.md)
 * [Creating a Course](courses/creating-courses.md)
 
 ## Facilitation

@@ -1,8 +1,12 @@
-# Adapting a Course
+---
+description: Adapting courses to the learning circle format
+---
+
+# Facilitator Guides
 
 As many online courses are designed for individual study, you'll sometimes find that the right learning material for your learning circle doesn't fit neatly into a learning circle structure. When that happens, you can either improvise with your learners during meetings or, using the learning circle [typical structure](https://app.gitbook.com/@peer-2-peer-university/s/p2pu-knowledge-base/\~/drafts/-MYBqKw2d0\_DgWHithpq/methodology/learning-circle-structure) as your guide, you can plan ahead how best to present the course material to your learning circle.&#x20;
 
-Some adaptations that you may need or want to make:
+Here are some recommended adaptations that you can make to courses:
 
 * Adding [check-ins](https://handbook.p2pu.org/methodology/learning-circle-structure#check-in), icebreakers, and [reflections](https://handbook.p2pu.org/methodology/learning-circle-structure#check-in)
 * Changing the length of time to cover a section or module of content
@@ -26,6 +30,10 @@ Here are some examples from the community:‌
 * [21-Day Racial Equity and Social Justice Challenge](https://community.p2pu.org/t/21-day-racial-equity-social-justice-ywca-greater-cleveland/4770/2) by Ulonda and Hilary
 
 We enthusiastically recommend facilitators share their facilitation guides, no matter how detailed or simple, back with the community. These valuable starting points can be the difference between a program happening or not!&#x20;
+
+{% hint style="info" %}
+To share your own facilitator guide with our community, please email us at [thepeople@p2pu.org](mailto:thepeople@p2pu.org).
+{% endhint %}
 
 ### Facilitator Guide Template
 
