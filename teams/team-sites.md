@@ -1,4 +1,4 @@
-# Customizing team sites
+# Custom Team Sites
 
 Each team is set up with a unique learning circle landing page hosted on P2PU.org (_p2pu.org/your-team_) which includes an introduction to your learning circle program, a gallery of your facilitators, and a searchable list of your team's current and past learning circles. (See [Current Teams](https://www.p2pu.org/en/about/#teams) for site examples)
 
@@ -10,8 +10,8 @@ All active learning circles happening across your team will automatically appear
 
 ### Editing Your Team Site
 
-Organizers have the ability to edit most of the information on the team page directly from their dashboard by clicking "Edit Team Information" in the bottom right corner of the Team Management module. If you need to change the team name or URL you should email [support@p2pu.org](mailto:support%40p2pu.org).&#x20;
+To change information on the Team page, organizers can visit the dashboard and click the "Edit Team Information" in the bottom right corner of the Team Management module. If you need to change the team name or URL, please email [support@p2pu.org](mailto:support%40p2pu.org).&#x20;
 
-![Edit team information button](<../../.gitbook/assets/team-page-edit-1 (1).png>)
+!["Edit team information" button](<../.gitbook/assets/Team Management Edited.png>)
 
-![Example view of the "Edit Team Information" page](https://gblobscdn.gitbook.com/assets%2F-MF0HXBgqycuzS4ykXux%2F-MYocAaUazuJwtcocbt-%2F-MYogZHXVJfVxtdo87q2%2FScreen%20Shot%202021-04-21%20at%203.49.39%20PM.png?alt=media\&token=f28f8091-fa20-40f8-a91e-7fddd0512e33)
+![Example: Editing the Team Page](<../.gitbook/assets/Editing Team Page.png>)
