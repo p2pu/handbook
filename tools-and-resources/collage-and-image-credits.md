@@ -161,3 +161,12 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * **Community Calls:** Created by Danil Polshin from the Noun Project
 * **Hire Us:** Created by The Icon Z from the Noun Project
 
+## Dashboard
+
+**Icons:**
+
+* **Getting Started:** Created by David Khai from the Noun Project
+* **Using the Tools:** Folder by WARPAINT Media Inc. from NounProject.com; Settings by Three Six Five from NounProject.com
+* **Help:** Created by Adrien Coquet from the Noun Project
+* **Meet with Q:** Created by Becky Margraf
+* **Teams Documentation:** Documentation by shashank singh from NounProject.com
