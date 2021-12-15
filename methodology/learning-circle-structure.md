@@ -120,7 +120,7 @@ Peers can be a valuable resource for answering each other’s questions. To maxi
 
 At times, learners will have questions that no one in the group can answer. In these instances, you can encourage them to list three resources, individuals, or problem-solving strategies that can provide them with answers. Challenge participants to think of people they know outside their learning circle, websites, books, online tutorials, or even new ways of framing the issue. Before moving on, encourage learners to tap into some of these resources during their learning circle meeting.
 
-🗺️ **Mind Map (In-Person/Online)**
+🗺 **Mind Map (In-Person/Online)**
 
 Mind maps can be very appealing to visual learners. A mind map is a multi-colored, centered, and radial diagram that represents connections between different concepts. It allows people to synthesize ideas visually and use their creativity. Take a look at [this video](https://www.youtube.com/watch?v=u5Y4pIsXTV0\&t=290s) to learn how to build your mind map. You can use them to ask learners to synthesize lessons, sketch problem-solving steps, or even set learning goals. If you're running an online meeting, programs like [Google Slides](https://www.google.com/slides/about/) and [Jamboard](https://jamboard.google.com) enable people to share their drawings easily.
 
