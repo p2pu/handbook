@@ -1,14 +1,12 @@
-# ✂ Collage & Image Credits
+# Collage & Image Credits
 
 One of P2PU’s 4 core values is _open_: the belief that we create value not by gatekeeping but instead by working together, sharing resources, and lowering barriers to entry. P2PU is built on open source technology and everything we create is free to share, remix, and redistribute.
 
 In that spirit of open, we use collage in our visuals, often paired with [images from our community](https://www.flickr.com/groups/p2pu/pool/), to diversify the imagery and imagination of the look and feel of P2PU.
 
-For more details, check out our blog post. (_Coming soon!_)
-
 ## Make Your Own P2PU Collage
 
-We've designed free templates in Figma and Google Slides for you to use to create promotional materials for your learning circles. (_Links coming soon!_)&#x20;
+We've designed free templates and Google Slides to help you create promotional materials with collages for your learning circles. _Coming soon!_
 
 Below we’ve shared a few of our favorite sources for open-access imagery to inspire your works\*.&#x20;
 
