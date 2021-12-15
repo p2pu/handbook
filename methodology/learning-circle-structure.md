@@ -1,6 +1,6 @@
 # Meeting Structure
 
-No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. That being said, there are a few common practices that help reinforce a peer learning environment and prevent facilitators from slipping into the role of a teacher.
+No two learning circles are alike! Ultimately, it's up to the group to decide how they want to work through their learning materials. Below are a few common practices that help reinforce a peer learning environment and prevent facilitators from slipping into the role of a teacher.
 
 {% embed url="https://www.youtube.com/watch?v=H5vReon6uL4&ab_channel=P2PU" %}
 What does a learning circle look like?
@@ -112,6 +112,20 @@ Modeling good feedback and constructive criticism can help make learners more co
 * Ensure recommendations specific and actionable
 * When receiving feedback, try to listen with open ears, and remember that we all have each other’s best interests at heart.&#x20;
 
+🧠 **Brain Drain (In-Person/Online)**
+
+Peers can be a valuable resource for answering each other’s questions. To maximize the groups’ input, give learners a few minutes to write all possible ways to solve a given problem or address a question. Emphasize that people should write all ideas that come to their minds without censoring themselves, and ask learners to share their responses with others. Creative possibilities can emerge from these brainstorming sessions.
+
+❔ **Ask Three Before Moving On (In-Person/Online)**&#x20;
+
+At times, learners will have questions that no one in the group can answer. In these instances, you can encourage them to list three resources, individuals, or problem-solving strategies that can provide them with answers. Challenge participants to think of people they know outside their learning circle, websites, books, online tutorials, or even new ways of framing the issue. Before moving on, encourage learners to tap into some of these resources during their learning circle meeting.
+
+🗺️ **Mind Map:** Mind maps can be very appealing to visual learners. A mind map is a multi-colored, centered, and radial diagram that represents connections between different concepts. It allows people to synthesize ideas visually and use their creativity. Take a look at [this video](https://www.youtube.com/watch?v=u5Y4pIsXTV0\&t=290s) to learn how to build your mind map. You can use them to ask learners to synthesize lessons, sketch problem-solving steps, or even set learning goals. If you're running an online meeting, programs like [Google Slides](https://www.google.com/slides/about/) and [Jamboard](https://jamboard.google.com) enable people to share their drawings easily.
+
+🕐 **One-Minute Paper**
+
+Ask learners to write down their ideas for 60 seconds in this activity. You can use a prompt or simply ask people to write their reactions to readings, videos, or discussions. One-minute papers are particularly helpful for participants who are quieter and need time to think before jumping into discussions. This strategy also helps more outspoken individuals from dominating conversations.&#x20;
+
 #### 😿Talk About Failure (In-Person/Online)
 
 Create space for your learning circle to share some mistakes made or struggles felt during the learning circle. This should help learners feel less pressure about always “knowing” the right answer and allow them to feel more comfortable asking peers for help. For example, you might ask someone for a struggle they had with the course material, what lesson was learned from that experience, and how they can imagine using that lesson going forward.
@@ -175,7 +189,7 @@ A quick easy reflection activity is asking everybody one thing that went well th
 
 A quick way to end a meeting while still getting feedback from everyone is to ask participants to say, type, or write one word that represents how they are feeling or their plans for the week. For example, “How would you describe our time together in one-word?”
 
-#### ❓ Open Question (In-Person, Online, 1-3 min/participant)
+#### ❓ Open Question (In-Person**/**Online, 1-3 min/participant)
 
 In groups of 10 or less, you can ask a specific question as a wrap-up. Our general rule of thumb is to not ask anything that you’re not genuinely interested in hearing the answer to.&#x20;
 
@@ -184,6 +198,10 @@ Our favorite questions:
 * What’s something that surprised you this week?
 * What is one thing we can do differently next week to make our virtual meeting space more hospitable?
 * What are our immediate next steps?
+
+📓 **Journaling (In-Person/Online)**
+
+Journaling can help participants set actionable, small, achievable, and measurable tasks and goals. These goals, which need to set specific and clear outcomes, should be done over the duration of the learning circle program. After identifying the goal(s), ensure that each participant shares them with the group for accountability so that peers can offer support and motivate each other to stay on track. &#x20;
 
 #### 🙏 Give Thanks (In-Person, Online, 1-2 min/participant)
 

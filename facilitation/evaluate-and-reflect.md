@@ -43,7 +43,7 @@ Once the learning circle ends, the surveys are completed, and the facilitator ha
 * **Run another learning circle:** Every foray into facilitation informs the next. Consider running the learning circle again and experimenting with new techniques. Or try a new topic altogether!
 * **Improve the course:** Every course added to the P2PU library gets an [automatically-generated forum thread](https://community.p2pu.org/c/learning-circles/courses-and-topics/69) where facilitators can share their feedback and ideas on using the materials in learning circles. These discussions also appear on the course's page in the library and help inform future facilitators on how to best bring that material to their community. Experienced facilitators are encouraged to offer advice and thoughts in these threads!
 * **Write about the experience:** Many people are forging their own paths through this unfamiliar territory, and a very common request is for more case studies and insights from experienced facilitators. Every facilitator's stories are welcome and encouraged in our [community forum](https://community.p2pu.org/c/learning-circles/testimony) or on personal blogs/social media.&#x20;
-* **Join a community call or working group:** P2PU hosts monthly community calls and occasional working groups that bring facilitators together to discuss ideas and offer support. [**See all upcoming events.**](https://community.p2pu.org/c/community-events/)****
+* **Join a community call or working group:** P2PU hosts monthly community calls and occasional working groups that bring facilitators together to discuss ideas and offer support. [See all upcoming events.](https://www.p2pu.org/en/events/)
 
 
 

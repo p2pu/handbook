@@ -18,7 +18,7 @@ Sometimes when people are new to the learning circle experience, they need some 
 
 ### Delegating responsibilities
 
-Sometimes facilitators can feel like facilitation may become a burden, or time consuming if you already have lots of other work to do. But it is important to remember that the group as a whole is responsible for this “peer-learning experience” and as a facilitator you can empower your fellow learners to take charge of their own learning making the role of the facilitator smaller and smaller over time. As the learning circle progresses, you can start asking learners to take on some extra responsibility, such as:
+Sometimes facilitators can feel like facilitation may become a time consuming burden if you already have lots of other work to do. But it is important to remember that the group as a whole is responsible for this “peer-learning experience,” and as a facilitator you can empower your fellow learners to take charge of their own learning making the role of the facilitator smaller and smaller over time. As the learning circle progresses, you can start asking learners to take on some extra responsibility, such as:
 
 * Summarizing the week’s material at the beginning of each meeting
 * Setting up beforehand and cleaning up afterwards
@@ -38,17 +38,21 @@ You can also find support from working with a co-worker or two within your organ
 
 ### **Providing technical support**
 
-The supportive environment of learning circles can attract individuals with little digital skills who had never taken an online course before. In these cases, it is essential to provide technical support so these learners can keep up with the rest of the group. In a face-to-face setting, you can demonstrate how to navigate the online course. In a virtual meeting, tutorials can help them use video conferencing systems. You can also directly share the links to specific materials, such as lectures and course modules. Learners with low digital skills also have [lower exposure to lifelong learning opportunities](https://www.pewresearch.org/internet/2016/03/22/lifelong-learning-and-technology/), so your help can open a myriad of possibilities for them!&#x20;
+The supportive environment of learning circles can attract individuals with little digital skills who had never taken an online course before. In these cases, it is essential to provide technical support so these learners can keep up with the rest of the group. In a face-to-face setting, you can demonstrate how to navigate the online course. In a virtual meeting, tutorials can help them use video conferencing systems. You can also directly share the links to specific materials, such as lectures and course modules. Learners with low digital skills also have [lower exposure to lifelong learning opportunities](https://www.pewresearch.org/internet/2016/03/22/lifelong-learning-and-technology/), so your help can open myriad possibilities for them!&#x20;
 
 ## **Managing Conversations**
 
 ### **Creating group norms**
 
-A big component of peer-based learning is being able to share thoughts, ideas and experiences with the group. One common first step is to collectively create group norms to help your learning circle run effectively. All learners should contribute to the creation of the group norms that will provide guidance on how to have respectful conversation and engagement. (See Group Expectations) The creation of group norms can also help to create social Cohesion. It establishes that “we” as a group have control and input into how “we” operate as a group. Learners are more likely to participate in a process that they feel that they have ownership of.
+A big component of peer-based learning is being able to share thoughts, ideas and experiences with the group. One common first step is to collectively create group norms to help your learning circle run effectively. All learners should contribute to the creation of the group norms that will provide guidance on how to have respectful conversation and engagement. (See [Group Expectations](https://docs.p2pu.org/methodology/group-expectations).) The creation of group norms can also help to create social cohesion. It establishes that “we” as a group have control and input into how “we” operate as a group. Learners are more likely to participate in a process that they feel that they have ownership of.
+
+💫 **One, Some, Many Goals (In-Person/Online Activity)**
+
+Shared goals can strengthen engagement within groups and help participants to overcome conflicts when they arise. This activity has three steps that can be adapted according to the number of participants in your learning circle. First, each participant writes one to three personal goals. Then, they get into pairs and combine their ideas to define shared objectives. Finally, all pairs disclose their ideas and the group defines its collective desired outcomes through discussions. This activity can be used in tandem with the Group norms contract.
 
 ### **Mediating conflicts**
 
-Depending on the topic and how passionate your participants are about the subject materials conflicts can arise. It’s not possible to know what kind of conflicts will arise but you can handle those by using your group norms that your learning circle established on the first day. (See Group Expectations) Group norms are not just for the first day you can revisit them at the end or beginning of subsequent meetings to make sure that your group norms still fit your group’s needs. It's okay for the group to change them as necessary, to make sure that the learning circle is and continues to be a comfortable and fair exchange of ideas and information.
+Depending on the topic and how passionate your participants are about the subject materials conflicts can arise. It’s not possible to know what kind of conflicts will arise but you can handle those by using your group norms that your learning circle established on the first day and revisited in subsequent meetings. (See [Group Expectations](https://docs.p2pu.org/methodology/group-expectations) for recommended activities.)
 
 We also like these tactical tips from[ this article and TED Talk by Adar Cohen](https://ideas.ted.com/3-steps-to-having-difficult-but-necessary-conversations/):
 
@@ -66,13 +70,15 @@ If your group has lively discussion and finds that they would rather spend time 
 
 ## Encouraging Participation
 
-### Building trust
+Visit our section on [Meeting Structure](https://docs.p2pu.org/methodology/learning-circle-structure) for a list of activities designed to encourage active participation. The following values are intended to lay the foundation for equitable engagement:
 
-Learning circles participants can have varied previous experiences in educational settings that range from success to a crushing sense of failure. Some of them might be reticent to actively engage in conversations for fear of failing or being unfairly judged. For this reason, it is vital to build trust among group members and re-establish trust in their ability to learn. People tend to feel more comfortable with others when they understand their background. Thus, you can make space for self-disclosure through ice-breaking activities. These activities are critical in virtual settings where people have fewer opportunities to chat with their peers before and after meetings. You can set the tone by being open about your own life experiences to encourage participants to do the same. Only do so to the extent that you are comfortable! Also, take a look at the suggestions under "Cultivating lifelong learning." People can start to rebuild their confidence as learners when someone helps them to set realistic goals, focus on learning strategies, and use relevant learning resources.
+### Building trust&#x20;
+
+Learning circles participants can have varied previous experiences in educational settings that range from success to a crushing sense of failure. Some of them might be hesitant to actively engage in conversations for fear of failing or being unfairly judged. For this reason, it is vital to build trust among group members and re-establish trust in their ability to learn. People feel more comfortable with others when they understand their background, and you can make space for self-disclosure through ice-breaking activities. These activities are critical in virtual settings where people have fewer opportunities to chat with their peers before and after meetings. You can set the tone by being open about your own life experiences to encourage participants to do the same. Only do so to the extent that you are comfortable! Also, take a look at the suggestions under "Cultivating lifelong learning." People can start to rebuild their confidence as learners when someone helps them to set realistic goals, focus on learning strategies, and use relevant learning resources.
 
 ### Contributing your experiences
 
-What if you do know a lot about the topic at hand? Your experience and skills are as much a part of the learning community as everybody else’s, and you can and should certainly bring in your perspective. Just be mindful of your power in the group -- disclose, but don’t impose…. When disclosing personal knowledge about a subject be mindful not to rush in with the answer but to allow the group the opportunity to explore questions and ideas first. Also instead of always sharing information you know, think about sharing where you found or learned about that information as a resource for others.
+What if you do know a lot about the topic at hand? Your experience and skills are as much a part of the learning community as everybody else’s, and you can and should certainly bring in your perspective. Just be mindful of your power in the group: disclose, but don’t impose. When disclosing personal knowledge about a subject, be mindful not to rush in with the answer but to instead allow the group the opportunity to explore questions and ideas first. Also, instead of always sharing information you know, think about sharing where you found or learned about that information as a resource for others.
 
 ### Seeking answers
 
@@ -80,7 +86,7 @@ What if the group is stuck? If you are not a subject expert and your course cont
 
 ### Using diverse modes of communication
 
-When you think about discussion you probably think about people gathered together and speaking out loud to one another, and this is the normal expectation for in person and virtual meetings with video conferencing. However, sometimes you may need to promote other types of non-verbal communication to get a group to interact. Maybe you have some shy people in person or you may have some people who might have technical difficulties or limitations with their personal set up.&#x20;
+When you think about discussion, you probably think about people gathered together and speaking out loud to one another, and this is the normal expectation for in person and virtual meetings with video conferencing. However, sometimes you may need to promote other types of non-verbal communication to get a group to interact. Maybe you have some shy people in person or you may have some people who might have technical difficulties or limitations with their personal set up.&#x20;
 
 Here are a few alternatives to try:&#x20;
 
@@ -91,7 +97,7 @@ Here are a few alternatives to try:&#x20;
 
 ### Managing expectations with realistic goals
 
-When learning something new, optimism can quickly turn into discouragement. For instance, it’s unlikely that somebody with no programming background will get a fancy tech job after one HTML/CSS Learning Circle.To navigate this, express confidence that learners can achieve their goals, while also being realistic and aware of what is possible in six weeks. However, they will gain a better understanding of how to build a website, get a sense as to whether this is a subject they’d like to continue in, and have a peer group of like-minded individuals they’ve gotten to know.At the beginning of a learning circle, it is important to check-in and ask everyone what their goals are for the learning circle. It is very likely that your learners will have a wide array of goals. Once you have an understanding of each learner’s goals, you’ll be able to respond to this energy productively. You can have learners share their goals with the group if that is appropriate or have them write down their goals for their own personal reflection if the learning circle focuses on sensitive or more personal topics. And remember to check in periodically on the goals you set at the beginning of the circle as they may change throughout the process.
+When learning something new, optimism can quickly turn into discouragement. For instance, it’s unlikely that somebody with no programming background will get a fancy tech job after one HTML/CSS Learning Circle. To navigate this, express confidence that learners can achieve their goals, while also being realistic and aware of what is possible in six weeks. However, they will gain a better understanding of how to build a website, get a sense as to whether this is a subject they’d like to continue in, and have a peer group of like-minded individuals they’ve gotten to know. At the beginning of a learning circle, it is important to check-in and ask everyone what their goals are for the learning circle. It is very likely that your learners will have a wide array of goals. Once you have an understanding of each learner’s goals, you’ll be able to respond to this energy productively. You can have learners share their goals with the group if that is appropriate or have them write down their goals for their own personal reflection if the learning circle focuses on sensitive or more personal topics. And remember to check in periodically on the goals you set at the beginning of the circle as they may change throughout the process.
 
 ### Exchanging learning strategies
 
@@ -107,7 +113,7 @@ Here are some ideas on how to start these conversations:
 
 ### **Sharing learning resources**
 
-Being able to locate reliable pieces of information is crucial for lifelong learners, and you can expand people’s repertoire of relevant resources. Make a habit of sharing materials related to your learning circle, and ask for learners’ recommendations as well. They are probably already relying on content beyond the online course, such as podcasts, YouTube videos, TED talks, movies, books, newspaper articles, among others. You can create a shared document to keep track of all additional resources and encourage people to write down suggestions. The online course is not the only source of information in a learning circle, and people are more likely to attend meetings that provide them with a wealth of information.\
+Being able to locate reliable pieces of information is crucial for lifelong learners, and you can expand people’s repertoire of relevant resources. Make a habit of sharing materials related to your learning circle, and ask for learners’ recommendations as well. They are probably already relying on content beyond the online course, such as podcasts, YouTube videos, TED talks, movies, books, newspaper articles, among others. You can create a shared document to keep track of all additional resources and encourage people to write down suggestions. The online course is not the only source of information in a learning circle, and people are more likely to attend meetings that provide them with a wealth of information. We highly recommend creating a [facilitator guide](https://docs.p2pu.org/courses/facilitator-guides) to track and share resources recommended by members of your learning circle. \
 
 
 ##
