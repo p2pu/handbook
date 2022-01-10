@@ -142,8 +142,6 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * _Sequoyah_, c. 1830 by Henry Inman via Smithsonian National Portrait Gallery ([NPG.79.174](https://npg.si.edu/object/npg\_NPG.79.174))
 * _Annual report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution_ (p. 548) by Col. Garrick Mallery, 1 July 1880 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Mallery\_PISL\_handshapes\_m-y.png))
 
-![](<../.gitbook/assets/Communication (1).png>)
-
 **Communication**
 
 * _Courtesan Kasugano Writing a Letter_ by Suzuki Harunobu, c. 1765 via Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:%E9%9D%92%E6%A5%BC%E7%BE%8E%E4%BA%BA%E5%90%88-The\_Courtesan\_Kasugano\_Writing\_a\_Letter\_MET\_DP119531.jpg))
