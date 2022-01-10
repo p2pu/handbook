@@ -133,7 +133,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * _Old Time Card Rack_ by John F. Peto via The Phillips Collection ([source](https://commons.wikimedia.org/wiki/File:John\_Frederick\_Peto\_-\_Old\_Time\_Card\_Rack\_-\_Google\_Art\_Project.jpg))
 * _Time Card for Albert Einstein_ via U.S. Civil Service Commission. 1883-1/1/1979, National Archives and Records Administration ([source](https://commons.wikimedia.org/wiki/File:Time\_Card\_for\_Albert\_Einstein\_-\_NARA\_-\_597840\_\(page\_3\).jpg))
 
-Language Learning
+**Language Learning**
 
 * _Colophon in running script_ via Smithsonian National Museum of Asian Art ([source](http://n2t.net/ark:/65665/ye31ecd3c05-045a-4639-969e-59c8dd42f7a9))
 * _Alphabet,_ c. 1525/1555 by Heinrich Aldegrever via Smithsonian National Gallery of Art ([source](https://www.nga.gov/collection/art-object-page.3503.html))
