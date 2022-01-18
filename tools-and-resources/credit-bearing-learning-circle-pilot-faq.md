@@ -58,7 +58,7 @@ Each course has a required minimum number of meetings and a recommended cadence.
 
 ### **How many learning circles are currently offered for credit?**
 
-There are currently three learning circle courses approved for credit: introduction to cybersecurity (1 credit), introduction to public speaking (0.5 credit) and how to talk about race (0.5 credit). Each participant can only earn credit for each course once.
+There are currently three learning circle courses approved for credit: Introduction to Cybersecurity (1 credit), Introduction to Public Speaking (0.5 credit) and How to Talk about Race (0.5 credit). Each participant can only earn credit for each course once.
 
 ### **Will there be more courses?**
 
