@@ -30,7 +30,7 @@ P2PU does not officially issue any kind of accreditation or formal education cer
 
 A number of facilitators like to give certificates at the end of a learning circle to help connote a sense of achievement and stronger connection between the library/learning center and learner. If you want to recognize and celebrate learners’ achievements, you can use or customize our [certificate template](https://docs.google.com/presentation/d/1dYfKZDTG5KBSzBsq6gxXxkjIDLbQD06athk3IN\_I2AU/edit?usp=sharing).
 
-![A blank P2PU Certificate of Achievement template (click to edit)](https://lh3.googleusercontent.com/vkX\_MU8OOb6iE8noJ38J1yiky3YDBVx7f-7yf9P4wX-GbxdzDXttPBmwIrHKINMhoxWkFQSqgVHSYqiZthAPh6q7zs9mQhsUzD-xLrEQ1a6Sn3vt1aXGnsPAkItUNBwGAw4TrqgD)
+![A blank P2PU Certificate of Achievement template (click to edit)](../.gitbook/assets/certificate.png)
 
 {% hint style="info" %}
 **More on the blog:** [How we evaluate our work](https://medium.com/@grifpeterson/how-we-evaluate-our-work-8e335eb24eed)

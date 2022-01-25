@@ -13,9 +13,17 @@ With contributions from:
 * Martha Yesowitch, Charlotte Mecklenburg Library
 * Qumisha Goss, Detroit Public Library
 
-## Template messages to promote learning circles
+## DIY Flyers
 
-In addition to [**flyers**](https://community.p2pu.org/t/learning-circle-flyer-template/2744/1) and online promotion, you may want to reach out directly to your partners, neighbors, and constituents through email or social media. Below are some template messages you can use or modify to advertise your learning circle:
+Learning circles come in lots of shapes and sizes, many of which are hard to capture on camera! In order to represent these groups and their diverse subject matter, P2PU uses collage to combine photos from our community with free open-access images.&#x20;
+
+If you want to make your own collages to promote your learning circles, you’ve come to the right place! [This document](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit#slide=id.p) contains tips for using Google Slides to play with images, advice for making collages, and resources to get started. To see more examples of P2PU collage, check out the [Collage & Image Credits](https://docs.p2pu.org/tools-and-resources/collage-and-image-credits).
+
+![P2PU's DIY collage template](<../.gitbook/assets/Open Access Collage Kit (1).png>)
+
+## Message Templates
+
+In addition to flyers and online promotion, you may want to reach out directly to your partners, neighbors, and constituents through email or social media. Below are some template messages you can use or modify to advertise your learning circle:
 
 ### **Internal email template**
 
