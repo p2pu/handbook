@@ -19,7 +19,7 @@ Learning circles come in lots of shapes and sizes, many of which are hard to cap
 
 If you want to make your own collages to promote your learning circles, you’ve come to the right place! [This document](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit#slide=id.p) contains tips for using Google Slides to play with images, advice for making collages, and resources to get started. To see more examples of P2PU collage, check out the [Collage & Image Credits](https://docs.p2pu.org/tools-and-resources/collage-and-image-credits).
 
-![P2PU's DIY collage template](<../.gitbook/assets/Open Access Collage Kit (1).png>)
+![P2PU's DIY collage template (click to edit)](<../.gitbook/assets/Open Access Collage Kit (1).png>)
 
 ## Message Templates
 
