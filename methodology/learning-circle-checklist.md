@@ -24,7 +24,7 @@ Below is a recommended checklist that outlines the steps needed to get your lear
 ## 2 weeks prior
 
 * Begin making a [facilitator's guide](https://docs.p2pu.org/courses/facilitator-guides) by exploring the learning materials and creating an outline for how you want to proceed through the materials&#x20;
-  * We recommend using the last session of the learning circle to review the facilitator guide with learners. This wrap-up activity is an opportunity for collective reflection, and this guide can be shared with our community to help future facilitators.
+  * We recommend using the last session of the learning circle to review the facilitator guide with learners. This wrap-up activity is an opportunity for collective reflection. You can share your guide by emailing it to us at thepeople@p2pu.org - we'll add it to our website to help future facilitators.
 * Visit your learning circle's management page to check in on your current number of of registrations and close sign-ups if needed (see [**Managing Learning Circles**](../tools-and-resources/tools-for-learning-circles/managing-learning-circles.md))
 
 ## 1 week prior
