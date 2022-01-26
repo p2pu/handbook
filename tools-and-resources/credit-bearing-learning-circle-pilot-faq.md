@@ -8,16 +8,21 @@ description: >-
 
 With support from Walmart, P2PU, College Unbound, and Providence Public Library have developed a pathway from library-based learning circles to college credit. [Read the press release](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/).&#x20;
 
-For now, this project is only open to Rhode Island-based library staff who have already facilitated a learning circle and participated in an additional credit-bearing learning circle training. The following courses are eligible fore credit:&#x20;
+For now, this project is only open to Rhode Island-based libraries and organizations who have  participated in an additional credit-bearing learning circle training. The following courses are eligible for credit:&#x20;
 
 |                                                **Public Speaking**                                                |                                          **How to Talk About Race**                                          |                                                     **Cyber Security**                                                    |
 | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
 |   [**Learning Journal**](https://docs.google.com/document/d/1UGBtpmgN1eN9t\_VSDjsL6fwIOVuC3spVtIE5C-oBYfI/edit#)  | [**Learning Journal**](https://docs.google.com/document/d/1bab9ZBgPzXZ6oG-797ha9SRpE-tP9H1qgrqrh3NDL88/edit) |       [**Learning Journal**](https://docs.google.com/document/d/17WK9r2OZkePF6V0vCKbYd7cuHX6vyJLAWflPbi\_ic7Y/edit#)      |
 | [**Facilitator Guide**](https://docs.google.com/document/u/1/d/1Ee9qFinK6khLnabnZF7riY6sS39FHjn67bSP4PmVtHw/edit) |  [**Facilitator Guide**](https://docs.google.com/document/d/1tiv1Y4ScGm4mVnJh4tUjCSzvCr44jaaI9\_fn5y36Hvk/)  | [**Facilitator Guide**](https://docs.google.com/document/d/1V0ouIfg7XvGZ2arI5WCRi24QUcLzcpofV7d8rclYWlY/edit?usp=sharing) |
 
+|                                                         Art of Storytelling                                                        |                                                    Design Thinking for Innovation                                                   |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|    [**Learning Journal**](https://docs.google.com/document/d/1oE9Bf047T1PMfXGGpDylEj44G7vkByj8YhgkQULK-z8/edit?usp=sharing)****    |    [**Learning Journal**](https://docs.google.com/document/d/1LioHgfOC8IuNg\_7JgyOPzHPvw2-I9xYAahXb7yV2-W4/edit?usp=sharing)****    |
+| ****[**Facilitator Guide**](https://docs.google.com/document/d/10SOAK7Ix6OgjT8fcIlWInew\_phDn-RlGEUaKfZvqF9o/edit?usp=sharing)**** | ****[**Facilitator Guide**](https://docs.google.com/document/d/16M7IlB83-isEZLq\_Gu1BXwgCMSWylT9Y7PFirgO\_1H8/edit?usp=sharing)**** |
+
 ### **What makes a learning circle “credit worthy”?**
 
-It’s a combination of three things: a facilitator who has been onboarded, a library that has agreed to participate, and a course that has been vetted by College Unbound.
+It’s a combination of three things: a facilitator who has been onboarded, a library or partner that has agreed to participate, and a course that has been vetted by College Unbound.
 
 ### **How are credit-bearing circles different from “normal” learning circles?**
 
