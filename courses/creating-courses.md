@@ -92,7 +92,7 @@ Regardless how you publish your course, make sure to add it to the [P2PU course 
 
 ### Browser-based word processor
 
-If Course-in-a-Box seems like a heavy lift, it may be sufficient to publish your course using a browser-based word processing tool like Google Docs, Dropbox Paper, or P2PU’s hosted version of [Etherpad](https://etherpad.p2pu.org). This is how P2PU publishes our Facilitator Guides, and there are more resources about that in the [Adapting Courses](https://app.gitbook.com/@peer-2-peer-university/s/p2pu-knowledge-base/\~/drafts/-MYBhjzuJihzALUsjUK5/courses/finding-courses/adapting-courses) section.
+If Course-in-a-Box seems like a heavy lift, it may be sufficient to publish your course using a browser-based word processing tool like Google Docs, Dropbox Paper, or P2PU’s hosted version of [Etherpad](https://etherpad.p2pu.org). This is how P2PU publishes our Facilitator Guides, and there are more resources about that in the [Facilitator Guides](https://docs.p2pu.org/courses/facilitator-guides) section.
 
 ### Ready-to-use website builder
 
