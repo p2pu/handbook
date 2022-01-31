@@ -15,9 +15,9 @@ With contributions from:
 
 ## DIY Flyers
 
-Learning circles come in lots of shapes and sizes, many of which are hard to capture on camera! In order to represent these groups and their diverse subject matter, P2PU uses collage to combine photos from our community with free open-access images.&#x20;
+Learning circles come in lots of shapes and sizes, many of which are hard to capture on camera! In order to represent these groups and their diverse subject matter, P2PU uses collage to combine photos from our community with free open-access images. [We have flyer template available for you here](https://docs.google.com/presentation/d/1G5BFz\_LmQFusjp4y6TZ87tknyuNMjW1EdlM641lLWms/edit#slide=id.p), which includes a few flyer samples.
 
-If you want to make your own collages to promote your learning circles, you’ve come to the right place! [This document](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit#slide=id.p) contains tips for using Google Slides to play with images, advice for making collages, and resources to get started. To see more examples of P2PU collage, check out the [Collage & Image Credits](https://docs.p2pu.org/tools-and-resources/collage-and-image-credits).
+If you want to make your own collages to promote your learning circles, [this document](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit#slide=id.p) contains tips for using Google Slides to play with images, advice for making collages, and resources to get started. To see more examples of P2PU collage, check out the [Collage & Image Credits](https://docs.p2pu.org/tools-and-resources/collage-and-image-credits).
 
 ![P2PU's DIY collage template (click to edit)](<../.gitbook/assets/Open Access Collage Kit (1).png>)
 
