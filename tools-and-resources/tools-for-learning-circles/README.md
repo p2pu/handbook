@@ -4,9 +4,9 @@ When learning circles first began in Chicago in 2015, we didn’t have any tools
 
 Our tools address the needs of three different groups:
 
-1. Learners. People participating in learning circles.
-2. Facilitators. People facilitating learnig circles.
-3. Organizers. People organizing several learning circles across a town, city, or country. (Often the organizer is also a facilitator).
+1. Learners: People participating in learning circles.
+2. Facilitators: People facilitating learning circles.
+3. Organizers: People organizing several learning circles across a town, city, or country as part of a [Team](https://docs.p2pu.org/teams/about-teams). (Often, the organizer is also a facilitator).
 
 #### Learners can:
 
