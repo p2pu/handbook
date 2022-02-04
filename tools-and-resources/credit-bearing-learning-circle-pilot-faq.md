@@ -8,7 +8,7 @@ description: >-
 
 With support from Walmart, P2PU, College Unbound, and Providence Public Library have developed a pathway from library-based learning circles to college credit. [Read the press release](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/).&#x20;
 
-For now, this project is only open to Rhode Island-based libraries and organizations who have  participated in an additional credit-bearing learning circle training. The following courses are eligible for credit:&#x20;
+For now, this project is only open to individuals and organizations who have participated in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/)). The following courses are eligible for credit:&#x20;
 
 | Public Speaking                                                                                                   | How to Talk about Race                                                                                       | Cyber Security                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
