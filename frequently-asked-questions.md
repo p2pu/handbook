@@ -38,23 +38,25 @@ These additional FAQs only apply to learning circle participants who are pursuin
 
 ### **What do I need to do to earn credit?**&#x20;
 
-To be eligible to earn academic credit for this learning circle, you must complete all of the course material and this accompanying learning journal. You must also complete an independent reading assignment and give a short presentation to your peers during the final meeting of the learning circle. Details of all of these assignments must be submitted to College Unbound within three weeks of the end of the learning circle.
+To be eligible to earn academic credit for a learning circle, you must complete all of the course material, fill out an accompanying learning journal, and complete one additional project, the details of which vary by course. Everything must be submitted to College Unbound within three weeks of the end of the learning circle.
 
 ### **What does earning credit mean in this case?**&#x20;
 
-This learning circle earns 0.5 credit hours toward an undergraduate degree at [College Unbound](https://www.collegeunbound.org) (120 credit hours total). You can also use the transcript that you will receive to demonstrate your learning to employers. Other higher education institutions usually will not accept transfer credit for informal learning like this. If you have questions about pursuing a degree at College Unbound, you can contact [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org).
+There are currently six learning circle courses approved for credit: Introduction to Cybersecurity (1 credit), Introduction to Public Speaking (0.5 credit), How to Talk about Race (0.5 credit), Design Thinking for Innovation (0.5 credit), Leveraging Learning From Life (1 credit), and The Art of Storytelling (1-3 credits). You can take each course once. We are working on adding more courses!&#x20;
+
+Credit is offered toward an undergraduate degree at [College Unbound](https://www.collegeunbound.org) (120 credit hours total). You can also use the transcript that you will receive to demonstrate your learning to employers. Other higher education institutions usually will not accept transfer credit for informal learning like this. If you have questions about pursuing a degree at College Unbound, you can contact [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org).
 
 ### Do I need to apply for credit in order to participate?
 
-No. The learning circle is open to everybody and pursuing credit is completely optional. Do I need to attend each meeting? You need to complete the course and the reflections. If you miss one or two but catch up that’s ok.
+No. The learning circle is open to everybody and pursuing credit is completely optional.&#x20;
+
+### Do I need to attend each meeting?&#x20;
+
+You need to complete the course and the reflections. If you miss one or two but catch up that’s ok.
 
 ### Is there a cost?&#x20;
 
 No, the learning circle and the application for credit are free.&#x20;
-
-### How much of a degree can I do like this?&#x20;
-
-There are currently six learning circle courses approved for credit: Introduction to Cybersecurity (1 credit), Introduction to Public Speaking (0.5 credit), How to Talk about Race (0.5 credit), Design Thinking for Innovation (0.5 credit), Leveraging Learning From Life (1 credit), and The Art of Storytelling (1-3 credits). You can take each course once. We are working on adding more courses!&#x20;
 
 ### How do I submit my learning journal?
 
