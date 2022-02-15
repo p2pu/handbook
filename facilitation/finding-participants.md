@@ -17,7 +17,7 @@ With contributions from:
 
 Learning circles come in lots of shapes and sizes, many of which are hard to capture on camera! In order to represent these groups and their diverse subject matter, P2PU uses collage to combine photos from our community with free open-access images.
 
-If you want to make your own collages and flyers to promote your learning circles, our [**Open Collage Kit**](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit?usp=sharing) contains tips for creating collages in Google Slides and flyer templates to help you get started.&#x20;
+If you want to make your own collages and flyers to promote your learning circles, our [**DIY Collage + Flyer Kit**](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit?usp=sharing) contains tips for creating collages in Google Slides and flyer templates to help you get started.&#x20;
 
 To see more examples of P2PU collage, check out our [Collage & Image Credits](https://docs.p2pu.org/tools-and-resources/collage-and-image-credits).
 
