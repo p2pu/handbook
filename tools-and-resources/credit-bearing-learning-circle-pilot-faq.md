@@ -67,11 +67,11 @@ Each course has a required minimum number of meetings and a recommended cadence.
 
 ### **How many learning circles are currently offered for credit?**
 
-There are currently six learning circle courses approved for credit: Introduction to Cybersecurity (1 credit), Introduction to Public Speaking (0.5 credit), How to Talk about Race (0.5 credit) The Art of Storytelling(1-3 credits), Design Thinking for Innovation(0.5 credit) and Leveraging Learning from Life (Credit). Each participant can only earn credit for each course once.
+There are currently six learning circle courses approved for credit: Introduction to Cybersecurity (1 credit), Introduction to Public Speaking (0.5 credit), How to Talk about Race (0.5 credit) The Art of Storytelling(1-3 credits), Design Thinking for Innovation(0.5 credit) and Leveraging Learning from Life (1 Credit). Each participant can only earn credit for each course once.
 
 ### **Will there be more courses?**
 
-Yes! We’re working on it now. If there’s a particular subject or course that you’d like to see please let us know: [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org) &#x20;
+Yes! We’re working on it now. If there’s a particular subject or course that you’d like to see please let us know at [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org) &#x20;
 
 ### **Does running a credit-bearing LC make me faculty at College Unbound?**
 
