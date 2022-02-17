@@ -42,7 +42,7 @@ No diploma or high school equivalency is necessary to obtain credit. However, if
 
 ### **How do learners apply for credit?**
 
-Participants must submit their learner journals via email within 3 weeks of completing their learning circle. Instructions for submission are included in each journal. For participants who need to submit via mail, please contact lips@cu for more information.
+Participants must submit their learner journals via email within 3 weeks of completing their learning circle. Instructions for submission are included in each journal. For participants who need to submit via mail, please contact [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org) **** for more information.
 
 ### **Is there a cost for learners in applying for credit?**&#x20;
 
