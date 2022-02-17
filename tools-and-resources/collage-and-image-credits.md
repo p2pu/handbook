@@ -6,7 +6,7 @@ In that spirit of open, we use collage in our visuals, often paired with [images
 
 ## Make Your Own P2PU Collage
 
-We've designed free templates and Google Slides to help you create promotional materials with collages for your learning circles. _Coming soon!_
+We've designed free [DIY flyer templates](https://docs.p2pu.org/facilitation/finding-participants#diy-flyers) in Google Slides to help you create promotional materials with collages for your learning circles. Check out our [DIY Collage + Flyer Kit](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit?usp=sharing)!
 
 Below we’ve shared a few of our favorite sources for open-access imagery to inspire your works\*.&#x20;
 
