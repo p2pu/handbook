@@ -71,7 +71,7 @@ There are currently six learning circle courses approved for credit: Introductio
 
 ### **Will there be more courses?**
 
-Yes! We’re working on it now. If there’s a particular subject or course that you’d like to see please let us know at [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org) &#x20;
+Yes! We’re working on it now. If there’s a particular subject or course that you’d like to see please let us know at [collegeunbound@p2pu.org](mailto:collegeunbound@p2pu.org).
 
 ### **Does running a credit-bearing LC make me faculty at College Unbound?**
 
