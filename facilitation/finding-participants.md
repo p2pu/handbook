@@ -4,7 +4,7 @@
 
 Our [**Learning Circle Promo Kit**](https://docs.google.com/presentation/d/1\_-Xl0TcniaRjYuK7E8JFMekrMDM3\_TLfBHAj6x61AMY/edit?usp=sharing) **** contains flyer templates, icons, patterns, and tips for collaging images in Google Slides.
 
-![P2PU's Learning Circle Promo Kit (view in Google Slides)](<../.gitbook/assets/p2pu learning circle promo kit.png>) ![Example of a flyer template](<../.gitbook/assets/Screen Shot 2022-01-31 at 2.54.17 PM.png>)
+![P2PU's Learning Circle Promo Kit](<../.gitbook/assets/p2pu learning circle promo kit.png>) ![Example of a flyer template](<../.gitbook/assets/Screen Shot 2022-01-31 at 2.54.17 PM.png>)
 
 ## Message Templates
 
