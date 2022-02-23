@@ -1,18 +1,5 @@
 # Finding Participants
 
-## How to Promote a Learning Circle
-
-{% embed url="https://youtu.be/QEi5_MJpLMc" %}
-
-Learning circle facilitators share some ideas and best practices for promoting learning circles in their communities.
-
-With contributions from:
-
-* Wendy Pearson, Kansas City Public Library
-* Kalela Williams, Free Library of Philadelphia
-* Martha Yesowitch, Charlotte Mecklenburg Library
-* Qumisha Goss, Detroit Public Library
-
 ## DIY Flyers
 
 Learning circles come in lots of shapes and sizes, many of which are hard to capture on camera! In order to represent these groups and their diverse subject matter, P2PU uses collage to combine photos from our community with free open-access images.
@@ -64,3 +51,18 @@ If your community uses Twitter for sharing information, then you can use the two
 > Learn **\[topic]** with others at **\[venue]**! #learningcircle start **\[start date]**. Learn more and sign up: **\[sign-up page link]**
 
 > In #**\[city]**? Want to learn new things with your peers? Join #learningcircles at **\[venue]**. Sign up: **\[link to website or sign-up page]**
+
+****
+
+## How to Promote a Learning Circle
+
+{% embed url="https://youtu.be/QEi5_MJpLMc" %}
+
+Learning circle facilitators share some ideas and best practices for promoting learning circles in their communities.
+
+With contributions from:
+
+* Wendy Pearson, Kansas City Public Library
+* Kalela Williams, Free Library of Philadelphia
+* Martha Yesowitch, Charlotte Mecklenburg Library
+* Qumisha Goss, Detroit Public Library
