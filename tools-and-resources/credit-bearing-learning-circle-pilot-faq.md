@@ -84,3 +84,9 @@ No, they are being awarded credit as non-degree-seeking community members. If pa
 ### **Is there a cost for seeking a degree?**
 
 Learners who wish to obtain a degree from College Unbound will be responsible for paying tuition for their classes at college unbound post-enrollment.
+
+### How can I promote a credit-bearing learning circle?
+
+Our colleagues at College Unbound have created this [Social Media Toolkit](https://docs.google.com/document/d/17CpqeGAvrvTIAy5Igz47-1nNPJAv71wS/edit?usp=sharing\&ouid=107799083520086158918\&rtpof=true\&sd=true) to help you promote your credit-bearing learning circle on Facebook, Instagram, LinkedIn, and Twitter.&#x20;
+
+You can also find a general guide to promoting learning circles in the [Finding Participants](https://docs.p2pu.org/facilitation/finding-participants) section of the Knowledge Base.
