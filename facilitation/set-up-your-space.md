@@ -61,8 +61,6 @@ Because many facilitators are locked into institutional requirements and it’d 
 
 ### ****[**Jitsi**](https://meet.jit.si) **(Video Conferencing w/ Screenshare, Dial-In, Text)**
 
-![Preview of a group Jitsi call during an individual reading activity: most participants have video turned off and one participant is screen-sharing a countdown timer](https://lh5.googleusercontent.com/CP8yTAy6Q4e-j3eJdL\_XXYQvCCRie2iQ9EwMiS64j898aBL7mi8Y9W7iadTCrLoBqtLn9Az\_\_j5Jy8YeophAhERa-nM1U2RAOPdD870vcSmTnzcJ335-mCgz1ggoExAEsr3Fki\_E)
-
 Jitsi is a free, open-source video tool that takes safety seriously and doesn’t require an account registration or software download on computers. No frills or friction: participants can click a link and immediately join. It works in most web browsers and on iOS/Android smartphones with a free app.&#x20;
 
 * Max Participants: Jitsi recommends no more than 35 people on video at one time. In our tests, quality starts to go down with more than 12–15 users.&#x20;
@@ -78,8 +76,6 @@ Jitsi is a free, open-source video tool that takes safety seriously and doesn’
 * [Jitsi FAQ](https://jitsi.org/user-faq/)
 
 ### [Etherpad](https://etherpad.org) (Collaborative Text Editor)
-
-![Animated GIF showing how to navigate Etherpad’s tools](https://lh3.googleusercontent.com/u7c0p3yLCk2K9gSDlUWGJr2dUdr7tx-Qfeo2XaZtC2IeDGTjuzKVvG9PR8fUkPTJP3hWcD\_px0iVZDkQSfjXzeUwniBosqZ0PBVkKAukVVO-bFTbLEFny5fiecEtGz6zNTHM63u\_)
 
 Etherpad is a highly customizable open source text editor that allows for collaborative writing in real-time. Each editor sets their own color so you can follow individual contributions. (This can also be turned off.) We’ve had success using this for sharing meeting agendas, collaborative writing exercises, and silent reflections (like check-in questions or [plus/deltas](https://docs.google.com/document/d/1l5Y96YTPbXay1iDgKiFoD-uA2AixvJNt3a380L0yOWc/edit#heading=h.ikjjxp4uht5f) at the end of a meeting).
 
