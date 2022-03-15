@@ -14,11 +14,21 @@ What follows are some of the most common questions and worries we hear from faci
 
 ### Becoming a co-learner
 
-Sometimes when people are new to the learning circle experience, they need some time to adjust to learning without a teacher. Learners will ask you many content related questions, since you are the closest thing to the traditional teacher in the room. When this happens, your response should demonstrate that their peers are a valuable resource, and that most questions are answerable by the group. In a learning circle we are all teachers and learners. As the facilitator you are not responsible for giving all the answers. On the contrary! You too are a learner whose role is to keep conversations flowing within the group and enable lifelong learning opportunities. Encourage all participants to share information by redirecting questions addressed to you as a teacher back to the group, you can use the prompt Does anyone else know, or have any thoughts about…. If you and the group get in the habit of asking questions to the whole group, it can go a long way to relieve the facilitator of the pressures of functioning as a teacher.
+Sometimes when people are new to the learning circle experience, they need some time to adjust to learning without a teacher. Learners will ask you many content-related questions, since you are the closest thing to the traditional teacher in the room. When this happens, your response should demonstrate that their peers are a valuable resource, and that most questions can be answered by the group.&#x20;
+
+In a learning circle, we are all teachers and learners. As the facilitator, you are not responsible for giving all the answers. On the contrary! You, too, are a learner, and your role is to keep conversations flowing within the group and enable lifelong learning opportunities.&#x20;
+
+As a group of peers, you can all contribute to the process of finding articles, books, and other resources that answer your questions as they arise.&#x20;
+
+* Create a [facilitator guide](https://docs.p2pu.org/courses/facilitator-guides) and use it to keep track of the group’s questions each week.&#x20;
+* At the end of each session, ask learners to independently find resources that address these questions.&#x20;
+* Check in at the beginning of each session to add the resources that you all found to the facilitator guide.
+
+Encourage all participants to share information by redirecting questions addressed to you as a teacher back to the group, you can use the prompt: "Does anyone else know, or have any thoughts about…." If you and the group get in the habit of asking questions to the whole group, it can go a long way to relieve the facilitator of the pressures of functioning as a teacher.
 
 ### Delegating responsibilities
 
-Sometimes facilitators can feel like facilitation may become a time consuming burden if you already have lots of other work to do. But it is important to remember that the group as a whole is responsible for this “peer-learning experience,” and as a facilitator you can empower your fellow learners to take charge of their own learning making the role of the facilitator smaller and smaller over time. As the learning circle progresses, you can start asking learners to take on some extra responsibility, such as:
+Facilitation can feel like an intimidating and time-consuming burden if you already have a lot of other work to do. It's important to remember that the group as a whole is responsible for this “peer-learning experience,” and as a facilitator, you can empower your fellow learners to take charge of their own learning making the role of the facilitator easier over time. As the learning circle progresses, you can start asking learners to take on some extra responsibility, such as:
 
 * Summarizing the week’s material at the beginning of each meeting
 * Setting up beforehand and cleaning up afterwards
@@ -28,7 +38,7 @@ Sometimes facilitators can feel like facilitation may become a time consuming bu
 
 ### Working with a co-facilitator
 
-You can also find support from working with a co-worker or two within your organization to help you manage your learning circle. Co-facilitation with a team might be for you if you would like to have built in support from the beginning without waiting for other learners to volunteer to assist. If you co-facilitate with other people you each can take on a part of the facilitation responsibilities. To make sure that co-facilitation works smoothly make sure to coordinate weekly check-in meetings with your co-facilitators to make sure everyone is on the same page about their part of the facilitation responsibilities which can include:
+You can also find support from working with a colleague or two within your organization to help you facilitate your learning circle. Co-facilitation provides you with built-in support. To make sure that co-facilitation works smoothly, make sure to coordinate weekly check-ins with your co-facilitators to make sure everyone is on the same page about their part of the facilitation responsibilities which can include:
 
 * Managing the P2PU dashboard, and sending group messages
 * Leading the discussion
@@ -38,7 +48,7 @@ You can also find support from working with a co-worker or two within your organ
 
 ### **Providing technical support**
 
-The supportive environment of learning circles can attract individuals with little digital skills who had never taken an online course before. In these cases, it is essential to provide technical support so these learners can keep up with the rest of the group. In a face-to-face setting, you can demonstrate how to navigate the online course. In a virtual meeting, tutorials can help them use video conferencing systems. You can also directly share the links to specific materials, such as lectures and course modules. Learners with low digital skills also have [lower exposure to lifelong learning opportunities](https://www.pewresearch.org/internet/2016/03/22/lifelong-learning-and-technology/), so your help can open myriad possibilities for them!&#x20;
+The supportive environment of learning circles can attract individuals with limited digital skills, and it might be their first time taking an online course. In these cases, it is essential to provide technical support so these learners can keep up with the rest of the group. In a face-to-face setting, you can demonstrate how to navigate the online course. In a virtual meeting, suggest tutorials to help them use video conferencing systems. You can also directly share the links to specific materials, such as lectures and course modules. Learners with limited digital skills also have [lower exposure to lifelong learning opportunities](https://www.pewresearch.org/internet/2016/03/22/lifelong-learning-and-technology/), so your help can open myriad possibilities for them!&#x20;
 
 ## **Managing Conversations**
 
