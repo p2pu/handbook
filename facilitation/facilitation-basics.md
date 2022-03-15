@@ -14,17 +14,15 @@ What follows are some of the most common questions and worries we hear from faci
 
 ### Becoming a co-learner
 
-Sometimes when people are new to the learning circle experience, they need some time to adjust to learning without a teacher. Learners will ask you many content-related questions, since you are the closest thing to the traditional teacher in the room. When this happens, your response should demonstrate that their peers are a valuable resource, and that most questions can be answered by the group.&#x20;
+In a learning circle, we are all teachers and learners. Your role as a facilitator and co-learner is to keep conversation flowing and to enable lifelong learning opportunities.&#x20;
 
-In a learning circle, we are all teachers and learners. As the facilitator, you are not responsible for giving all the answers. On the contrary! You, too, are a learner, and your role is to keep conversations flowing within the group and enable lifelong learning opportunities.&#x20;
-
-As a group of peers, you can all contribute to the process of finding articles, books, and other resources that answer your questions as they arise.&#x20;
+Learners will likely have questions without an immediately clear answer. As a group of peers, you can all contribute to the process of finding articles, books, and other resources that answer your questions as they arise:
 
 * Create a [facilitator guide](https://docs.p2pu.org/courses/facilitator-guides) and use it to keep track of the group’s questions each week.&#x20;
 * At the end of each session, ask learners to independently find resources that address these questions.&#x20;
 * Check in at the beginning of each session to add the resources that you all found to the facilitator guide.
 
-Encourage all participants to share information by redirecting questions addressed to you as a teacher back to the group, you can use the prompt: "Does anyone else know, or have any thoughts about…." If you and the group get in the habit of asking questions to the whole group, it can go a long way to relieve the facilitator of the pressures of functioning as a teacher.
+Those new to the learning circle experience may need to adjust to learning without an expert or authority in the room. Encourage all participants to share information by redirecting questions addressed to you as a teacher back to the group. Try asking,  "Does anyone else know, or have any thoughts about…."  If you and the group get in the habit of asking questions to the whole group, it can go a long way to relieve the facilitator of the pressures of functioning as a teacher.
 
 ### Delegating responsibilities
 
