@@ -13,8 +13,6 @@ Many online courses are designed for individual study, and this material doesn't
   * A common example: A free online course is structured into 4 weeks of 2-hour-long sessions, but your learning circle group can only meet for 60 minutes at a time. Use a facilitator guide to break up the content into 8 weeks of 60-minute-long sessions.
 * Share an editable version of the guide with learning circle participants so that you can all take collective notes, keep track of questions, and add links to helpful videos, articles, and activities
 
-### Finding Facilitator Guides
-
 Here are some examples of facilitator guides that we love:
 
 * [1619 Project](https://community.p2pu.org/t/the-1619-project-new-york-times/4739/2) by Ulonda and Hilary
@@ -22,11 +20,11 @@ Here are some examples of facilitator guides that we love:
 * [American Sign Language](https://docs.google.com/document/d/1TvleAsldQFJC0bgyHCaj\_jA\_AXmTm-0aZj7UqzP8vc8/edit?usp=sharing) (with flashcards!) by Deb&#x20;
 * [Introduction to Public Speaking](https://docs.google.com/document/d/1Ee9qFinK6khLnabnZF7riY6sS39FHjn67bSP4PmVtHw/edit?usp=sharing) by P2PU
 
-{% hint style="info" %}
 If you create a facilitator guide (no matter how simple or detailed!), you can share it back with the community by emailing it to [thepeople@p2pu.org](mailto:thepeople@p2pu.org).&#x20;
-{% endhint %}
 
-You can search for all courses with facilitator guides on our [Learning Resources page](https://www.p2pu.org/en/learning-resources/?facilitator\_guide=true\&languages=en\&order):&#x20;
+### Finding Facilitator Guides
+
+You can search for all courses with facilitator guides on our [Learning Resources page](https://www.p2pu.org/en/learning-resources/?facilitator\_guide=true\&languages=en\&order). For courses with facilitation guides, you can find the guide by visiting the "More Details" link.
 
 ![Searching for learning resources with facilitator guides](<../.gitbook/assets/courses search - edited.png>) ![Finding facilitator guides on course pages](<../.gitbook/assets/Screenshot 2022-03-09 2.01.12 PM.png>)
 
