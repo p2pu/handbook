@@ -47,10 +47,7 @@ Ask people to find or share something small through their webcam. This can be bo
 
 #### 👪 Class Photo (In-person/Online)
 
-Ask each participant to draw a self-portrait of themselves with their name on a post-note or collaborative whiteboard like [AwwApp](https://awwapp.com). \
-
-
-![](https://lh4.googleusercontent.com/q8SOV4n45CdRtAxp7N4JtrOVFfpOdlRLPFUIfgdHmkFSJIF28ZIdtD2xPvJVVeZV7Hk9XPZy3p-cac0gDyAiJZXrR0w5gfJQN-P1Ps5Q31BHGkV67aoriJLSxX6l1qwfo0H-vZOE)[![](https://lh5.googleusercontent.com/tg0JDPDJoWmKid94zVwxCTeXgber-jK197QXRs0Eh7gao59O9xKvI6QGz3gqhbesS4QSuXGgLgp9Ew1CTEINM1zDv4xLzp5bIEb2jPZxAnxjM5e3cqUGw6HRM1QhorPY79kSRAkn)](https://drive.google.com/open?id=1tcYM-eYLMAW-jLbPX1eS21ShEXNvMzRX)
+Ask each participant to draw a self-portrait of themselves with their name on a post-note or collaborative whiteboard like [AwwApp](https://awwapp.com).&#x20;
 
 #### 📺 Media Share-Out (Online)
 
@@ -186,8 +183,6 @@ A planned closing space helps the group collectively consider what was covered d
 A quick easy reflection activity is asking everybody one thing that went well that day (“plus”) and one thing to change for the next week (“delta”). These contributions are a great way for facilitators to get fresh feedback and can seed a brief conversation about ways to improve the next meeting. This can be answered out loud or typed out into a video chat or collaborative agenda if time is short.
 
 #### 💬 One Word Response (In-Person, Online, <2 min)
-
-![Example of written word responses via Valentina Ruffoni/CMX Connect](https://lh6.googleusercontent.com/bH2q\_rCmlvK2vq3SeztotKo02m0m-WHgxqeCg-vVNYGsTezCdH0GNZhguIJoCvmJGL1V6vkttc0YqBDVULdZJuQXMBG\_tusb2Ar3c4dxOapQOtm8an209BkPl0Hmciwql2E3FGof)
 
 A quick way to end a meeting while still getting feedback from everyone is to ask participants to say, type, or write one word that represents how they are feeling or their plans for the week. For example, “How would you describe our time together in one-word?”
 
