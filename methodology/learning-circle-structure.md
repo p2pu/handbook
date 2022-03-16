@@ -79,7 +79,7 @@ Online courses are often designed to be read and used individually. Depending on
 
 #### 👥Breakout Rooms (In-Person/Online)
 
-Create spaces for smaller group discussion to reflect on a question or work together on a problem.  Try creating breakout groups when there are 8 or more people in a learning circle. We like using [Jitsi](https://meet.jit.si) for breakout rooms because it is so easy to create and link participants to new video chat rooms. In- person,  breakout groups can be created based on similar interests and experiences, or randomly assigned in order to make sure everyone gets to know each other.&#x20;
+Create spaces for smaller group discussion to reflect on a question or work together on a problem.  Try creating breakout groups when there are 8 or more people in a learning circle. We like using [Jitsi](https://meet.jit.si) for breakout rooms because it is so easy to create and link participants to new video chat rooms. In-person,  breakout groups can be created based on similar interests and experiences, or randomly assigned in order to make sure everyone gets to know each other.&#x20;
 
 #### 🐝 Buzz / Think-Pair-Share (In-Person)
 
