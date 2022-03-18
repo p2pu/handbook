@@ -90,7 +90,9 @@ What if you do know a lot about the topic at hand? Your experience and skills ar
 
 ### Seeking answers
 
-What if the group is stuck? If you are not a subject expert and your course content is not as clear as you would like, it's time to explore other external or supplemental resources. If you don’t have an answer it's okay to look it up, both facilitator and learners can look up answers and share back with the group in the following meeting. If you’re having trouble figuring out where to look for answers you can try looking through some of P2PU’s Topic guides on various subjects. You can also ask a reference librarian at your local library for assistance with finding resources. Or you and other learners can search on your own for some resources and bring those back to the group to discuss. Remember we are all learners and teachers in a learning circle and so anyone and everyone can help find answers.
+What if the group is stuck? If you are not a subject expert and your course content is not as clear as you would like, it's time to explore other external or supplemental resources. If you don’t have an answer, the facilitator and learners can all look up answers and share them back with the group in the following meeting.&#x20;
+
+If you’re having trouble figuring out where to look for answers, you can try looking through some of P2PU’s [Topic Guides](https://www.p2pu.org/en/learning-resources/) on various subjects. You can also ask a reference librarian at your local library for assistance finding resources. You and other learners can search on your own for resources and bring those back to the group to discuss. Remember: we are all learners and teachers in a learning circle, and anyone and everyone can help find answers.
 
 ### Using diverse modes of communication
 
