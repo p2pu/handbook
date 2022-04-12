@@ -54,7 +54,13 @@ If your community uses Twitter for sharing information, then you can use the two
 
 {% embed url="https://youtu.be/QEi5_MJpLMc" %}
 
-Learning circle facilitators share some ideas and best practices for promoting learning circles in their communities.
+Learning circle facilitators share some ideas and best practices for promoting learning circles in their communities. Here are some of their key recommendations:
+
+* Advertise using as many platforms as possible! Consult our templates for email, Facebook, and Twitter above
+* When flyering, find walkable locations nearby as well as areas that are a natural fit for your desired audience (ex: posting flyers in a hospital to advertise a learning circle about infectious disease)
+* Library staff at reference and circulation desks have built-in opportunities to connect with patrons, and they can share information about upcoming learning circles and provide online signup assistance to those who need it
+* Invite local experts for a Q\&A session during a learning circle session and include them on promotional materials
+* In the weeks leading up to the learning circle, ask participants who have already signed up to invite other learners in their community
 
 With contributions from:
 
