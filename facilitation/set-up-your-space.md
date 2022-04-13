@@ -106,4 +106,26 @@ A few ways to mitigate these issues:
 * Start the learning circle with an orientation session; make it clear that it’s optional but is a good way for folks to learn more about the tools that will be used and the learning circle model before the group digs into the course content the following week.
 * Share your screen. Demonstrating what you want participants to do can be a lot easier than trying to explain it. Make sure you are comfortable sharing your screen before the learning circle, and practice sharing your entire screen versus a dedicated window.
 
-###
+## Hybrid Meetings&#x20;
+
+There are some situations where you might want to facilitate an in-person learning circle that includes online participants. Facilitators who have had success with hybrid learning circles emphasize the importance of acknowledging and engaging both types of participants. Others note the difficulty in keeping online participants as involved as in-person participants, as online learners can miss side conversations and might need you to repeat information more frequently.
+
+If you decide that the hybrid model is the right fit for your learning circle, review the above sections on [Meeting In Person](set-up-your-space.md#meeting-in-person) and [Meeting Online](set-up-your-space.md#meeting-online) to ensure you can accommodate all learners' needs.&#x20;
+
+### **Creating a Hybrid Learning Circle**&#x20;
+
+To host a hybrid learning circle using P2PU's website, create two separate learning circles - one online, and one in person - that are scheduled to occur at the same time. Be clear in both learning circle descriptions that your learning circle will be in a hybrid format.&#x20;
+
+#### **Essential Needs**
+
+* Use a projector and speaker in the in-person learning space to amplify online learners' presence
+* [Work with a co-facilitator](https://docs.p2pu.org/facilitation/facilitation-basics#working-with-a-co-facilitator) who can devote their full attention to online learners
+  * Try [delegating this responsibility](https://docs.p2pu.org/facilitation/facilitation-basics#delegating-responsibilities) to an in-person learner
+
+**Questions to Ask**
+
+* Can both types of learners see and hear each other?
+* Can online learners contribute in meaningful ways to in-person conversations?
+* Is a hybrid format the best way to meet both types of learners' needs?&#x20;
+  * If not, can you find a way to host the same learning circle at different times in different formats?
+
