@@ -10,7 +10,7 @@ Here are some examples of facilitator guides that we love:
 
 * [1619 Project](https://community.p2pu.org/t/the-1619-project-new-york-times/4739/2) by Ulonda and Hilary
 * [21-Day Racial Equity and Social Justice Challenge](https://community.p2pu.org/t/21-day-racial-equity-social-justice-ywca-greater-cleveland/4770/2) by Ulonda and Hilary
-* [American Sign Language](https://docs.google.com/document/d/1TvleAsldQFJC0bgyHCaj\_jA\_AXmTm-0aZj7UqzP8vc8/edit?usp=sharing) (with flashcards!) by Deb&#x20;
+* [American Sign Language](https://docs.google.com/document/d/1AMf52sMmXQB5lwCRnZ6UC44mJ9Xkac4HBlPRHgDK6KQ/edit?usp=sharing) (with flashcards!) by Deb&#x20;
 * [Introduction to Public Speaking](https://docs.google.com/document/d/1Ee9qFinK6khLnabnZF7riY6sS39FHjn67bSP4PmVtHw/edit?usp=sharing) by P2PU
 
 If you create a facilitator guide (no matter how simple or detailed!), you can share it back with the community by emailing it to [thepeople@p2pu.org](mailto:thepeople@p2pu.org). &#x20;
