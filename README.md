@@ -6,8 +6,6 @@ description: >-
 
 # P2PU Knowledge Base
 
-![](.gitbook/assets/learningcircle-crop.png)
-
 **Learning circles** are free, lightly-facilitated study groups that meet regularly to learn from open educational resources.&#x20;
 
 Rooted in values of community, peer learning, equity, and open access, a learning circle typically has the following components:&#x20;
