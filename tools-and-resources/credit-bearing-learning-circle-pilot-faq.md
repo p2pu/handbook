@@ -30,7 +30,21 @@ It’s a combination of three things: a facilitator who has been onboarded, a li
 
 ### **How are credit-bearing circles different from “normal” learning circles?**
 
-Learners seeking credit will need to complete a learning journal, which includes a weekly reflection, a wrap-up activity in their learning circle, and a few assignments that are part of the course. Learning journals are designed to help learners reflect upon what they have learned and make notes more accessible, and they are an opportunity for participants to deepen their engagement with the course content. All of this information is included in each learning journal for the course.
+Learners seeking credit will need to complete a **learning journal**, which includes a weekly reflection, a wrap-up activity in their learning circle, and a few assignments that are part of the course. All of this information is included in each learning journal for the course.
+
+### What is a learning journal?
+
+Learning journals are designed to help learners reflect upon what they have learned, deepen their understanding, and make their notes more accessible when needed.&#x20;
+
+Each credit hour awarded by CU requires 45 hours of engaged student learning. Learning journals provide students with an opportunity to deepen their engagement with the course content and are composed of the following elements.
+
+**Weekly Reflection Questions:** Ask learners to share a reaction, insight, and/or question that they are taking away from the learning circle session.&#x20;
+
+**Content Review Questions:** Create opportunities for learners to reflect on content from the course, to share it in their own words, and to connect it to past learning experiences.&#x20;
+
+**Assignments:** Assign learners to independently read or watch material related to the course and to respond with a reflection.&#x20;
+
+**Final Reflections:** Ask learners to reflect on the course by describing their experiences, naming their initial expectations, and sharing their next steps in 1-2 pages.
 
 ### **Can anybody sign up for the credit-bearing learning circles?**
 
