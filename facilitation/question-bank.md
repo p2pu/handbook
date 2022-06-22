@@ -1,10 +1,10 @@
 ---
-description: These questions were created in partnership with College Unbound.
+description: Created in partnership with College Unbound.
 ---
 
 # Question Bank
 
-Below are examples of questions aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars) that can be used or adapted for [learning journals](https://docs.p2pu.org/tools-and-resources/credit-bearing-learning-circle-pilot-faq#what-is-a-learning-journal). Choose from and/or adapt these questions so that they make sense given the content of your Learning Circle.&#x20;
+The following questions are intended for use in [learning journals](https://docs.p2pu.org/tools-and-resources/credit-bearing-learning-circle-pilot-faq#what-is-a-learning-journal), and they are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars). You can use or adapt these questions so that they make sense given the content of your learning circle.&#x20;
 
 ### **Accountability**
 
