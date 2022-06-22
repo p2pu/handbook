@@ -16,7 +16,7 @@ For now, this project is only open to individuals who have participated in a P2P
 
 | Public Speaking                                                                                                   | How to Talk about Race                                                                                       | Cyber Security                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [**Learning Journal**](https://docs.google.com/document/d/1UGBtpmgN1eN9t\_VSDjsL6fwIOVuC3spVtIE5C-oBYfI/edit#)    | [**Learning Journal**](https://docs.google.com/document/d/1bab9ZBgPzXZ6oG-797ha9SRpE-tP9H1qgrqrh3NDL88/edit) | [**Learning Journal**](https://docs.google.com/document/d/17WK9r2OZkePF6V0vCKbYd7cuHX6vyJLAWflPbi\_ic7Y/edit#)            |
+| [**Learning Journal**](https://docs.google.com/document/d/1UGBtpmgN1eN9t\_VSDjsL6fwIOVuC3spVtIE5C-oBYfI/edit)     | [**Learning Journal**](https://docs.google.com/document/d/1bab9ZBgPzXZ6oG-797ha9SRpE-tP9H1qgrqrh3NDL88/edit) | [**Learning Journal**](https://docs.google.com/document/d/17WK9r2OZkePF6V0vCKbYd7cuHX6vyJLAWflPbi\_ic7Y/edit)             |
 | [**Facilitator Guide**](https://docs.google.com/document/u/1/d/1Ee9qFinK6khLnabnZF7riY6sS39FHjn67bSP4PmVtHw/edit) | [**Facilitator Guide**](https://docs.google.com/document/d/1tiv1Y4ScGm4mVnJh4tUjCSzvCr44jaaI9\_fn5y36Hvk/)   | [**Facilitator Guide**](https://docs.google.com/document/d/1V0ouIfg7XvGZ2arI5WCRi24QUcLzcpofV7d8rclYWlY/edit?usp=sharing) |
 
 |                                                         Art of Storytelling                                                        |                                                    Design Thinking for Innovation                                                   |                                                  Leveraging Learning from Life                                                 |
@@ -30,7 +30,7 @@ It’s a combination of three things: a facilitator who has been onboarded, a li
 
 ### **How are credit-bearing circles different from “normal” learning circles?**
 
-Learners seeking credit will need to complete a weekly reflection, end of learning circle wrap up, and a few assignments that are part of the course. All of this information is included in the learning journal for the course.
+Learners seeking credit will need to complete a learning journal, which includes a weekly reflection, a wrap-up activity in their learning circle, and a few assignments that are part of the course. Learning journals are designed to help learners reflect upon what they have learned and make notes more accessible, and they are an opportunity for participants to deepen their engagement with the course content. All of this information is included in each learning journal for the course.
 
 ### **Can anybody sign up for the credit-bearing learning circles?**
 
