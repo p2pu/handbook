@@ -1,7 +1,5 @@
 ---
-description: >-
-  These questions were created by Michelle Navarre as part of our work with
-  College Unbound.
+description: These questions were created in partnership with College Unbound.
 ---
 
 # Question Bank
@@ -10,7 +8,7 @@ Below are examples of questions aligned with [College Unbound’s Big 10 compete
 
 ### **Accountability**
 
-Demonstrates the ability to meet or exceed agreed-upon expectations, taking ownership of all that happens as a result of personal choices and actions, and looking for solutions when there is a problem
+Demonstrates the ability to meet or exceed agreed-upon expectations, taking ownership of all that happens as a result of personal choices and actions, and looking for solutions when there is a problem.
 
 1.  **Demonstrates personal responsibility – acknowledges and corrects mistakes.**&#x20;
 
