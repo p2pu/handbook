@@ -29,8 +29,7 @@
 
 * [FAQ's](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 * [Facilitator Resources](credit-bearing-learning/facilitator-resources.md)
-* [Learning Journals](credit-bearing-learning/learning-journals/README.md)
-  * [Question Bank](credit-bearing-learning/learning-journals/question-bank.md)
+* [Learning Journals](credit-bearing-learning/learning-journals.md)
 
 ## Tools & Resources
 
