@@ -4,7 +4,7 @@ description: >-
   Unbound.
 ---
 
-# Credit-Bearing Learning Circles
+# FAQ's
 
 With support from Walmart, P2PU, College Unbound, and Providence Public Library have [developed a pathway](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/) from library-based learning circles to college credit.&#x20;
 
@@ -12,7 +12,7 @@ With support from Walmart, P2PU, College Unbound, and Providence Public Library 
 [Looking for learner FAQs?](../frequently-asked-questions.md#credit-bearing-faqs)
 {% endhint %}
 
-For now, this project is only open to individuals who have participated in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/)) using the following online courses:&#x20;
+For now, this project is only open to individuals who have participated in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/)).  using the following online courses:&#x20;
 
 | Public Speaking                                                                                                   | How to Talk about Race                                                                                       | Cyber Security                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |

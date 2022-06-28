@@ -23,8 +23,13 @@
 * [Finding Participants](facilitation/finding-participants.md)
 * [Setting Up Meeting Spaces](facilitation/set-up-your-space.md)
 * [Facilitating Peer Learning](facilitation/facilitation-basics.md)
-* [Question Bank](facilitation/question-bank.md)
 * [Evaluate & Reflect](facilitation/evaluate-and-reflect.md)
+
+## Credit-Bearing Learning
+
+* [FAQ's](credit-bearing-learning/credit-bearing-learning-circle-pilot-faq.md)
+* [Facilitator Resources](credit-bearing-learning/facilitator-resources.md)
+* [Learning Journal Question Bank](credit-bearing-learning/learning-journal-question-bank.md)
 
 ## Tools & Resources
 
@@ -35,7 +40,6 @@
   * [Evaluation Surveys](tools-and-resources/tools-for-learning-circles/evaluation-surveys.md)
 * [Collage & Image Credits](tools-and-resources/collage-and-image-credits.md)
 * [Community Support](tools-and-resources/community-support.md)
-* [Credit-Bearing Learning Circles](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 
 ## P2PU Teams <a href="#teams" id="teams"></a>
 
