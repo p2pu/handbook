@@ -47,14 +47,14 @@ Ask people to find or share something small through their webcam. This can be bo
 
 #### 👪 Class Photo (In-person/Online)
 
-Ask each participant to draw a self-portrait of themselves with their name on a post-note or collaborative whiteboard like [AwwApp](https://awwapp.com).&#x20;
+Ask each participant to draw a self-portrait of themselves with their name on a post-note or collaborative whiteboard like [AwwApp](https://awwapp.com/).&#x20;
 
 #### 📺 Media Share-Out (Online)
 
 Being online presents the opportunity to share media with one another. This can also be a great, low-stakes way to help participants become more comfortable using shared notes documents and copying media from the internet. A few examples include:
 
 * Paste an image of your favorite \_\_\_\_\_\_\_\_\_ in a shared notes document
-* Search for a .[gif](https://giphy.com)  or [emoji](https://emojipedia.org) that matches your mood
+* Search for a .[gif](https://giphy.com/)  or [emoji](https://emojipedia.org/) that matches your mood
 * Share your favorite meme
 
 #### 📔Recap (In-person/Online)
@@ -79,7 +79,7 @@ Online courses are often designed to be read and used individually. Depending on
 
 #### 👥Breakout Rooms (In-Person/Online)
 
-Create spaces for smaller group discussion to reflect on a question or work together on a problem.  Try creating breakout groups when there are 8 or more people in a learning circle. We like using [Jitsi](https://meet.jit.si) for breakout rooms because it is so easy to create and link participants to new video chat rooms. In-person,  breakout groups can be created based on similar interests and experiences, or randomly assigned in order to make sure everyone gets to know each other.&#x20;
+Create spaces for smaller group discussion to reflect on a question or work together on a problem.  Try creating breakout groups when there are 8 or more people in a learning circle. We like using [Jitsi](https://meet.jit.si/) for breakout rooms because it is so easy to create and link participants to new video chat rooms. In-person,  breakout groups can be created based on similar interests and experiences, or randomly assigned in order to make sure everyone gets to know each other.&#x20;
 
 #### 🐝 Buzz / Think-Pair-Share (In-Person)
 
@@ -95,7 +95,7 @@ A fishbowl is a small group discussion which takes place inside a larger circle 
 
 #### &#x20;⌨️ Typed Response (Online)
 
-Ask everyone to share type responses to a specific or open question. This can be done through an online chat box, or using a collaborative document like a Google Doc or [Etherpad](https://etherpad.p2pu.org). It allows everyone a chance to participate, especially those who do not feel comfortable vocalizing their opinion, or simply cannot for other reasons. Encourage everyone to type +1 next to a statement that people agree with or like, which acts like a virtual high-five or thumbs up. To make sure all responses are heard, it can also be helpful to have one person read off responses for everyone else.&#x20;
+Ask everyone to share type responses to a specific or open question. This can be done through an online chat box, or using a collaborative document like a Google Doc or [Etherpad](https://etherpad.p2pu.org/). It allows everyone a chance to participate, especially those who do not feel comfortable vocalizing their opinion, or simply cannot for other reasons. Encourage everyone to type +1 next to a statement that people agree with or like, which acts like a virtual high-five or thumbs up. To make sure all responses are heard, it can also be helpful to have one person read off responses for everyone else.&#x20;
 
 #### 🎓 Outside Expertise (In-Person/Online)
 
@@ -119,7 +119,7 @@ At times, learners will have questions that no one in the group can answer. In t
 
 🗺 **Mind Map (In-Person/Online)**
 
-Mind maps can be very appealing to visual learners. A mind map is a multi-colored, centered, and radial diagram that represents connections between different concepts. It allows people to synthesize ideas visually and use their creativity. Take a look at [this video](https://www.youtube.com/watch?v=u5Y4pIsXTV0\&t=290s) to learn how to build your mind map. You can use them to ask learners to synthesize lessons, sketch problem-solving steps, or even set learning goals. If you're running an online meeting, programs like [Google Slides](https://www.google.com/slides/about/) and [Jamboard](https://jamboard.google.com) enable people to share their drawings easily.
+Mind maps can be very appealing to visual learners. A mind map is a multi-colored, centered, and radial diagram that represents connections between different concepts. It allows people to synthesize ideas visually and use their creativity. Take a look at [this video](https://www.youtube.com/watch?v=u5Y4pIsXTV0\&t=290s) to learn how to build your mind map. You can use them to ask learners to synthesize lessons, sketch problem-solving steps, or even set learning goals. If you're running an online meeting, programs like [Google Slides](https://www.google.com/slides/about/) and [Jamboard](https://jamboard.google.com/) enable people to share their drawings easily.
 
 🕐 **One-Minute Paper (In-Person/Online)**
 
@@ -145,7 +145,7 @@ Especially during meetings longer than an hour, a quick break or energizer activ
 
 #### ⏰ Take A Break (In-Person/Online)
 
-If you feel the need for a break, it may already be too late! So, take a break already! Stretch, eat some cookies, try a guided meditation, go for a walk, watch a music video, have a dance party, share recipes, or play an online game like [Pictionary](https://gartic.io) or [Codenames](https://www.horsepaste.com).
+If you feel the need for a break, it may already be too late! So, take a break already! Stretch, eat some cookies, try a guided meditation, go for a walk, watch a music video, have a dance party, share recipes, or play an online game like [Pictionary](https://gartic.io/) or [Codenames](https://www.horsepaste.com/).
 
 #### 💥 The Shakedown (In-Person)
 
@@ -157,7 +157,7 @@ Ask everyone to spell coconut with their body taking the shape of each letter �
 
 #### 👂 Storytelling (In-Person/Online)
 
-Share a story from your own life, one that you heard, or one that relates to a recent topic, theme, or question. If you ask someone else to share a story, make sure to ask them in advance to prepare. Here’s an example of fun parable from [The Barefoot Guide](https://www.barefootguide.org):
+Share a story from your own life, one that you heard, or one that relates to a recent topic, theme, or question. If you ask someone else to share a story, make sure to ask them in advance to prepare. Here’s an example of fun parable from [The Barefoot Guide](https://www.barefootguide.org/):
 
 Three blind men touched an elephant, one touching at the front, one at the side and one at the back. The first told his friends: ‘An elephant is long and about as thick as a man’s arm.’ The second one said, ‘No, it isn’t. It’s flat and feels like paper. It is very thin.’ The third one said, ‘You’re both wrong. It’s large and hard and hot, smelly stuff comes out of it.’
 

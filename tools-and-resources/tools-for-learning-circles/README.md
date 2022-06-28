@@ -43,7 +43,7 @@ To facilitate or organize learning circles, you’ll first need to create a P2PU
 
 After setting your password you will be logged in and redirected to your learning circle dashboard.
 
-The tools are hosted online and can be accessed from [www.p2pu.org](https://www.p2pu.org)
+The tools are hosted online and can be accessed from [www.p2pu.org](https://www.p2pu.org/)
 
 All the source code is release under the MIT license and can be found on [GitHub](https://github.com/p2pu/learning-circles/).
 
