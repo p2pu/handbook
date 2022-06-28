@@ -2,13 +2,15 @@
 
 ## What is a learning journal?
 
-Learning journals are designed to help learners reflect upon what they have learned, deepen their understanding, and make their notes more accessible when needed.&#x20;
+Learning journals are designed to help learners reflect upon what they have learned, deepen their understanding, and make their notes more accessible when needed. Learning journals include prompts from our [Question Bank](https://docs.p2pu.org/credit-bearing-learning/learning-journals#question-bank), a list of questions aligned with[ College Unbound's Big 10 Competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars).
 
-To trailblaze a new online course for college credit, contact [**collegeunbound@p2pu.org**](mailto:collegeunbound@p2pu.org) for help.&#x20;
+{% hint style="info" %}
+To trailblaze a new online course for college credit, contact [**collegeunbound@p2pu.org**](mailto:collegeunbound@p2pu.org) .
+{% endhint %}
 
 Each credit hour awarded by CU requires 45 hours of engaged student learning. Learning journals provide students with an opportunity to deepen their engagement with the course content and are composed of the following elements:
 
-* **Weekly Reflection Questions:** Ask learners to share a reaction, insight, and/or question that they are taking away from the learning circle session. Visit the [Question Bank](https://docs.p2pu.org/credit-bearing-learning/learning-journal-question-bank) below for a list of questions aligned with[ CU's Big 10 Competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars).
+* **Weekly Reflection Questions:** Ask learners to share a reaction, insight, and/or question that they are taking away from the learning circle session.&#x20;
 * **Content Review Questions:** Create opportunities for learners to reflect on content from the course, to share it in their own words, and to connect it to past learning experiences.&#x20;
 * **Assignments:** Assign learners to independently read or watch material related to the course and to respond with a reflection.&#x20;
 * **Final Reflections:** Ask learners to reflect on the course by describing their experiences, naming their initial expectations, and sharing their next steps in 1-2 pages.

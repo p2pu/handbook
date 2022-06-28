@@ -4,7 +4,7 @@ Receiving feedback is necessary to improve, both as a learning circle participan
 
 While your learning circle is happening in person and our community of practice is largely virtual, we strive to model the same P2PU values in our community of practice, so that you can continue to refine your facilitation skills when you meet with facilitators. Here are some of the key components of our community of practice:
 
-* [Community forum](https://community.p2pu.org/): P2PU’s online platform where facilitators ask questions, share resources, and discuss relevant issues.
+* [Community forum](https://community.p2pu.org): P2PU’s online platform where facilitators ask questions, share resources, and discuss relevant issues.
 * Digests: Monthly email which summarizes everything that is happening in P2PU including news, events as well as recently added learning circles and courses.
 * [Events](https://www.p2pu.org/en/events/): P2PU hosts a mix of virtual community calls, regional meetings, open trainings, and meet-ups throughout the year.
 * [Course ratings](https://www.p2pu.org/en/courses/): Feedback from learners and facilitators are summarized on the course cards on the course page. Here’s an example of feedback for the [public speaking course](https://learningcircles.p2pu.org/en/course/2/).

@@ -14,8 +14,8 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main\_Page)
 * [Library of Congress Free to Use](https://www.loc.gov/free-to-use/)
 * [National Gallery of Art ](https://www.nga.gov/open-access-images.html)
-* [WorldImages](https://worldimages.sjsu.edu/)
-* [Public Domain Review](https://publicdomainreview.org/)
+* [WorldImages](https://worldimages.sjsu.edu)
+* [Public Domain Review](https://publicdomainreview.org)
 
 \*Many media archives in the United States highlight the disproportionate representation of wealthy white people in historical narratives. To counter this, P2PU makes a dedicated effort to prioritize respectful depictions of people of color and women in our collages. We review the content of all materials we include in our collages (even when it’s obscured or illegible in the final piece) to avoid sources or materials that contain violent, harmful, or otherwise disrespectful representations of human beings.
 
