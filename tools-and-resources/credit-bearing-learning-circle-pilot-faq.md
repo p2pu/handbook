@@ -8,30 +8,17 @@ description: >-
 
 With support from Walmart, P2PU, College Unbound, and Providence Public Library have [developed a pathway](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/) from library-based learning circles to college credit.&#x20;
 
-{% hint style="info" %}
-[Looking for learner FAQs?](../frequently-asked-questions.md#credit-bearing-faqs)
-{% endhint %}
+Facilitators of these credit-bearing learning circles must first attend a credit-bearing facilitator training session ([see upcoming events](https://www.p2pu.org/en/events/)).&#x20;
 
-For now, this project is only open to individuals who have participated in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/)), and you can find online courses approved for college credit in the [Facilitator Resources](https://docs.p2pu.org/credit-bearing-learning/facilitator-resources) section.
+You can find online courses approved for college credit along with their facilitator guides and learning journals in the [Facilitator Resources](https://docs.p2pu.org/credit-bearing-learning/facilitator-resources) section.
 
 ### **What makes a learning circle “credit worthy”?**
 
-It’s a combination of three things: a facilitator who has been onboarded, a library or partner that has agreed to participate, and a course that has been vetted by College Unbound.
+It’s a combination of three things: a facilitator who has attended our mandatory training, a library or partner that has agreed to participate, and a course that has been vetted by College Unbound.
 
 ### **How are credit-bearing circles different from “normal” learning circles?**
 
-Learners seeking credit will need to complete a **learning journal**, which includes a weekly reflection, a wrap-up activity in their learning circle, and a few assignments that are part of the course. All of this information is included in each learning journal for the course.
-
-### What is a learning journal?
-
-Learning journals are designed to help learners reflect upon what they have learned, deepen their understanding, and make their notes more accessible when needed.&#x20;
-
-Each credit hour awarded by CU requires 45 hours of engaged student learning. Learning journals provide students with an opportunity to deepen their engagement with the course content and are composed of the following elements:
-
-* **Weekly Reflection Questions:** Ask learners to share a reaction, insight, and/or question that they are taking away from the learning circle session. Visit our [Learning Journal Question Bank](https://docs.p2pu.org/credit-bearing-learning/learning-journal-question-bank) for a list of questions aligned with[ CU's Big 10 Competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars).
-* **Content Review Questions:** Create opportunities for learners to reflect on content from the course, to share it in their own words, and to connect it to past learning experiences.&#x20;
-* **Assignments:** Assign learners to independently read or watch material related to the course and to respond with a reflection.&#x20;
-* **Final Reflections:** Ask learners to reflect on the course by describing their experiences, naming their initial expectations, and sharing their next steps in 1-2 pages.
+Learners seeking credit will need to complete a [learning journal](https://docs.p2pu.org/credit-bearing-learning/learning-journals), which includes a weekly reflection, a wrap-up activity in their learning circle, and a few assignments that are part of the course. All of this information is included in each learning journal for the course.
 
 ### **Can anybody sign up for the credit-bearing learning circles?**
 
