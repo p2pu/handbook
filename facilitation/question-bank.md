@@ -2,7 +2,7 @@
 description: Created in partnership with College Unbound.
 ---
 
-# Question Bank
+# Learning Journal Question Bank
 
 The following questions are intended for use in [learning journals](https://docs.p2pu.org/tools-and-resources/credit-bearing-learning-circle-pilot-faq#what-is-a-learning-journal), and they are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars). You can use or adapt these questions so that they make sense given the content of your learning circle.&#x20;
 

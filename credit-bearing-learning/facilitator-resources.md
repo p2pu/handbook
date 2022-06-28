@@ -4,7 +4,9 @@ description: Facilitator guides and Learning Journals for credit-bearing learnin
 
 # Facilitator Resources
 
-Use P2PU's learning journals and facilitator guides for the following courses approved for college credit through [College Unbound](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/). To create a learning journal for a new course, visit our Learning Journal Question Bank.
+To facilitate one of the following courses approved for college credit through [College Unbound](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/), use P2PU's learning journals and facilitator guides below.&#x20;
+
+To trailblaze a new online course for college credit, contact [**collegeunbound@p2pu.org**](mailto:collegeunbound@p2pu.org) for help and visit our [Learning Journal Question Bank](https://docs.p2pu.org/credit-bearing-learning/learning-journal-question-bank).
 
 | Public Speaking                                                                                                   | How to Talk about Race                                                                                       | Cyber Security                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
