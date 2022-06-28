@@ -28,14 +28,14 @@ Learning journals are designed to help learners reflect upon what they have lear
 
 Each credit hour awarded by CU requires 45 hours of engaged student learning. Learning journals provide students with an opportunity to deepen their engagement with the course content and are composed of the following elements:
 
-* **Weekly Reflection Questions:** Ask learners to share a reaction, insight, and/or question that they are taking away from the learning circle session.&#x20;
+* **Weekly Reflection Questions:** Ask learners to share a reaction, insight, and/or question that they are taking away from the learning circle session. Visit our [Learning Journal Question Bank](https://docs.p2pu.org/credit-bearing-learning/learning-journal-question-bank) for a list of questions aligned with[ CU's Big 10 Competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars).
 * **Content Review Questions:** Create opportunities for learners to reflect on content from the course, to share it in their own words, and to connect it to past learning experiences.&#x20;
 * **Assignments:** Assign learners to independently read or watch material related to the course and to respond with a reflection.&#x20;
 * **Final Reflections:** Ask learners to reflect on the course by describing their experiences, naming their initial expectations, and sharing their next steps in 1-2 pages.
 
 ### **Can anybody sign up for the credit-bearing learning circles?**
 
-Yes, these learning circles are open to the public. Not all participants need to be seeking credit. There is no age limit for participants who wish to participate for Credit.
+Yes, these learning circles are open to the public. Not all participants need to be seeking credit. There is no age limit for participants who wish to participate for credit.
 
 ### **Do participants need to have a high school diploma or equivalency to obtain credit from College Unbound?**
 
