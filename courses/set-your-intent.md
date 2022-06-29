@@ -19,7 +19,7 @@ If your goal is to run programs that support the needs of your local community, 
 
 Community outreach can be done successfully in a variety of ways, in-person and online, and will often depend on your unique resources and circumstances. Here are some popular tools and strategies:
 
-* **Promotion:** Use organizational or local mailing lists, neighborhood apps (like [Nextdoor](https://nextdoor.com/)), local social media groups, or other local outreach lists to reach a number of people in your community with questions or surveys. We use Google Forms frequently at P2PU and have a [topic survey template](https://docs.google.com/forms/d/e/1FAIpQLSe5TByw6oXOFz3EluzEiZ\_aA6BdWKQg0oBGSjWPW1XgkSMVbA/viewform?usp=sf\_link)  that you can riff off of for your own uses. Collaborative polling tool like [Tricider](https://www.tricider.com/) are also great for starting conversations between respondents.&#x20;
+* **Promotion:** Use organizational or local mailing lists, neighborhood apps (like [Nextdoor](https://nextdoor.com)), local social media groups, or other local outreach lists to reach a number of people in your community with questions or surveys. We use Google Forms frequently at P2PU and have a [topic survey template](https://docs.google.com/forms/d/e/1FAIpQLSe5TByw6oXOFz3EluzEiZ\_aA6BdWKQg0oBGSjWPW1XgkSMVbA/viewform?usp=sf\_link)  that you can riff off of for your own uses. Collaborative polling tool like [Tricider](https://www.tricider.com) are also great for starting conversations between respondents.&#x20;
 * **Focus Groups:** In Kenya, libraries run [mini focus groups](https://community.p2pu.org/t/library-patron-focus-group/3129) as part of their learning circle training. They get a quick idea of what their local library patrons are interested in and their digital literacy skills which they can use for discussion as they continue their training workshop. Some libraries have offered a learning circle teaser or public orientation where they introduce the concept of learning circles through an informal meeting or large presentation and, through these meetings, they also receive feedback about what people are interested in learning
 * **Assess interests of and gather data from current students or patrons:** Observation and insights gathered from each branch and location is key to understanding your unique community. If you're part of a library, you can use collections data or access stats from institutional memberships (like Lynda.com) to understand what your patrons are seeking out.
 * **Ask local businesses:** Visiting a number of local businesses and simply asking what skills or community programs they feel are missing.
@@ -35,7 +35,7 @@ The Q Method is a participatory public bulletin, traditionally created using pap
 
 The Q Method not only invites community contribution for deciding topics, it also helps promote upcoming programs to everyone who wanders by the poster.  This concept has been re-used by learning circle facilitators around the world, and can also have applications for other community feedback issues, such as strategic planning, programming decision-making, and understanding community satisfaction and engagement.
 
-Dot voting is an established facilitation method used to describe voting with dot stickers or marks with a marker pen. For more information, check out [Dotmocrocy](https://dotmocracy.org/).&#x20;
+Dot voting is an established facilitation method used to describe voting with dot stickers or marks with a marker pen. For more information, check out [Dotmocrocy](https://dotmocracy.org).&#x20;
 
 ### Q Method Templates & Examples
 
@@ -43,7 +43,7 @@ If you want to use the Q Method in person, we've created a few templates you can
 
 To edit your own copy, click "view template" underneath the previews below; once you've opened the file, navigate to **File > Make Copy** to save a version in your own Google Drive.
 
-| <img src="../.gitbook/assets/q-method-poster.jpg" alt="" data-size="original">                                                                                   | <p></p><p><img src="../.gitbook/assets/q-method-template.jpg" alt=""></p>                                                                                 |
+| ![](../.gitbook/assets/q-method-poster.jpg)                                                                                                                      | <p></p><p><img src="../.gitbook/assets/q-method-template.jpg" alt=""></p>                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **18x24" Poster (**[**view template**](https://docs.google.com/presentation/d/1cZGxxRuC83qkD95dt1-mZ1vALDUxgup4C-tp9W-D3yI/edit#slide=id.gd36be7eca8\_0\_0)**)** | **8.5x11" Poster Series (**[**view template**](https://docs.google.com/presentation/d/1UgIZQa0LQxJihHXadUk-71pURHRe3WjBjXhLmD5iYG4/edit#slide=id.p)**)**  |
 
@@ -51,7 +51,7 @@ Facilitators around the world have adapted this strategy to collect ideas for th
 
 ### Virtual Q Method
 
-To try the Q Method online, you can use a standard survey tool (such as [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com/), or [SurveyMonkey](https://www.surveymonkey.com/)) where responses are aggregated and shared with you privately, or you can use a collaborative polling tool (such as [Tricider](https://www.tricider.com/), [Mentimeter](https://www.mentimeter.com/), or [AnswerGarden](https://answergarden.ch/)) where responses are shared publicly.
+To try the Q Method online, you can use a standard survey tool (such as [Google Forms](https://www.google.com/forms/about/), [Typeform](https://www.typeform.com), or [SurveyMonkey](https://www.surveymonkey.com)) where responses are aggregated and shared with you privately, or you can use a collaborative polling tool (such as [Tricider](https://www.tricider.com), [Mentimeter](https://www.mentimeter.com), or [AnswerGarden](https://answergarden.ch)) where responses are shared publicly.
 
 P2PU has created two Google Forms templates with different sets of topics based on the P2PU Q Method poster template shared above. You van view and make copies of them below:
 

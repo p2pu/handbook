@@ -59,7 +59,7 @@ As you find tools you want to use, keep learner accessibility in mind. Here are 
 
 Because many facilitators are locked into institutional requirements and it’d be impossible to address every learning circle’s unique tech needs, this is not a hefty tool comparison. (Looking for a comprehensive guide? We recommend [Mozilla’s Video Call Apps list](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)!) Instead, we’re getting right to our recommended setup: Jitsi video calls + Etherpad collaborative text documents.
 
-### ****[**Jitsi**](https://meet.jit.si/) **(Video Conferencing w/ Screenshare, Dial-In, Text)**
+### ****[**Jitsi**](https://meet.jit.si) **(Video Conferencing w/ Screenshare, Dial-In, Text)**
 
 Jitsi is a free, open-source video tool that takes safety seriously and doesn’t require an account registration or software download on computers. No frills or friction: participants can click a link and immediately join. It works in most web browsers and on iOS/Android smartphones with a free app.&#x20;
 
@@ -75,15 +75,15 @@ Jitsi is a free, open-source video tool that takes safety seriously and doesn’
 * [Using Jitsi Meet | Video Conference Demonstration](https://www.youtube.com/watch?v=3Iwiwq7eofE\&list=RDCMUCx-ljiKQcLSd8\_4AFi\_yaIw\&start\_radio=1\&t=23) (video, 16:24)
 * [Jitsi FAQ](https://jitsi.org/user-faq/)
 
-### [Etherpad](https://etherpad.org/) (Collaborative Text Editor)
+### [Etherpad](https://etherpad.org) (Collaborative Text Editor)
 
 Etherpad is a highly customizable open source text editor that allows for collaborative writing in real-time. Each editor sets their own color so you can follow individual contributions. (This can also be turned off.) We’ve had success using this for sharing meeting agendas, collaborative writing exercises, and silent reflections (like check-in questions or [plus/deltas](https://docs.google.com/document/d/1l5Y96YTPbXay1iDgKiFoD-uA2AixvJNt3a380L0yOWc/edit#heading=h.ikjjxp4uht5f) at the end of a meeting).
 
-#### Get started: [etherpad.p2pu.org](https://etherpad.p2pu.org/)
+#### Get started: [etherpad.p2pu.org](https://etherpad.p2pu.org)
 
 We’ve hosted an instance of Etherpad on our website (linked above) so you can just pick a URL and go. If you or a colleague are familiar with Git, you can also [install Etherpad](https://github.com/ether/etherpad-lite#installation) yourself and customize it to your needs with [community-created plugins](https://static.etherpad.org/index.html). (Have a plugin request for the P2PU Etherpad? [Email us!](mailto:thepeople@p2pu.org))
 
-* [Video Etherpad](https://video.etherpad.com/) — An experimental version of Etherpad that includes participants’ videos inside the document. We found it didn’t work well with more than 10 participants, but it might be a good solution for smaller circles!
+* [Video Etherpad](https://video.etherpad.com) — An experimental version of Etherpad that includes participants’ videos inside the document. We found it didn’t work well with more than 10 participants, but it might be a good solution for smaller circles!
 * [Etherpad Wiki and FAQs](https://github.com/ether/etherpad-lite/wiki)
 
 ### Considering Privacy and Safety
