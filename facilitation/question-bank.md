@@ -1,6 +1,6 @@
 # Question Bank
 
-The following questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars). You can use or adapt these questions for your facilitator guides and learning circles so that they fit your learning circle. \
+The following questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars), and you can adapt these questions to use in [facilitator guides](https://docs.p2pu.org/courses/facilitator-guides) and [learning journals](https://docs.p2pu.org/credit-bearing-learning/nominating-a-course-for-credit#what-are-learning-journals) for your learning circle. \
 \
 **TABLE OF CONTENTS:**
 

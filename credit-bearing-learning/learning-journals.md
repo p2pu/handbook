@@ -4,7 +4,7 @@ To nominate a new online course for college credit, contact [**collegeunbound@p2
 
 You can find a list of available learning journals for approved credit-bearing courses in our [Facilitator Resources](https://docs.p2pu.org/credit-bearing-learning/facilitator-resources) section.
 
-### What are Learning Journals?
+### How do learning journals work?
 
 Learning journals are designed to help learners reflect upon what they have learned, deepen their understanding, and make their notes more accessible when needed.&#x20;
 
