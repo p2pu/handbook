@@ -27,9 +27,8 @@
 
 ## Credit-Bearing Learning
 
-* [FAQ's](tools-and-resources/credit-bearing-learning-circle-pilot-faq.md)
 * [Facilitator Resources](credit-bearing-learning/facilitator-resources.md)
-* [Nominating a Course for Credit](credit-bearing-learning/nominating-a-course-for-credit.md)
+* [Nominating a Course for Credit](credit-bearing-learning/learning-journals.md)
 
 ## Tools & Resources
 

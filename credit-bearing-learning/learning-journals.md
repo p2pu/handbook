@@ -2,7 +2,7 @@
 description: An introduction
 ---
 
-# Learning Journals
+# Nominating a Course for Credit
 
 ## What is a learning journal?
 
