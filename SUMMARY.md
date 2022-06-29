@@ -27,7 +27,8 @@
 
 ## Credit-Bearing Learning
 
-* [Facilitator Resources](credit-bearing-learning/facilitator-resources.md)
+* [Facilitator Resources](credit-bearing-learning/facilitator-resources/README.md)
+  * [Question Bank](credit-bearing-learning/facilitator-resources/question-bank.md)
 * [Nominating a Course for Credit](credit-bearing-learning/learning-journals.md)
 
 ## Tools & Resources
