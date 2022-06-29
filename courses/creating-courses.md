@@ -49,8 +49,8 @@ If you're going to publish your course with Course-in-a-Box, we recommend drafti
 In addition to bringing your own expertise to the table, we encourage course creators to broaden the perspective by referencing or including external content, as long as it can be done appropriately and will full credit to the original sources. Some practices for identifying usable external content:&#x20;
 
 * **Quotes and Ideas:** Standard citations rules apply when creating online courses. The [Purdue Online Writing Lab](https://owl.purdue.edu/owl/purdue\_owl.html) is an exceptional resource for making sure you’re citing things accurately.
-* **News Articles:** Linking directly to news articles is a great way to bring in outside opinions and connect your course to current events. Consider using the Internet Archive’s [Wayback Machine](https://archive.org/web/) or [Perma.cc](https://perma.cc) to prevent link rot, and be mindful about not linking to articles with paywalls.
-* **Images and Icons:** Reuse images and icons from [Flickr](https://www.flickr.com), [Unsplash](https://unsplash.com), [The Noun Project](https://thenounproject.com), [unDraw](https://undraw.co), [Google Image advanced search](https://support.google.com/websearch/answer/29508?hl=en), [Creative Commons Search](https://search.creativecommons.org), [VectorStock](https://www.vectorstock.com), etc. Each site has clear attribution requirements: generally, this means that you need to cite the author/artist and link back to the original work in your course.&#x20;
+* **News Articles:** Linking directly to news articles is a great way to bring in outside opinions and connect your course to current events. Consider using the Internet Archive’s [Wayback Machine](https://archive.org/web/) or [Perma.cc](https://perma.cc/) to prevent link rot, and be mindful about not linking to articles with paywalls.
+* **Images and Icons:** Reuse images and icons from [Flickr](https://www.flickr.com/), [Unsplash](https://unsplash.com/), [The Noun Project](https://thenounproject.com/), [unDraw](https://undraw.co/), [Google Image advanced search](https://support.google.com/websearch/answer/29508?hl=en), [Creative Commons Search](https://search.creativecommons.org/), [VectorStock](https://www.vectorstock.com/), etc. Each site has clear attribution requirements: generally, this means that you need to cite the author/artist and link back to the original work in your course.&#x20;
 * **Open Educational Resources:** A number of platforms and individuals license their materials for free reuse, which often means that you choose between linking out to the original source and re-publishing their content directly on your site. We’ve [outlined many platforms](https://app.gitbook.com/@peer-2-peer-university/s/p2pu-knowledge-base/\~/drafts/-MXrQ5sgl9wlYpS1c4ys/courses/finding-courses/searching-courses) that utilize Creative Commons (or equivalent) licenses; be sure to familiarize yourself with the [various types](https://creativecommons.org/licenses/) of CC licenses before republishing anything.
 
 When in doubt, reach out! You might be surprised how responsive people are when you’re trying to share their work with new audiences.
@@ -62,7 +62,7 @@ Building on the [four-part meeting structure](https://app.gitbook.com/@peer-2-pe
 * **Project-based > theoretical:** Learning circles work well when participants are working towards a shared goal. Frame your learning circle more towards “Learn to Write Fiction” than “Composition 101”; more towards “Build a website” than “Intro to HTML/CSS”.
 * **Personal > “objective”:** You are human! Be clear about your expertise, perspective, and motivation in creating this course. Own your expertise, and don’t try and hide behind the cloak of objectivity.&#x20;
 * **Group discussion > user interaction:** Rely on the relationships formed in the learning circle rather than overbuilding interactivity into the course. Personal exploration comes through discussion questions, not quizzes.
-* **Clear > complicated:** Don’t use jargon or complex language when something simple will do. We like to run copy through the [Hemingway App](http://www.hemingwayapp.com) and target a Grade 8-10 reading level.
+* **Clear > complicated:** Don’t use jargon or complex language when something simple will do. We like to run copy through the [Hemingway App](http://www.hemingwayapp.com/) and target a Grade 8-10 reading level.
 * **Quality > quantity:** Where possible, provide a variety of forms of engagement. We like to mix up text, videos, downloadable handouts/exercises, and linking out to interactive tools and resources.
 * **Further exploration > homework:** Ideally, learners can have a successful learning circle experience without doing any homework outside of the meetings. That being said, your course doesn’t need to be an end-all-be-all: feel free to include opportunities for further work.
 * **Self/peer evaluation > exams:** Think about assessment as an opportunity for personal and group reflection, rather than a test that needs to be passed.
@@ -83,35 +83,35 @@ Regardless how you publish your course, make sure to add it to the [P2PU course 
 
 ### Course-in-a-Box
 
-[Course-in-a-Box](https://howto.p2pu.org) is P2PU’s tool for building and publishing online courses, built on the premise that you don’t need to spend money to produce a course that can stay around for a long time. While no prior coding experience is required to use Course-in-a-Box, it still provides great exposure to some of the building blocks of web development including HTML, CSS, Markdown, and Git. It’s free to use and 100% open source ([see GitHub repository](https://github.com/p2pu/course-in-a-box)), so you can adapt it to suit your needs however you choose.  Examples of courses built using Course-in-a-Box include:&#x20;
+[Course-in-a-Box](https://howto.p2pu.org/) is P2PU’s tool for building and publishing online courses, built on the premise that you don’t need to spend money to produce a course that can stay around for a long time. While no prior coding experience is required to use Course-in-a-Box, it still provides great exposure to some of the building blocks of web development including HTML, CSS, Markdown, and Git. It’s free to use and 100% open source ([see GitHub repository](https://github.com/p2pu/course-in-a-box)), so you can adapt it to suit your needs however you choose.  Examples of courses built using Course-in-a-Box include:&#x20;
 
 * [Making and Learning](http://p2pu.github.io/makingandlearning/) (Pittsburgh Children’s Museum)
 * [We Are AI](https://p2pu.github.io/we-are-ai/) (New York University)
-* [How to Talk About Race](http://how-to-talk-about-race.p2pu.org) (Amrita S. Patel and Denise LaForce)
+* [How to Talk About Race](http://how-to-talk-about-race.p2pu.org/) (Amrita S. Patel and Denise LaForce)
 * [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/) (P2PU)
 
 ### Browser-based word processor
 
-If Course-in-a-Box seems like a heavy lift, it may be sufficient to publish your course using a browser-based word processing tool like Google Docs, Dropbox Paper, or P2PU’s hosted version of [Etherpad](https://etherpad.p2pu.org). This is how P2PU publishes our Facilitator Guides, and there are more resources about that in the [Facilitator Guides](https://docs.p2pu.org/courses/facilitator-guides) section.
+If Course-in-a-Box seems like a heavy lift, it may be sufficient to publish your course using a browser-based word processing tool like Google Docs, Dropbox Paper, or P2PU’s hosted version of [Etherpad](https://etherpad.p2pu.org/). This is how P2PU publishes our Facilitator Guides, and there are more resources about that in the [Facilitator Guides](https://docs.p2pu.org/courses/facilitator-guides) section.
 
 ### Ready-to-use website builder
 
-[Wordpress.com](https://wordpress.com) remains the world’s most popular website builder, as it strikes a good balance between ease of use, customizability, and cost. This is what Jordan from Boston Public Library used to create their [series of courses](https://learntowritefiction.net) about fiction writing. There are plenty of [Wordpress alternatives](https://www.namecheap.com/wordpress/wordpress-vs-other-content-management-systems/), including Drupal, Joomla, and Squarespace, though beware: as customizability increases, so does cost.&#x20;
+[Wordpress.com](https://wordpress.com/) remains the world’s most popular website builder, as it strikes a good balance between ease of use, customizability, and cost. This is what Jordan from Boston Public Library used to create their [series of courses](https://learntowritefiction.net/) about fiction writing. There are plenty of [Wordpress alternatives](https://www.namecheap.com/wordpress/wordpress-vs-other-content-management-systems/), including Drupal, Joomla, and Squarespace, though beware: as customizability increases, so does cost.&#x20;
 
 ### **Static site generator + hosting solution**
 
-The most flexibility for minimal/no cost will come by combining an [open source, static site generator](https://www.staticgen.com) (e.g. Jekyll, Hugo, Eleventy) with a hosting solution (e.g. Github Pages, Netlify): this is the approach that we used to build [Course-in-a-Box](https://docs.google.com/document/d/116fJM3GS7XDzilUOL\_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.96685ia69v99). While highly customizable, this option requires either a technical background or a lot of motivation and patience.
+The most flexibility for minimal/no cost will come by combining an [open source, static site generator](https://www.staticgen.com/) (e.g. Jekyll, Hugo, Eleventy) with a hosting solution (e.g. Github Pages, Netlify): this is the approach that we used to build [Course-in-a-Box](https://docs.google.com/document/d/116fJM3GS7XDzilUOL\_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.96685ia69v99). While highly customizable, this option requires either a technical background or a lot of motivation and patience.
 
 ### Other directions
 
 There are plenty of other formats for hosting content on the web, some of which are explicitly designed for open educational resources. Popular options include:
 
-* Open textbook (e.g. [Libretext](https://libretexts.org), [Pressbooks](https://pressbooks.com), [EdTechBooks](https://edtechbooks.org))
-* Interactive online course (e.g. [H5P](https://h5p.org))
-* Discussion forum (e.g. [Discourse](https://www.discourse.org))
-* Blog (e.g. [Ghost](https://ghost.org), [Medium](https://www.google.com/search?q=medium\&rlz=1C5CHFA\_enUS726US727\&oq=medium\&aqs=chrome..69i57j0l4j69i60l3.1098j0j1\&sourceid=chrome\&ie=UTF-8), [Wordpress.org](https://wordpress.org))
+* Open textbook (e.g. [Libretext](https://libretexts.org/), [Pressbooks](https://pressbooks.com/), [EdTechBooks](https://edtechbooks.org/))
+* Interactive online course (e.g. [H5P](https://h5p.org/))
+* Discussion forum (e.g. [Discourse](https://www.discourse.org/))
+* Blog (e.g. [Ghost](https://ghost.org/), [Medium](https://www.google.com/search?q=medium\&rlz=1C5CHFA\_enUS726US727\&oq=medium\&aqs=chrome..69i57j0l4j69i60l3.1098j0j1\&sourceid=chrome\&ie=UTF-8), [Wordpress.org](https://wordpress.org/))
 * Wiki (e.g. [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main\_Page))
-* Learning management system (e.g. [Moodle](https://moodle.org), [Open edX](https://open.edx.org))
+* Learning management system (e.g. [Moodle](https://moodle.org/), [Open edX](https://open.edx.org/))
 
 
 
