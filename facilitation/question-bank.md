@@ -1,6 +1,19 @@
 # Question Bank
 
-The following questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars). You can use or adapt these questions for your facilitator guides and learning circles so that they fit your learning circle.&#x20;
+The following questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars). You can use or adapt these questions for your facilitator guides and learning circles so that they fit your learning circle. \
+\
+**TABLE OF CONTENTS:**
+
+1. [Accountability](https://docs.p2pu.org/facilitation/question-bank#accountability)
+2. [Advocacy for Self & Others](https://docs.p2pu.org/facilitation/question-bank#accountability)
+3. [Collaboration](https://docs.p2pu.org/facilitation/question-bank#collaboration)
+4. [Communication (Written, Oral, Visual)](https://docs.p2pu.org/facilitation/question-bank#communication-written-oral-visual)
+5. [Creativity](https://docs.p2pu.org/facilitation/question-bank#creativity)
+6. [Critical Thinking](https://docs.p2pu.org/facilitation/question-bank#critical-thinking)
+7. [Intercultural Engagement](https://docs.p2pu.org/facilitation/question-bank#intercultural-engagement)
+8. [Problem Solving](https://docs.p2pu.org/facilitation/question-bank#problem-solving)
+9. [Reflection](https://docs.p2pu.org/facilitation/question-bank#reflection)
+10. [Resilience](https://docs.p2pu.org/facilitation/question-bank#resilience)
 
 ### **Accountability**
 
