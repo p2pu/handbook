@@ -1,19 +1,19 @@
-# Question Bank
+# Discussion Questions
 
-The following questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars), and you can adapt these questions to use in [facilitator guides](https://docs.p2pu.org/courses/facilitator-guides) and [learning journals](https://docs.p2pu.org/credit-bearing-learning/nominating-a-course-for-credit#what-are-learning-journals) for your learning circle. \
+The following discussion questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars), and you can adapt these questions to use in [facilitator guides](../courses/facilitator-guides.md) and [learning journals](../credit-bearing-learning/learning-journals.md) for your learning circle. \
 \
 **TABLE OF CONTENTS:**
 
-1. [Accountability](https://docs.p2pu.org/facilitation/question-bank#accountability)
-2. [Advocacy for Self & Others](https://docs.p2pu.org/facilitation/question-bank#accountability)
-3. [Collaboration](https://docs.p2pu.org/facilitation/question-bank#collaboration)
-4. [Communication (Written, Oral, Visual)](https://docs.p2pu.org/facilitation/question-bank#communication-written-oral-visual)
-5. [Creativity](https://docs.p2pu.org/facilitation/question-bank#creativity)
-6. [Critical Thinking](https://docs.p2pu.org/facilitation/question-bank#critical-thinking)
-7. [Intercultural Engagement](https://docs.p2pu.org/facilitation/question-bank#intercultural-engagement)
-8. [Problem Solving](https://docs.p2pu.org/facilitation/question-bank#problem-solving)
-9. [Reflection](https://docs.p2pu.org/facilitation/question-bank#reflection)
-10. [Resilience](https://docs.p2pu.org/facilitation/question-bank#resilience)
+1. [Accountability](discussion-questions.md#accountability)
+2. [Advocacy for Self & Others](discussion-questions.md#advocacy-for-self-and-others)
+3. [Collaboration](discussion-questions.md#collaboration)
+4. [Communication (Written, Oral, Visual)](discussion-questions.md#communication-written-oral-visual)
+5. [Creativity](discussion-questions.md#creativity)
+6. [Critical Thinking](discussion-questions.md#critical-thinking)
+7. [Intercultural Engagement](discussion-questions.md#intercultural-engagement)
+8. [Problem Solving](discussion-questions.md#problem-solving)
+9. [Reflection](discussion-questions.md#reflection)
+10. [Resilience](discussion-questions.md#resilience)
 
 ### **Accountability**
 
