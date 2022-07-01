@@ -1,19 +1,19 @@
 # Discussion Questions
 
-The following discussion questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars), and you can adapt these questions to use in [facilitator guides](../courses/facilitator-guides.md) and [learning journals](../credit-bearing-learning/learning-journals.md) for your learning circle. \
+The following discussion questions are aligned with [College Unbound’s Big 10 competencies](https://collegeunbound.digication.com/Big10resources/my-co-curriculars), and you can adapt these questions to use in [facilitator guides](../courses/facilitator-guides.md) and [learning journals](../learning-for-college-credit/nominating-a-course-for-credit.md) for your learning circle. \
 \
 **TABLE OF CONTENTS:**
 
-1. [Accountability](discussion-questions.md#accountability)
-2. [Advocacy for Self & Others](discussion-questions.md#advocacy-for-self-and-others)
-3. [Collaboration](discussion-questions.md#collaboration)
-4. [Communication (Written, Oral, Visual)](discussion-questions.md#communication-written-oral-visual)
-5. [Creativity](discussion-questions.md#creativity)
-6. [Critical Thinking](discussion-questions.md#critical-thinking)
-7. [Intercultural Engagement](discussion-questions.md#intercultural-engagement)
-8. [Problem Solving](discussion-questions.md#problem-solving)
-9. [Reflection](discussion-questions.md#reflection)
-10. [Resilience](discussion-questions.md#resilience)
+1. [Accountability](question-bank.md#accountability)
+2. [Advocacy for Self & Others](question-bank.md#advocacy-for-self-and-others)
+3. [Collaboration](question-bank.md#collaboration)
+4. [Communication (Written, Oral, Visual)](question-bank.md#communication-written-oral-visual)
+5. [Creativity](question-bank.md#creativity)
+6. [Critical Thinking](question-bank.md#critical-thinking)
+7. [Intercultural Engagement](question-bank.md#intercultural-engagement)
+8. [Problem Solving](question-bank.md#problem-solving)
+9. [Reflection](question-bank.md#reflection)
+10. [Resilience](question-bank.md#resilience)
 
 ### **Accountability**
 

@@ -23,13 +23,14 @@
 * [Finding Participants](facilitation/finding-participants.md)
 * [Setting Up Meeting Spaces](facilitation/set-up-your-space.md)
 * [Facilitating Peer Learning](facilitation/facilitation-basics.md)
-* [Discussion Questions](facilitation/discussion-questions.md)
+* [Discussion Questions](facilitation/question-bank.md)
 * [Evaluate & Reflect](facilitation/evaluate-and-reflect.md)
 
-## Credit-Bearing Learning
+## Learning For College Credit
 
-* [Facilitator Resources](credit-bearing-learning/facilitator-resources.md)
-* [Nominating a Course for Credit](credit-bearing-learning/learning-journals.md)
+* [Facilitator Resources](learning-for-college-credit/facilitator-resources.md)
+* [Nominating a Course for Credit](learning-for-college-credit/nominating-a-course-for-credit.md)
+* [FAQs](learning-for-college-credit/faqs.md)
 
 ## Tools & Resources
 
