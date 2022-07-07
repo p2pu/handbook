@@ -6,19 +6,23 @@ description: Facilitator Guides and Learning Journals
 
 With support from Walmart, P2PU, College Unbound, and Providence Public Library have [developed a pathway](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/) from library-based learning circles to college credit. For now, this project is only open to individuals who have participated in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/)) using free online courses that have been vetted by CU (see below).
 
-The primary difference between standard learning circles and learning circles for credit is that credit-seeking participants must complete a personal **learning journal**, which includes a weekly reflection, a wrap-up activity in their learning circle, and a few assignments that are part of the course. All of this information is included in each learning journal for the course.
+The primary difference between standard learning circles and learning circles for credit is that credit-seeking participants must complete a personal **learning journal**, which includes a weekly reflection, a wrap-up activity in their learning circle, and a few assignments that are part of the course.&#x20;
 
-Once you've completed a credit-bearing training workshop, simply create a learning circle like you normally would and let us know you'd like it to be credit-bearing. We'll make sure you have all the right materials and that your learning circle shows up on the [CU signup page](https://www.p2pu.org/collegeunbound/) (if you want).&#x20;
+### Before the Learning Circle Begins
 
-### Currently Approved Courses
+1. Participate in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/) or [contact us](https://www.p2pu.org/en/help/)).
+2. Create a learning circle using one of the approved courses, or [nominate a new course for credit](nominating-a-course-for-credit.md).
+3. Reach out to us if you'd like to add your learning circle to the [CU signup page](https://www.p2pu.org/collegeunbound/) for increased promotional visibility.
+4. Add information about credit to your sign up page and promotional materials:
 
-| Public Speaking                                                                                                   | How to Talk about Race                                                                                       | Cyber Security                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [**Learning Journal**](https://docs.google.com/document/d/1UGBtpmgN1eN9t\_VSDjsL6fwIOVuC3spVtIE5C-oBYfI/edit)     | [**Learning Journal**](https://docs.google.com/document/d/1bab9ZBgPzXZ6oG-797ha9SRpE-tP9H1qgrqrh3NDL88/edit) | [**Learning Journal**](https://docs.google.com/document/d/17WK9r2OZkePF6V0vCKbYd7cuHX6vyJLAWflPbi\_ic7Y/edit)             |
-| [**Facilitator Guide**](https://docs.google.com/document/u/1/d/1Ee9qFinK6khLnabnZF7riY6sS39FHjn67bSP4PmVtHw/edit) | [**Facilitator Guide**](https://docs.google.com/document/d/1tiv1Y4ScGm4mVnJh4tUjCSzvCr44jaaI9\_fn5y36Hvk/)   | [**Facilitator Guide**](https://docs.google.com/document/d/1V0ouIfg7XvGZ2arI5WCRi24QUcLzcpofV7d8rclYWlY/edit?usp=sharing) |
+> Participants in this learning circle have the option to earn college credit from College Unbound. In order to earn credit, you must complete a learning journal while participating in the learning circle. For more information, [refer to the FAQs](https://docs.p2pu.org/frequently-asked-questions#credit-bearing-faqs).&#x20;
 
-|                                                         Art of Storytelling                                                        |                                                    Design Thinking for Innovation                                                   |                                                  Leveraging Learning from Life                                                 |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|    [**Learning Journal**](https://docs.google.com/document/d/1oE9Bf047T1PMfXGGpDylEj44G7vkByj8YhgkQULK-z8/edit?usp=sharing)****    |    [**Learning Journal**](https://docs.google.com/document/d/1LioHgfOC8IuNg\_7JgyOPzHPvw2-I9xYAahXb7yV2-W4/edit?usp=sharing)****    | [**Learning Journal**](https://docs.google.com/document/d/15D6dmGGE1vc\_X0mLLmGB3Gnf3vs9yXa2IOUJ7\_3xzGU/edit?usp=sharing)**** |
-| ****[**Facilitator Guide**](https://docs.google.com/document/d/10SOAK7Ix6OgjT8fcIlWInew\_phDn-RlGEUaKfZvqF9o/edit?usp=sharing)**** | ****[**Facilitator Guide**](https://docs.google.com/document/d/16M7IlB83-isEZLq\_Gu1BXwgCMSWylT9Y7PFirgO\_1H8/edit?usp=sharing)**** |  [**Facilitator Guide**](https://docs.google.com/document/d/13KvnnifqmT7pUNR4hekJd0fPyc7nEkUWBILQdkoxfG0/edit?usp=sharing)**** |
+### During the Learning Circle
+
+1. During the first meeting, make sure everybody who wants to apply for credit has their own copy of the learning journal, referring to [our learner FAQs](../frequently-asked-questions.md#credit-bearing-faqs) as needed.
+2. Remind participants that you will not be grading our correcting the learning journal. All questions about the learning journals and credit process should be submitted to collegeunbound@p2pu.org.
+3. Throughout the learning circle, you can check in on participants who are seeking credit to make sure they are keeping up with their weekly learning journal questions.
+4. When the learning circle ends, remind participants that they have an additional three weeks to submit their completed learning journal to collegeunbound@p2pu.org in order to earn credit.
+
+
 
