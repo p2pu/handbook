@@ -11,7 +11,7 @@ The primary difference between standard learning circles and learning circles fo
 ### Before the Learning Circle Begins
 
 1. Participate in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/) or [contact us](https://www.p2pu.org/en/help/)).
-2. Create a learning circle using one of the approved courses, or [nominate a new course for credit](nominating-a-course-for-credit.md).
+2. Create a learning circle using one of the [approved courses](currently-approved-courses.md), or [nominate a new course for credit](nominating-a-course-for-credit.md).
 3. Reach out to us if you'd like to add your learning circle to the [CU signup page](https://www.p2pu.org/collegeunbound/) for increased promotional visibility.
 4. Add information about credit to your sign up page and promotional materials:
 
