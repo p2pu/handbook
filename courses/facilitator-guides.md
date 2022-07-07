@@ -21,7 +21,7 @@ Read on to learn more about ways to use facilitator guides!
 
 Many online courses are designed for individual study, and this material doesn't always fit neatly into a learning circle structure. Here are some ways you can use facilitator guides to adapt courses to a learning circle format:&#x20;
 
-* Add [check-ins](https://handbook.p2pu.org/methodology/learning-circle-structure#check-in), [group activities](../methodology/learning-circle-structure.md#learn-and-do), and [reflections](https://handbook.p2pu.org/methodology/learning-circle-structure#check-in) to deepen learners' engagement with the course content
+* Add [check-ins](../methodology/learning-circle-structure.md#check-in), [group activities](../methodology/learning-circle-structure.md#learning-formats), and [reflections](../methodology/learning-circle-structure.md#reflection) to deepen learners' engagement with the course content
 * Change the length of time devoted to covering a section of the course
   * Example: A free online course is structured into 4 weeks of 2-hour-long sessions, but your learning circle group can only meet for 60 minutes at a time. Use a facilitator guide to break up the content into 8 weeks of 60-minute-long sessions.
 
