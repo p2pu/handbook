@@ -10,6 +10,8 @@ The primary difference between standard learning circles and learning circles fo
 
 Once you've completed a credit-bearing training workshop, simply create a learning circle like you normally would and let us know you'd like it to be credit-bearing. We'll make sure you have all the right materials and that your learning circle shows up on the [CU signup page](https://www.p2pu.org/collegeunbound/) (if you want).&#x20;
 
+### Currently Approved Courses
+
 | Public Speaking                                                                                                   | How to Talk about Race                                                                                       | Cyber Security                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | [**Learning Journal**](https://docs.google.com/document/d/1UGBtpmgN1eN9t\_VSDjsL6fwIOVuC3spVtIE5C-oBYfI/edit)     | [**Learning Journal**](https://docs.google.com/document/d/1bab9ZBgPzXZ6oG-797ha9SRpE-tP9H1qgrqrh3NDL88/edit) | [**Learning Journal**](https://docs.google.com/document/d/17WK9r2OZkePF6V0vCKbYd7cuHX6vyJLAWflPbi\_ic7Y/edit)             |
