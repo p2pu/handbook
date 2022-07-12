@@ -4,7 +4,14 @@ description: The following courses are currently approved for credit.
 
 # Currently Approved Courses
 
-To start a learning circle using one of these courses, search for it on P2PU's [learning resources page](https://p2pu.org/learning-resources) and create a learning circle as you would for any other course.
+Each of these courses is eligible to receive one credit hour from College Unbound. To start a learning circle using one of these courses, search for it on P2PU's [learning resources page](https://p2pu.org/learning-resources) and create a learning circle as you would for any other course.
+
+
+
+|                                                     Act on Climate                                                     |                                              Journalism for Social Change                                             |                                                           Science of Well-Being                                                           |
+| :--------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                             _Learning Journal forthcoming_                                             |                                             _Learning Journal forthcoming_                                            |                                                       _Learning Journal forthcoming_                                                      |
+| ****[**Facilitator Guide**](https://docs.google.com/document/d/1nVZFzUTnPqClcz5NqiJqmPZC79qhG3XXg-e7pn0N\_-Y/edit)**** | ****[**Facilitator Guide**](https://docs.google.com/document/d/13dF7O2Y-WMj9cH0QiT60PqDikPWA5wDa96vla2iDIh4/edit)**** | [**Facilitator Guide**](https://docs.google.com/document/d/1LLjtVv8bda5Lp5VINjrJd4DLKLyBREiJRBiDs\_nXuzg/edit#heading=h.c6klikgukw8h)**** |
 
 |                                                         Art of Storytelling                                                        |                                                    Design Thinking for Innovation                                                   |                                                  Leveraging Learning from Life                                                 |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
