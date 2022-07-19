@@ -30,9 +30,9 @@ Below that is a yellow bar containing the following tools:
 
 All registered learners will appear in the Learners section of the page. This will display their full name and any contact information—email and/or phone—they've shared during sign-up. There are three buttons linked to each learner:
 
-| ![](../../.gitbook/assets/screen-shot-2021-04-22-at-2.39.16-pm.png) | ![](<../../.gitbook/assets/screen-shot-2021-04-22-at-2.39.20-pm (1).png>) | ![](../../.gitbook/assets/screen-shot-2021-04-22-at-2.39.23-pm.png) |
-| :-----------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|             **Edit** the learner's contact information              |    **Delete** the learner from the learning circle and P2PU's database    |       **See** the learner's response to the sign-up questions       |
+| ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.16 PM (1).png>) | ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.20 PM (1).png>) | ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.23 PM.png>) |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+|                **Edit** the learner's contact information                 |    **Delete** the learner from the learning circle and P2PU's database    |        **See** the learner's response to the sign-up questions        |
 
 The **Add Learner** button can be used to manually add participants to a learning circle. This only allows for adding a participant's name and contact information, not their answers to the sign-up questions. Note that this will automatically send a welcome message to the participant to let them know they've joined a learning circle.
 

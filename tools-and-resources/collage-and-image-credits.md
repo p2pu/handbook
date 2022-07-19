@@ -51,7 +51,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * **Learn better together:** _Lunch Hour_ via Smithsonian American Art Museum and its Renwick Gallery ([1971.214](https://www.si.edu/object/lunch-hour:saam\_1971.214))
 * **Access for all:** _United States National Museum Library_ via Smithsonian Libraries and Archives ([MAH-3666](https://www.si.edu/object/united-states-national-museum-library:siris\_arc\_389215))
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 #### **Join the Community:**
 
