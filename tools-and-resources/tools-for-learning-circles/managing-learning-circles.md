@@ -12,7 +12,7 @@ The facilitator will receive a confirmation email with links to both the sign-up
 
 ### Menu Tools&#x20;
 
-![](<../../.gitbook/assets/menu (1).png>)
+![](../../.gitbook/assets/menu.png)
 
 The top section of the page shows a preview of the learning circle's information: title, image, facilitator info, link to the course materials, and meeting details.&#x20;
 
@@ -30,9 +30,9 @@ Below that is a yellow bar containing the following tools:
 
 All registered learners will appear in the Learners section of the page. This will display their full name and any contact information—email and/or phone—they've shared during sign-up. There are three buttons linked to each learner:
 
-| ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.16 PM (1).png>) | ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.20 PM (1).png>) | ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.23 PM.png>) |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-|                **Edit** the learner's contact information                 |    **Delete** the learner from the learning circle and P2PU's database    |        **See** the learner's response to the sign-up questions        |
+| ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.16 PM.png>) | ![](<../../.gitbook/assets/Screen Shot 2021-04-22 at 2.39.20 PM.png>) | ![](../../.gitbook/assets/screen-shot-2021-04-22-at-2.39.23-pm.png) |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|              **Edit** the learner's contact information               |  **Delete** the learner from the learning circle and P2PU's database  |       **See** the learner's response to the sign-up questions       |
 
 The **Add Learner** button can be used to manually add participants to a learning circle. This only allows for adding a participant's name and contact information, not their answers to the sign-up questions. Note that this will automatically send a welcome message to the participant to let them know they've joined a learning circle.
 
@@ -58,7 +58,7 @@ Facilitators can choose to manually send **meeting recap messages** to send out 
 
 The meeting manager offers another way to manage automated and manual email reminders.
 
-![The expanded Wrap Up section view within the Meeting Manager](<../../.gitbook/assets/Wrap Up.png>)
+![The expanded Wrap Up section view within the Meeting Manager](<../../.gitbook/assets/image (10).png>)
 
 The expanded Wrap Up section displays whether participants have taken the learner survey and provides a link to Learning Circle insights ([example](https://learningcircles.p2pu.org/en/studygroup/923/report/)).
 

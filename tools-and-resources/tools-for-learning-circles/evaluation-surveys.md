@@ -68,4 +68,4 @@ Ratings and typed information from this survey is moderated to check for persona
 
 The Wrap Up section of the Meeting Manager view contains links to view your learning circle insights ([example here](https://learningcircles.p2pu.org/en/studygroup/923/report/)). Choosing "Download Data" will create an exported .csv file with survey result data.
 
-![](<../../.gitbook/assets/Wrap Up.png>)
+![](<../../.gitbook/assets/image (10).png>)

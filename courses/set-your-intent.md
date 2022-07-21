@@ -43,7 +43,7 @@ If you want to use the Q Method in person, we've created a few templates you can
 
 To edit your own copy, click "view template" underneath the previews below; once you've opened the file, navigate to **File > Make Copy** to save a version in your own Google Drive.
 
-| <img src="../.gitbook/assets/Q Method - Poster.jpg" alt="" data-size="original">                                                                                 | <p></p><p><img src="../.gitbook/assets/Q Method Template.jpg" alt=""></p>                                                                                 |
+| <img src="../.gitbook/assets/q-method-poster.jpg" alt="" data-size="original">                                                                                   | <p></p><p><img src="../.gitbook/assets/q-method-template.jpg" alt=""></p>                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **18x24" Poster (**[**view template**](https://docs.google.com/presentation/d/1cZGxxRuC83qkD95dt1-mZ1vALDUxgup4C-tp9W-D3yI/edit#slide=id.gd36be7eca8\_0\_0)**)** | **8.5x11" Poster Series (**[**view template**](https://docs.google.com/presentation/d/1UgIZQa0LQxJihHXadUk-71pURHRe3WjBjXhLmD5iYG4/edit#slide=id.p)**)**  |
 

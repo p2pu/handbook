@@ -59,7 +59,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 * _Handwritten Note, Manuscript Page of Knitting Instructions_ via Cooper Hewitt, Smithsonian Design Museum ([2000-69-1264](https://collection.cooperhewitt.org/objects/18683907/))
 * _Library date due slip_ via Labratmatt, CC BY-SA 4.0, Wikimedia Commons ([source](https://commons.wikimedia.org/wiki/File:Library\_date\_due\_slip.jpg))
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 #### **Start a Team:**
 
@@ -78,7 +78,7 @@ Below we’ve shared a few of our favorite sources for open-access imagery to in
 
 ## Learning Resources
 
-#### ![](<../.gitbook/assets/antiracism (1).jpg>)
+#### ![](../.gitbook/assets/antiracism.jpg)
 
 #### Antiracism
 

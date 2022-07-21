@@ -53,7 +53,7 @@ Feedback is an important part of peer learning, and P2PU’s tools help gather a
 
 You can learn how to view, edit, and create messages by visiting [Managing Learning Circles](https://docs.p2pu.org/tools-and-resources/tools-for-learning-circles/managing-learning-circles#messages). Here is the type of communication that you can expect during a learning circle:
 
-![P2PU Feedback Tools](<../../.gitbook/assets/feedback tools graphic (1).png>)
+![P2PU Feedback Tools](<../../.gitbook/assets/feedback tools graphic.png>)
 
 #### At sign up <a href="#at-sign-up" id="at-sign-up"></a>
 
