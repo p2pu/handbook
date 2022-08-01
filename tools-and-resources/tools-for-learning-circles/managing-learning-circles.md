@@ -1,6 +1,6 @@
 # Managing Learning Circles
 
-Once a [new learning circle has been created](creating-learning-circles.md) (either as a draft or after being published), P2PU will automatically generate a sign-up page and a private management page associated with that learning circle.&#x20;
+Once a [new learning circle has been created](https://docs.p2pu.org/tools-and-resources/tools-for-learning-circles/creating-learning-circles) (either as a draft or after being published), P2PU will automatically generate a sign-up page and a private management page associated with that learning circle.&#x20;
 
 The facilitator will receive a confirmation email with links to both the sign-up page and the private management page, which can also be accessed through their dashboard in the **My Learning Circles** section.
 
