@@ -24,8 +24,8 @@ Creating a learning circle is a 5-step process:
 
 ![Signup page used by learners to join  your learning circle](<../../.gitbook/assets/learning circle signup page.png>)
 
-Once you complete the creation process and publish your learning circle (either as a draft or a public circle), your sign-up page will automatically generated and look something like this:
+Once you complete the creation process and publish your learning circle (either as a draft or a public circle), your sign-up page will automatically be generated (see above image for an example).
 
-You’ll receive a confirmation email which includes the link to your sign up page and a number of other resources. The P2PU Welcome Committee (a mix of P2PU staff and community members) will be copied on the email; if you asked for any help on Step 5, someone will reach out to ensure that your concerns are addressed before the learning circle begins.&#x20;
+You’ll receive a confirmation email, which includes the link to your sign-up page and a number of other resources. The P2PU Welcome Committee (a mix of P2PU staff and community members) will be copied on the email; if you asked for any help on Step 5, someone will reach out to ensure that your concerns are addressed before the learning circle begins.&#x20;
 
-You can manage your learning circle at any time through your [Facilitator Dashboard](untitled.md).&#x20;
+You can manage your learning circle at any time through your [Facilitator Dashboard](https://docs.p2pu.org/tools-and-resources/tools-for-learning-circles/untitled).
