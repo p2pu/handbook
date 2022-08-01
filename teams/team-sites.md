@@ -2,11 +2,11 @@
 
 Each team is set up with a unique learning circle landing page hosted on P2PU.org (_p2pu.org/your-team_) which includes an introduction to your learning circle program, a gallery of your facilitators, and a searchable list of your team's current and past learning circles. (See [Current Teams](https://www.p2pu.org/en/about/#teams) for site examples)
 
-![The editable fields of a P2PU team page.](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/team-page-editable-fields.jpg)
+![P2PU Teams can edit their Name, Header image, About Us section, and Organizer information. ](<../.gitbook/assets/Boston Public Library.png>)
 
-All active learning circles happening across your team will automatically appear below the header, accompanied by an FAQ for learners.
+All active learning circles happening across your team will automatically appear below the header.
 
-![Three learning circles facilitated by three unique facilitators.](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/team-page-bottom.png)
+![Three learning circles facilitated by three unique facilitators.](<../.gitbook/assets/Chicago Public Library.png>)
 
 ### Editing Your Team Site
 
