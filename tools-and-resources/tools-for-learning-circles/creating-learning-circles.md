@@ -2,7 +2,7 @@
 
 P2PU offers a free system for creating and managing learning circle meetings. Once you've created a P2PU account and decided what learning circle you want to run, you can create your learning circle and publish it to the world.
 
-#### **Create a learning circle:** [**https://learningcircles.p2pu.org/en/studygroup/create/**](https://learningcircles.p2pu.org/en/studygroup/create/)&#x20;
+#### **Create a learning circle:** [**learningcircles.p2pu.org/en/studygroup/create/**](https://learningcircles.p2pu.org/en/studygroup/create/)&#x20;
 
 ## Video: How to Create a Learning Circle (18m)
 
