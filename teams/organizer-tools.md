@@ -14,7 +14,7 @@ Adding or inviting a facilitator to your team will enable a variety functions:
 
 Once your P2PU account is set up as an organizer, you will see a new block on your learning circle dashboard called _Team Management_, where you can view and invite members to your team.&#x20;
 
-![Team Management block on organizer's dashboard.](<../../.gitbook/assets/team-page-edit (1).png>)
+![Team Management block on organizer's dashboard.](<../.gitbook/assets/team-page-edit (1).png>)
 
 ‌There are three ways to invite people to join your team:
 
@@ -38,5 +38,10 @@ All P2PU account holders can update their profiles through [account settings](ht
 
 ![\_images/team-page-facilitator-profile.png](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/team-page-facilitator-profile.png)
 
+### Adding a co-facilitator
 
+[Co-facilitation](https://docs.p2pu.org/facilitation/facilitation-basics#working-with-a-co-facilitator) is a great way to share facilitation responsibilities with colleagues. Teams members have the added benefit of adding co-facilitators to their learning circles. This function allows all co-facilitators to edit the learning circle, view messages from learners, and submit feedback at the end of the learning circle.
 
+Teams members can add a co-facilitator during the final step of the learning circle creation process. You can edit your learning circle to add or remove co-facilitators at any time.&#x20;
+
+![Teams can add a co-facilitator during the final step of learning circle creation](../.gitbook/assets/co-facilitator.png)
