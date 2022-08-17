@@ -44,7 +44,7 @@ You can also find support from working with a colleague or two within your organ
 * Managing chat
 * Asynchronous support/tech support
 
-Teams members have the added functionality of adding a co-facilitator during the learning circle creation flow. Learn more about this feature here.
+Teams members have the added functionality of adding a co-facilitator during the learning circle creation flow. Learn more about this feature [here](https://docs.p2pu.org/teams/facilitator-support#adding-a-co-facilitator).
 
 ### **Providing technical support**
 
