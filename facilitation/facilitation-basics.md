@@ -44,6 +44,8 @@ You can also find support from working with a colleague or two within your organ
 * Managing chat
 * Asynchronous support/tech support
 
+Teams members have the added functionality of adding a co-facilitator during the learning circle creation flow. Learn more about this feature here.
+
 ### **Providing technical support**
 
 The supportive environment of learning circles can attract individuals with limited digital skills, and it might be their first time taking an online course. In these cases, it is essential to provide technical support so these learners can keep up with the rest of the group. In a face-to-face setting, you can demonstrate how to navigate the online course. In a virtual meeting, suggest tutorials to help them use video conferencing systems. You can also directly share the links to specific materials, such as lectures and course modules. Learners with limited digital skills also have [lower exposure to lifelong learning opportunities](https://www.pewresearch.org/internet/2016/03/22/lifelong-learning-and-technology/), so your help can open myriad possibilities for them!&#x20;

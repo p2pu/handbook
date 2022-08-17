@@ -34,14 +34,7 @@ Organizers can remove team members through the same management table. When a tea
 
 ### Facilitator Profiles
 
-All P2PU account holders can update their profiles through [account settings](https://learningcircles.p2pu.org/en/accounts/settings/\)). In addition to appearing on learning circle sign up pages, their avatar will also appear on the team page carousel. Team members who have uploaded a photo will appear first, followed by others with a placeholder image (example below). Organizers should encourage facilitators to add an image so that they can be fully featured on their team site!
+All P2PU account holders can update their profiles through [account settings](https://learningcircles.p2pu.org/en/accounts/settings/\)). In addition to appearing on learning circle signup pages, their avatar will also appear on the team page carousel. Team members who have uploaded a photo will appear first, followed by others with a placeholder image (example below). Organizers should encourage facilitators to add an image so that they can be fully featured on their team site!
 
 ![\_images/team-page-facilitator-profile.png](https://learning-circles-user-manual.readthedocs.io/en/latest/\_images/team-page-facilitator-profile.png)
 
-### Adding a co-facilitator
-
-[Co-facilitation](https://docs.p2pu.org/facilitation/facilitation-basics#working-with-a-co-facilitator) is a great way to share responsibilities with colleagues. Teams members have the added benefit of adding co-facilitators to their learning circles. This function allows all co-facilitators to edit the learning circle, view messages from learners, and submit feedback at the end of the learning circle.
-
-Teams members can add a co-facilitator during the final step of the learning circle creation process. You can edit your learning circle to add or remove co-facilitators at any time.&#x20;
-
-![Teams can add a co-facilitator during the final step of learning circle creation](../.gitbook/assets/co-facilitator.png)
