@@ -31,7 +31,7 @@
 * [Credit-Bearing Resources](learning-for-college-credit/facilitator-resources.md)
 * [Courses Approved for Credit](learning-for-college-credit/currently-approved-courses.md)
 * [Learning Journals](learning-for-college-credit/nominating-a-course-for-credit.md)
-* [FAQs](learning-for-college-credit/faqs.md)
+* [FAQs: Learning for Credit](learning-for-college-credit/faqs.md)
 
 ## Tools & Resources
 
