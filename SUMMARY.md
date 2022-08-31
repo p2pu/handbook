@@ -28,7 +28,7 @@
 
 ## Learning For College Credit
 
-* [Facilitator Resources](learning-for-college-credit/facilitator-resources.md)
+* [Credit-Bearing Resources](learning-for-college-credit/facilitator-resources.md)
 * [Currently Approved Courses](learning-for-college-credit/currently-approved-courses.md)
 * [Learning Journals](learning-for-college-credit/nominating-a-course-for-credit.md)
 * [FAQs](learning-for-college-credit/faqs.md)

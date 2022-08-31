@@ -1,8 +1,8 @@
 ---
-description: Facilitator Guides and Learning Journals
+description: An introduction for credit-bearing facilitators
 ---
 
-# Facilitator Resources
+# Credit-Bearing Resources
 
 With support from Walmart, P2PU, College Unbound, and Providence Public Library have [developed a pathway](https://info.p2pu.org/2021/07/21/bringing-college-credits-to-libraries-with-peer-led-learning-circles/) from library-based learning circles to college credit. For now, this project is only open to individuals who have participated in a P2PU credit-bearing learning circle training ([see upcoming events](https://www.p2pu.org/en/events/)) using free online courses that have been vetted by CU (see below).
 
@@ -24,5 +24,9 @@ The primary difference between standard learning circles and learning circles fo
 3. Throughout the learning circle, you can check in on participants who are seeking credit to make sure they are keeping up with their weekly learning journal questions.
 4. When the learning circle ends, remind participants that they have an additional three weeks to submit their completed learning journal to collegeunbound@p2pu.org in order to earn credit.
 
+### Nominating a Course for Credit
 
+Once we've approved a new course, the next step is to create the learning journal that participants will use to document their learning experience (while facilitator guides are also helpful, they aren't mandatory for the credit process).
+
+We advise that you don't spend too much time building the learning journal before your course is proposed for credit. Once it is, we'll help you get it ready!
 
