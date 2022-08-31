@@ -26,7 +26,5 @@ The primary difference between standard learning circles and learning circles fo
 
 ### Nominating a Course for Credit
 
-Once we've approved a new course, the next step is to create the learning journal that participants will use to document their learning experience (while facilitator guides are also helpful, they aren't mandatory for the credit process).
-
-We advise that you don't spend too much time building the learning journal before your course is proposed for credit. Once it is, we'll help you get it ready!
+If you're interested in proposing a new course for college credit, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFmtTCY4tHeHLg7tIl-utnD8DsdvCDDfxFkWjRLj1ioDIVGg/viewform) out to the best of your ability. We will respond to you within two days. For courses that have already been approved, visit[ Courses Approved for Credit](currently-approved-courses.md).
 

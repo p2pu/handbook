@@ -2,9 +2,9 @@
 description: The following courses are currently approved for credit.
 ---
 
-# Currently Approved Courses
+# Courses Approved for Credit
 
-Each of these courses is eligible to receive **one credit hour** from College Unbound. To start a learning circle using one of these courses, search for it on P2PU's [learning resources page](https://p2pu.org/learning-resources) and create a learning circle as you would for any other course.
+Each of these courses is eligible for credit from College Unbound. To start a learning circle using one of these courses, search for it on P2PU's [learning resources page](https://p2pu.org/learning-resources) and create a learning circle as you would for any other course.
 
 
 
