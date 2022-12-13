@@ -28,4 +28,12 @@ The primary difference between standard learning circles and learning circles fo
 
 If you're interested in proposing a new course for college credit, complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeFmtTCY4tHeHLg7tIl-utnD8DsdvCDDfxFkWjRLj1ioDIVGg/viewform). We will respond to you within two days, and if we approve your proposal, P2PU will help you create a [learning journal](https://docs.p2pu.org/learning-for-college-credit/nominating-a-course-for-credit) for the course.&#x20;
 
+When nominating a course using the [Learning Circles for College Credit](https://docs.google.com/forms/d/e/1FAIpQLSeFmtTCY4tHeHLg7tIl-utnD8DsdvCDDfxFkWjRLj1ioDIVGg/viewform) form, please keep the following in mind:
+
+1. More is better, even if sketchy: The more information you give us on the form, including your initial ideas and questions, the better we will be able to guide you on setting up this learning circle. In other words, this form isn’t a test but a tool to help us help you create an awesome learning circle through which participants can earn college credit.&#x20;
+2. Links to the supporting MOOCs, resources, sites, etc are super helpful for us.
+3. When answering the questions about learning outcomes, levels, and Big 10 competencies, just go with your best guess. Don’t stress over these questions.&#x20;
+4. We can help with final projects, but we’d also love to hear your ideas about what might (and possibly what might not) work.
+5. Give it a go, and we’ll get back to you with feedback!
+
 To find courses that have already been approved, visit[ Courses Approved for Credit](currently-approved-courses.md).
