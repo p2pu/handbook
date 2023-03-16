@@ -22,17 +22,17 @@ Our [topic guides](https://www.p2pu.org/en/learning-resources/) help facilitator
 
 P2PU maintains a space where the learning circle community can collect and share open courses found from across the web. With a few exceptions, P2PU does not create or own this content—it is primarily a curated list. Materials added to this list are moderated and removed if they are duplicated, no longer available, or otherwise inappropriate for learning circles.
 
-Facilitators are not limited to the materials in the P2PU [course library](https://www.p2pu.org/en/learning-resources/). Anybody with a P2PU account can add a course to the P2PU course library by filling out the "[Add a Course](https://learningcircles.p2pu.org/en/course/create/)" form which asks for the following information:
+Facilitators are not limited to the materials in the P2PU [learning resource library](https://www.p2pu.org/en/learning-resources/). Anybody with a P2PU account can add a learning resource to the P2PU library by filling out the "[Add a Resource](https://learningcircles.p2pu.org/en/course/create/)" form which asks for the following information:
 
-* **Course title**
-* **Course website link**
-* **Course platform** (e.g. Coursera, edX, FutureLearn, Udacity)
-* **Course creator** (e.g. MIT, University of Michigan, Khan Academy)
-* **Short Course description** (1-2 sentences that describe what people will accomplish if they take this course. This description is what learners will see when signing up for learning circles, and what facilitators will see when selecting a course.)
-* **Availability** (indicates if the course is openly licensed or on-demand, meaning that there are no scheduled start and end dates for course availability)
-* **Topic tags** (a few topics that will help learners and future facilitators find this course)
-* **Language of the course materials**
-* **Course license** (copyright status of the materials, often found on the course or provider's page)
+* **Title**
+* **Creator** (e.g. MIT, University of Michigan, Khan Academy)
+* **Format** (the type of resource)
+* **URL:** Where the resource (or information about the resource, such as a publisher's description of a book) can be accessed
+* **Description** (Write 1-2 sentences describing what people will learn from this resource. This is what learners will see when signing up for learning circles, and what facilitators will see when selecting a resource.)
+* **Topics** (Add your resource to one of P2PU’s existing [topic guides](https://www.p2pu.org/en/topics/).)
+* **Keywords** (Select or create a few keywords that will help learners and future facilitators find this resource.)
+* **Language**
+* **License** (copyright status of the materials, often found on the course or provider's page)
 
 This information is shared on detail pages for each individual course. These pages are updated automatically to include details about how the materials have been used for learning circles, including:
 
