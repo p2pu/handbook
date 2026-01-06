@@ -8,7 +8,7 @@ The facilitator will receive a confirmation email with links to both the sign-up
 
 ## Sections of the Management Page
 
-![Overview of the Learning Circles Management page](<../../.gitbook/assets/screencapture-staging-learningcircles-p2pu-org-en-studygroup-57-2021-12-08-10\_12\_07 (2).png>)
+![Overview of the Learning Circles Management page](<../../.gitbook/assets/screencapture-staging-learningcircles-p2pu-org-en-studygroup-57-2021-12-08-10_12_07 (2).png>)
 
 ### Menu Tools&#x20;
 
@@ -37,6 +37,18 @@ All registered learners will appear in the Learners section of your dashboard. T
 The **Add Learner** button can be used to manually add participants to a learning circle. This only allows for adding a participant's name and contact information, not their answers to the sign-up questions. Note that this will automatically send a welcome message to the participant to let them know they've joined a learning circle.
 
 If you would like to add multiple learners to your learning circle at the same time, click the **Add Learner** button, then choose **Click here to add multiple learners at once.** This feature is particularly useful for learning circles that use physical signup sheets for learners.
+
+#### Limiting learning circle signups
+
+You can specify a maximum number of learners that can sign up for a learning circle. Once this maximum has been reached no further signups will be possible.
+
+The number of signups can be specified when creating a new learning circle or it can be updated for an existing learning circle.
+
+By default signups are unlimited.
+
+**Please note** that in our experience the number of learners showing up for a learning circle can be anything from a few more people to less than half of those who signed up.
+
+We do not currently have a waiting list feature, but please let us know if that is something you are interested in.
 
 ### **Messages**
 
